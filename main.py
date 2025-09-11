@@ -51,16 +51,14 @@ def format_hashtags(response):
     category_name = "Happiness"
 
     formatted_data = {
-        "Popular": {
-            category_name: hashtags_list
-        }
+        category_name: hashtags_list
     }
     return formatted_data
 
 
 if __name__ == '__main__':
     # Example prompt
-    custom_prompt = "Generate 15 hashtags for related Travel, food, movie with uses count in short form Output in CSV"
+    custom_prompt = "Generate 15 hashtags related to travel, food, movie with uses count in short form output in CSV"
     api_response = call_gemini_api(custom_prompt)
 
     # Format the data
