@@ -1,8 +1,8 @@
 name: Fetch Gemini Data
 
 on:
-  # schedule:
-  # - cron: "14 * * * *"  # Runs once every hour at 14 minutes past
+  schedule:
+    - cron: "1 * * * *"  # Runs once every hour at 1 minute past
   push:
     branches: [ main ]
   workflow_dispatch:
@@ -26,9 +26,9 @@ jobs:
       - name: Run script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python fetch_gemini.py
+        run: python main.py
 
-      - name: Commit and push data.json
+      - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
