@@ -1,0 +1,66 @@
+{
+    "Popular": {
+        "Happiness": [
+            {
+                "tag": "#travel",
+                "uses_count": "100M+"
+            },
+            {
+                "tag": "#travelphotography",
+                "uses_count": "50M+"
+            },
+            {
+                "tag": "#travelgram",
+                "uses_count": "40M+"
+            },
+            {
+                "tag": "#wanderlust",
+                "uses_count": "30M+"
+            },
+            {
+                "tag": "#instatravel",
+                "uses_count": "25M+"
+            },
+            {
+                "tag": "#travelblogger",
+                "uses_count": "20M+"
+            },
+            {
+                "tag": "#adventure",
+                "uses_count": "18M+"
+            },
+            {
+                "tag": "#explore",
+                "uses_count": "15M+"
+            },
+            {
+                "tag": "#vacation",
+                "uses_count": "12M+"
+            },
+            {
+                "tag": "#traveltheworld",
+                "uses_count": "10M+"
+            },
+            {
+                "tag": "#traveling",
+                "uses_count": "9M+"
+            },
+            {
+                "tag": "#photography",
+                "uses_count": "8M+"
+            },
+            {
+                "tag": "#holiday",
+                "uses_count": "7M+"
+            },
+            {
+                "tag": "#tourism",
+                "uses_count": "6M+"
+            },
+            {
+                "tag": "#nature",
+                "uses_count": "5M+"
+            }
+        ]
+    }
+}
