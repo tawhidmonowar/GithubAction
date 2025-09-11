@@ -7,7 +7,7 @@ def call_gemini_api(prompt: str):
     if not api_key:
         raise ValueError("Missing GEMINI_API_KEY environment variable")
 
-    url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-lite:generateContent"
+    url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent"
     headers = {"Content-Type": "application/json"}
     params = {"key": api_key}
     payload = {
