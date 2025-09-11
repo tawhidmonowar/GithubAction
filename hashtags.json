@@ -2,63 +2,63 @@
     "Happiness": [
         {
             "tag": "#travel",
-            "uses_count": "#travel: 750M+"
+            "uses_count": "#travelgram-120M"
         },
         {
             "tag": "#food",
-            "uses_count": "#food: 600M+"
-        },
-        {
-            "tag": "#movie",
-            "uses_count": "#movie: 450M+"
-        },
-        {
-            "tag": "#travelgram",
-            "uses_count": "#travelgram: 250M+"
-        },
-        {
-            "tag": "#foodie",
-            "uses_count": "#foodie: 300M+"
+            "uses_count": "#foodie-95M"
         },
         {
             "tag": "#movies",
-            "uses_count": "#movies: 200M+"
+            "uses_count": "#movie-75M"
         },
         {
-            "tag": "#wanderlust",
-            "uses_count": "#wanderlust: 180M+"
+            "tag": "#travelphotography",
+            "uses_count": "#traveltheworld-50M"
         },
         {
             "tag": "#foodphotography",
-            "uses_count": "#foodphotography: 150M+"
+            "uses_count": "#foodporn-45M"
         },
         {
             "tag": "#film",
-            "uses_count": "#film: 170M+"
+            "uses_count": "#cinema-40M"
         },
         {
-            "tag": "#vacation",
-            "uses_count": "#vacation: 160M+"
+            "tag": "#instatravel",
+            "uses_count": "#travelblogger-35M"
         },
         {
             "tag": "#delicious",
-            "uses_count": "#delicious: 140M+"
+            "uses_count": "#yummy-30M"
         },
         {
-            "tag": "#cinema",
-            "uses_count": "#cinema: 130M+"
+            "tag": "#actor",
+            "uses_count": "#actress-25M"
         },
         {
             "tag": "#adventure",
-            "uses_count": "#adventure: 120M+"
+            "uses_count": "#explore-20M"
         },
         {
-            "tag": "#instafood",
-            "uses_count": "#instafood: 110M+"
+            "tag": "#foodlover",
+            "uses_count": "#restaurant-18M"
         },
         {
-            "tag": "#movienight",
-            "uses_count": "#movienight: 90M+"
+            "tag": "#hollywood",
+            "uses_count": "#filmmaking-15M"
+        },
+        {
+            "tag": "#vacation",
+            "uses_count": "#holiday-12M"
+        },
+        {
+            "tag": "#dinner",
+            "uses_count": "#lunch-10M"
+        },
+        {
+            "tag": "#movierecommendation",
+            "uses_count": "#whattowatch-8M"
         }
     ]
 }
