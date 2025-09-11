@@ -1,66 +1,64 @@
 {
-    "Popular": {
-        "Happiness": [
-            {
-                "tag": "#Travelgram",
-                "uses_count": "500M+"
-            },
-            {
-                "tag": "#FoodPorn",
-                "uses_count": "300M+"
-            },
-            {
-                "tag": "#MovieNight",
-                "uses_count": "100M+"
-            },
-            {
-                "tag": "#Wanderlust",
-                "uses_count": "250M+"
-            },
-            {
-                "tag": "#Foodie",
-                "uses_count": "200M+"
-            },
-            {
-                "tag": "#Film",
-                "uses_count": "150M+"
-            },
-            {
-                "tag": "#TravelPhotography",
-                "uses_count": "180M+"
-            },
-            {
-                "tag": "#Delicious",
-                "uses_count": "100M+"
-            },
-            {
-                "tag": "#Cinema",
-                "uses_count": "80M+"
-            },
-            {
-                "tag": "#Explore",
-                "uses_count": "120M+"
-            },
-            {
-                "tag": "#InstaFood",
-                "uses_count": "90M+"
-            },
-            {
-                "tag": "#Movies",
-                "uses_count": "70M+"
-            },
-            {
-                "tag": "#AdventureTime",
-                "uses_count": "100M+"
-            },
-            {
-                "tag": "#Yummy",
-                "uses_count": "80M+"
-            },
-            {
-                "tag": "#Hollywood",
-                "uses_count": "60M+"
-            }
-        ]
-    }
+    "Happiness": [
+        {
+            "tag": "#travel",
+            "uses_count": "#travel: 750M+"
+        },
+        {
+            "tag": "#food",
+            "uses_count": "#food: 600M+"
+        },
+        {
+            "tag": "#movie",
+            "uses_count": "#movie: 450M+"
+        },
+        {
+            "tag": "#travelgram",
+            "uses_count": "#travelgram: 250M+"
+        },
+        {
+            "tag": "#foodie",
+            "uses_count": "#foodie: 300M+"
+        },
+        {
+            "tag": "#movies",
+            "uses_count": "#movies: 200M+"
+        },
+        {
+            "tag": "#wanderlust",
+            "uses_count": "#wanderlust: 180M+"
+        },
+        {
+            "tag": "#foodphotography",
+            "uses_count": "#foodphotography: 150M+"
+        },
+        {
+            "tag": "#film",
+            "uses_count": "#film: 170M+"
+        },
+        {
+            "tag": "#vacation",
+            "uses_count": "#vacation: 160M+"
+        },
+        {
+            "tag": "#delicious",
+            "uses_count": "#delicious: 140M+"
+        },
+        {
+            "tag": "#cinema",
+            "uses_count": "#cinema: 130M+"
+        },
+        {
+            "tag": "#adventure",
+            "uses_count": "#adventure: 120M+"
+        },
+        {
+            "tag": "#instafood",
+            "uses_count": "#instafood: 110M+"
+        },
+        {
+            "tag": "#movienight",
+            "uses_count": "#movienight: 90M+"
+        }
+    ]
 }
