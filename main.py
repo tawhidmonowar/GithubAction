@@ -7,7 +7,7 @@ def call_gemini_api(prompt: str):
     if not api_key:
         raise ValueError("Missing GEMINI_API_KEY environment variable")
 
-    url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent"
+    url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
     headers = {"Content-Type": "application/json"}
     params = {"key": api_key}
     payload = {
@@ -21,15 +21,11 @@ def call_gemini_api(prompt: str):
     return response.json()
 
 
-def format_hashtags(api_response):
-    """
-    Parses the CSV content from the Gemini API response and formats it into a
-    structured dictionary.
-    """
+def format_hashtags(response):
+
     # Extract the text content from the response
     try:
         csv_text = api_response["candidates"][0]["content"]["parts"][0]["text"]
-        # Remove the markdown code block markers
         csv_lines = csv_text.replace("```csv\n", "").replace("```\n", "").strip().split('\n')
     except (KeyError, IndexError):
         print("Error: Could not find the CSV content in the API response.")
@@ -51,7 +47,6 @@ def format_hashtags(api_response):
             except ValueError:
                 print(f"Warning: Skipping malformed line: {line}")
 
-    # The prompt asks for hashtags related to "Surround yourself with things and people that make you smile",
     # so we'll use "Happiness" as the category key. You can change this as needed.
     category_name = "Happiness"
 
@@ -61,7 +56,6 @@ def format_hashtags(api_response):
         }
     }
     return formatted_data
-
 
 
 if __name__ == '__main__':
