@@ -1,8 +1,8 @@
 name: Fetch Gemini Data
 
 on:
-  schedule:
-    - cron: "14 * * * *"  # Runs once every hour at 14 minutes past
+  # schedule:
+  #  - cron: "14 * * * *"  # Runs once every hour at 14 minutes past
 
   push:
     branches: [ main ]
