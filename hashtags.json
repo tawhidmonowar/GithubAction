@@ -2,63 +2,63 @@
     "Happiness": [
         {
             "tag": "#travel",
-            "uses_count": "#travel: 750M+"
+            "uses_count": "120M"
         },
         {
             "tag": "#food",
-            "uses_count": "#food: 600M+"
+            "uses_count": "95M"
         },
         {
             "tag": "#movie",
-            "uses_count": "#movie: 450M+"
+            "uses_count": "80M"
         },
         {
             "tag": "#travelgram",
-            "uses_count": "#travelgram: 250M+"
+            "uses_count": "75M"
         },
         {
             "tag": "#foodie",
-            "uses_count": "#foodie: 300M+"
+            "uses_count": "70M"
         },
         {
             "tag": "#movies",
-            "uses_count": "#movies: 200M+"
+            "uses_count": "65M"
         },
         {
-            "tag": "#wanderlust",
-            "uses_count": "#wanderlust: 180M+"
+            "tag": "#instatravel",
+            "uses_count": "60M"
         },
         {
-            "tag": "#foodphotography",
-            "uses_count": "#foodphotography: 150M+"
+            "tag": "#foodporn",
+            "uses_count": "55M"
         },
         {
             "tag": "#film",
-            "uses_count": "#film: 170M+"
+            "uses_count": "50M"
         },
         {
-            "tag": "#vacation",
-            "uses_count": "#vacation: 160M+"
+            "tag": "#travelphotography",
+            "uses_count": "45M"
         },
         {
-            "tag": "#delicious",
-            "uses_count": "#delicious: 140M+"
-        },
-        {
-            "tag": "#cinema",
-            "uses_count": "#cinema: 130M+"
-        },
-        {
-            "tag": "#adventure",
-            "uses_count": "#adventure: 120M+"
-        },
-        {
-            "tag": "#instafood",
-            "uses_count": "#instafood: 110M+"
+            "tag": "#foodlover",
+            "uses_count": "40M"
         },
         {
             "tag": "#movienight",
-            "uses_count": "#movienight: 90M+"
+            "uses_count": "35M"
+        },
+        {
+            "tag": "#explore",
+            "uses_count": "30M"
+        },
+        {
+            "tag": "#delicious",
+            "uses_count": "25M"
+        },
+        {
+            "tag": "#cinema",
+            "uses_count": "20M"
         }
     ]
 }
