@@ -35,3 +35,5 @@ jobs:
           git add gemini_output.json
           git commit -m "Update Gemini data"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
