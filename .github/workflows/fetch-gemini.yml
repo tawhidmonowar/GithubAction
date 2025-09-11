@@ -2,9 +2,10 @@ name: Fetch Gemini Data
 
 on:
   schedule:
-    - cron: "10 7* * * *"  # Runs once every hour at 10 minute past
+    - cron: "14 * * * *"  # Runs once every hour at 14 minutes past
+
   push:
-    # branches: [ main ]
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
