@@ -24,18 +24,16 @@ jobs:
       - name: Update JSON file using Gemini CLI
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Use the gemini chat command to update the JSON file.
           # The prompt is crucial; be very specific about the format and content.
-          # We use `tee` to overwrite the file with the new content from Gemini.
-          # The `jq` command is used to ensure the output is a single, valid JSON object.
-          gemini chat "Update the JSON file 'data.json'. Make the new JSON a single object. It should contain a key 'last_updated' with the current date, and a key 'gemini_message' with a witty, one-sentence comment about automation. The content of 'data.json' should only be this single new JSON object. Provide only the JSON, no extra text. The full updated content of the file is:" | jq '.' > data.json
-
-          # Configure Git user and commit the changes.
+          # We instruct the model to output ONLY the JSON object.
+          gemini chat "Output a single JSON object with a key 'last_updated' set to the current date and a key 'gemini_message' with a witty, one-sentence comment about automation. Provide ONLY the JSON, with no additional text, markdown, or conversation." | jq '.' > data.json
+          
+          # Git configuration and commit.
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
           
-          # Stage the changes, commit, and push.
           git add data.json
           git commit -m "Automated daily update of data.json"
           git push
