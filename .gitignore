@@ -180,3 +180,9 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 /.idea
+
+# gemini-cli settings
+.gemini/
+
+# GitHub App credentials
+gha-creds-*.json
