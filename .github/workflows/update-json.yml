@@ -26,9 +26,15 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Use the gemini chat command with a very strict prompt.
-          # The output is then piped through a series of filters.
-          gemini chat "Provide only a single JSON object with two key-value pairs. The first key must be 'last_updated' with the current date, and the second key must be 'gemini_message' with a unique, witty comment about automation. Do not include any other text, markdown, or conversational phrases in your response." | grep '{' | jq '.' > data.json
+          # Capture the entire output into a variable.
+          GEMINI_OUTPUT=$(gemini chat "Provide only a single JSON object with two key-value pairs. The first key must be 'last_updated' with the current date, and the second key must be 'gemini_message' with a unique, witty comment about automation. Provide ONLY the JSON, with no additional text, markdown, or conversational phrases in your response.")
+          
+          # Use awk to find and print the first complete JSON object.
+          echo "$GEMINI_OUTPUT" | awk '/^{/,/}$/{
+              if ($0 ~ /^{/) { start=1; json_content="" }
+              if (start) { json_content = json_content $0 }
+              if ($0 ~ /}$/) { print json_content; exit }
+          }' | jq '.' > data.json
           
           # Git configuration and commit.
           git config --global user.email "actions@github.com"
