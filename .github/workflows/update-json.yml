@@ -16,6 +16,11 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20' # You can choose a specific Node.js version here.
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
@@ -23,7 +28,7 @@ jobs:
 
     - name: Install Gemini CLI and dependencies
       run: |
-        npm install -g @google-gemini/cli
+        npm install -g @google/gemini-cli
         pip install google-generativeai
 
     - name: Set up credentials and run script
