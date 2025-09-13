@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '0 2 * * *' # This cron job runs at 2:00 AM UTC every day.
   workflow_dispatch:
-    
+
 jobs:
   update-file:
     runs-on: ubuntu-latest
@@ -16,7 +16,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
 
       - name: Install Gemini CLI
         run: npm install -g @google/gemini-cli
