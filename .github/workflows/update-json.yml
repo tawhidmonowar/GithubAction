@@ -26,20 +26,23 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Capture the entire output into a variable.
-          GEMINI_OUTPUT=$(gemini chat "Provide only a single JSON object with two key-value pairs. The first key must be 'last_updated' with the current date, and the second key must be 'gemini_message' with a unique, witty comment about automation. Provide ONLY the JSON, with no additional text, markdown, or conversational phrases in your response.")
+          # Read the current JSON file content into a variable.
+          CURRENT_JSON=$(cat hashtags.json)
           
-          # Use awk to find and print the first complete JSON object.
+          # Instruct Gemini to update the uses_count in the provided JSON.
+          GEMINI_OUTPUT=$(gemini chat "Given the following JSON object: ${CURRENT_JSON}, please provide the exact same JSON object but with all the 'uses_count' values updated to a new, random number that is at least 10% higher than the current value. Ensure the format remains identical and provide ONLY the JSON object in your response, with no extra text or explanations.")
+          
+          # Use awk to extract the JSON object from the output.
           echo "$GEMINI_OUTPUT" | awk '/^{/,/}$/{
               if ($0 ~ /^{/) { start=1; json_content="" }
               if (start) { json_content = json_content $0 }
               if ($0 ~ /}$/) { print json_content; exit }
-          }' | jq '.' > data.json
+          }' | jq '.' > hashtags.json
           
           # Git configuration and commit.
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
           
-          git add data.json
-          git commit -m "Automated daily update of data.json"
+          git add hashtags.json
+          git commit -m "Automated daily update of uses_count in hashtags.json"
           git push
