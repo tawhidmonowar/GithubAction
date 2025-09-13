@@ -1,4 +1,65 @@
 {
-  "last_updated": "2025-09-13",
-  "gemini_message": "Automation: giving you more free time to wonder what to do with all your free time."
+  "categories": {
+    "Travel": {
+      "hashtags": [
+        {
+          "tag": "#travel",
+          "uses_count": "900000"
+        },
+        {
+          "tag": "#TravelPhotography",
+          "uses_count": "679000"
+        }
+      ]
+    },
+    "Food": {
+      "hashtags": [
+        {
+          "tag": "#food",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#foodPhotography",
+          "uses_count": "679000"
+        }
+      ]
+    },
+    "Trending": {
+      "hashtags": [
+        {
+          "tag": "#good",
+          "uses_count": "90000000"
+        },
+        {
+          "tag": "#morning",
+          "uses_count": "679000"
+        }
+      ]
+    },
+    "Popular": {
+      "hashtags": [
+        {
+          "tag": "#anime",
+          "uses_count": "9000"
+        },
+        {
+          "tag": "#clamp",
+          "uses_count": "67900000"
+        }
+      ]
+    },
+    "New": {
+      "hashtags": [
+        {
+          "tag": "#sharksharma",
+          "uses_count": "900000"
+        },
+        {
+          "tag": "#nature",
+          "uses_count": "679000"
+        }
+      ]
+    }
+  },
+  "last_update": "9-13-2025"
 }
