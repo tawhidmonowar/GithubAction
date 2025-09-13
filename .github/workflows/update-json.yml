@@ -29,17 +29,11 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          # Read the current JSON file
-          JSON_CONTENT=$(cat data.json)
-          
-          # Use Gemini CLI to generate updated hashtags and realistic uses_count
-          NEW_JSON=$(gemini --model gemini-2.5-flash-lite --output-format json -p "Given the following JSON data, keep the existing categories but update the 'hashtags' array for each category. 'uses_count' values reflecting real-world popularity (e.g., based on social media trends, with popular hashtags having millions of uses and niche ones having thousands). Ensure 'uses_count' is a string and matches realistic usage patterns. Also, update the 'last_update' field to today's date in MM-DD-YYYY format. Return the updated JSON object." --context "$JSON_CONTENT")
-          
-          # Validate JSON output
-          echo "$NEW_JSON" | jq . > /dev/null 2>&1 || { echo "Invalid JSON output from Gemini CLI"; exit 1; }
-          
-          # Write the updated JSON back to the file
-          echo "$NEW_JSON" > data.json
+          gemini generate \
+            --model=gemini-2.5-flash-lite \
+            --input-file=data.json \
+            --output-file=data.json \
+            --prompt "Update the hashtags values of all hashtags and uses count should realistically to reflect fresh weekly usage stats. Keep the same JSON structure. Also, update the 'last_update' field to today's date."
 
       - name: Commit and Push Changes
         run: |
