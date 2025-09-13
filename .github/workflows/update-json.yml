@@ -5,6 +5,10 @@ on:
     - cron: '0 2 * * *' # This cron job runs at 2:00 AM UTC every day.
   workflow_dispatch:
 
+
+permissions:
+  contents: write
+
 jobs:
   update-file:
     runs-on: ubuntu-latest
