@@ -30,9 +30,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
         run: |
-          GEMINI_OUTPUT=$(gemini chat "
-              update the hashtags.json file 
-          ")
+          GEMINI_OUTPUT=$(gemini -y -p "update the hashtags.json file")
          
           # Use awk to find and print the first complete JSON object.
           echo "$GEMINI_OUTPUT" | awk '/^{/,/}$/{
