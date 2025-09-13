@@ -1,0 +1,53 @@
+name: Update Hashtags JSON
+
+on:
+  schedule:
+    - cron: '0 12 * * *' # Runs daily at 12:00 PM UTC
+  push:
+    branches: [ main ]
+
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10' # Or any recent version
+
+    - name: Install Gemini CLI and dependencies
+      run: |
+        npm install -g @google-gemini/cli
+        pip install google-generativeai
+
+    - name: Set up credentials and run script
+      env:
+        GEMINI_CLI_USER: ${{ secrets.GEMINI_CLI_USER }}
+        GEMINI_CLI_PASS: ${{ secrets.GEMINI_CLI_PASS }}
+      run: |
+        echo "$GEMINI_CLI_PASS" | gemini login --email "$GEMINI_CLI_USER"
+        
+        # We'll use a Python script for more robust JSON handling.
+        # This is where we run the script to update a specific category.
+        
+        # Example 1: Update the "Happiness" category
+        python update_hashtags.py "Happiness" "Give me 500 popular hashtags related to happiness, good vibes, and positive thinking. Respond with only the hashtags, separated by commas."
+        
+        # Example 2: Update the "Food" category
+        # You can add more steps to update other categories, or use
+        # a loop if you want to update all of them at once.
+        python update_hashtags.py "Food" "Give me 20 popular hashtags related to delicious food, cooking, and culinary experiences. Respond with only the hashtags, separated by commas."
+
+    - name: Commit and push changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add hashtags.json
+        git commit -m "chore: Daily hashtags update via Gemini CLI" || echo "No changes to commit"
+        git push
