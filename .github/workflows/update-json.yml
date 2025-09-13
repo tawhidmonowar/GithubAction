@@ -1,41 +1,51 @@
-name: Run Gemini CLI
+name: Update Hashtags JSON
 
 on:
+  schedule:
+    - cron: '0 12 * * *' # Runs daily at 12:00 PM UTC
+  push:
+    branches: [ main ]
+
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  run-gemini:
+  update-data:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }} # default token, now has write access
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
-      - name: Install Gemini CLI
-        run: npm install -g @google/gemini-cli
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
 
-      - name: Run Gemini CLI Help
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: gemini --help
+    # The Google-managed action handles the Gemini CLI installation and authentication.
+    # We no longer need the separate npm install or the 'gemini login' command.
+    - name: Generate hashtags via Gemini CLI
+      uses: google-github-actions/run-gemini-cli@v1
+      id: generate_hashtags
+      with:
+        gemini_api_key: ${{ secrets.GEMINI_API_KEY }}
+        # The prompt is simplified to get a direct text response.
+        prompt: "Give me 500 popular hashtags related to happiness, good vibes, and positive thinking. Respond with only the hashtags, separated by commas."
 
-      - name: Ask Gemini a Question
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: gemini -p "update the hashtags.json with new new categories keep the current formate, dont ask any thing just do it, select a random category"
+    - name: Update JSON with Python script
+      run: |
+        pip install google-generativeai
+        
+        # We now pass the generated content from the previous step to the Python script.
+        # The 'outputs' property of the action contains the model's response.
+        # We need to escape the output before passing it to the Python script
+        # to ensure it's handled correctly.
+        gemini_output="${{ steps.generate_hashtags.outputs.text }}"
+        python update_hashtags.py "Happiness" "$gemini_output"
 
-      - name: Commit & Push Changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add hashtags.json
-          git commit -m "Update hashtags.json with new categories"
-          git push
-
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Commit and push changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add hashtags.json
+        git commit -m "chore: Daily hashtags update via Gemini CLI" || echo "No changes to commit"
+        git push
