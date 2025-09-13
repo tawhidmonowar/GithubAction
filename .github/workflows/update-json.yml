@@ -1,21 +1,21 @@
-name: Daily JSON Update
+name: Update JSON Data Weekly
 
 on:
   schedule:
-    - cron: '0 2 * * *' # This cron job runs at 2:00 AM UTC every day.
-  workflow_dispatch:
-
-
-permissions:
-  contents: write
+    - cron: '0 0 * * 0' # Runs every Sunday at midnight UTC
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
-  update-file:
+  update-json:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required for committing changes
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -25,36 +25,28 @@ jobs:
       - name: Install Gemini CLI
         run: npm install -g @google/gemini-cli
 
-      - name: Update JSON file using Gemini CLI
+      - name: Update JSON with Gemini CLI
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Read the current JSON file content into a variable.
-          CURRENT_JSON=$(cat hashtags.json)
+          # Read the current JSON file
+          JSON_CONTENT=$(cat data.json)
           
-          # Instruct Gemini to update the uses_count in the provided JSON.
-          # We wrap the output in a variable and then process it to be more robust.
-          RAW_GEMINI_OUTPUT=$(gemini chat "Given the following JSON object: ${CURRENT_JSON}, please provide the exact same JSON object but with all the 'uses_count' values updated to a new, random number that is at least 10% higher than the current value. Ensure the format remains identical and provide ONLY the JSON object in your response, with no extra text, markdown, or explanations.")
+          # Use Gemini CLI to generate updated hashtags and realistic uses_count
+          NEW_JSON=$(gemini --model gemini-2.5-flash-lite --output-format json -p "Given the following JSON data, keep the existing categories but update the 'hashtags' array for each category. 'uses_count' values reflecting real-world popularity (e.g., based on social media trends, with popular hashtags having millions of uses and niche ones having thousands). Ensure 'uses_count' is a string and matches realistic usage patterns. Also, update the 'last_update' field to today's date in MM-DD-YYYY format. Return the updated JSON object." --context "$JSON_CONTENT")
           
-          # Use a more robust regex to find and extract the JSON object.
-          # This handles cases where Gemini includes extra text or a markdown block.
-          CLEAN_JSON=$(echo "$RAW_GEMINI_OUTPUT" | sed -n 's/```json//p' | sed -e 's/```//' | grep -o '{.*}' | head -1)
+          # Validate JSON output
+          echo "$NEW_JSON" | jq . > /dev/null 2>&1 || { echo "Invalid JSON output from Gemini CLI"; exit 1; }
           
-          # Check if the extracted JSON is valid and not empty.
-          if [ -z "$CLEAN_JSON" ]; then
-            echo "Error: Gemini did not return a valid JSON object."
-            echo "Raw Output: $RAW_GEMINI_OUTPUT"
-            exit 1
-          fi
+          # Write the updated JSON back to the file
+          echo "$NEW_JSON" > data.json
 
-          # Use jq to format the cleaned JSON and write it back to the file.
-          echo "$CLEAN_JSON" | jq '.' > hashtags.json
-          
-          # Git configuration and commit.
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
-          
-          git add hashtags.json
-          git commit -m "Automated daily update of uses_count in hashtags.json"
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add data.json
+          git commit -m "Update data.json with new uses_count values and last_update date"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
