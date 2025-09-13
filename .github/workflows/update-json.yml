@@ -26,9 +26,9 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # The prompt is crucial; be very specific about the format and content.
-          # We instruct the model to output ONLY the JSON object.
-          gemini chat "Output a single JSON object with a key 'last_updated' set to the current date and a key 'gemini_message' with a witty, one-sentence comment about automation. Provide ONLY the JSON, with no additional text, markdown, or conversation." | jq '.' > data.json
+          # Use the gemini chat command with a very strict prompt.
+          # The output is then piped through a series of filters.
+          gemini chat "Provide only a single JSON object with two key-value pairs. The first key must be 'last_updated' with the current date, and the second key must be 'gemini_message' with a unique, witty comment about automation. Do not include any other text, markdown, or conversational phrases in your response." | grep '{' | jq '.' > data.json
           
           # Git configuration and commit.
           git config --global user.email "actions@github.com"
