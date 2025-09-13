@@ -3,6 +3,9 @@ name: Run Gemini CLI
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   run-gemini:
     runs-on: ubuntu-latest
@@ -10,6 +13,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # default token, now has write access
 
       - name: Install Gemini CLI
         run: npm install -g @google/gemini-cli
@@ -23,3 +28,14 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: gemini -p "update the hashtags.json with new new categories keep the current formate, dont ask any thing just do it, select a random category"
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add hashtags.json
+          git commit -m "Update hashtags.json with new categories"
+          git push
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
