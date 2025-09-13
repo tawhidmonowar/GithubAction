@@ -22,4 +22,4 @@ jobs:
       - name: Ask Gemini a Question
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: gemini -p "update the hashtags.json with new new categories keep the current formate"
+        run: gemini -p "update the hashtags.json with new new categories keep the current formate, dont ask any thing just do it, select a random category"
