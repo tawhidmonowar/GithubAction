@@ -37,7 +37,7 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add updated_hashtags.json
+          git add data/updated_hashtags.json
           git commit -m "Update updated_hashtags.json with new uses_count values and last_update date"
           git push
         env:
