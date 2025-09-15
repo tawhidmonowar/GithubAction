@@ -38,7 +38,7 @@ jobs:
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git add data.json
-          git commit -m "Update data.json with new uses_count values and last_update date"
+          git commit -m "Update updated_hashtags.json with new uses_count values and last_update date"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
