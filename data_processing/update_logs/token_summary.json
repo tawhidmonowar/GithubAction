@@ -1,0 +1,308 @@
+{
+  "model": "gemini-2.5-flash-lite",
+  "input_dir": "data_chunks",
+  "output_dir": "updated_data_chunks",
+  "files_processed": 42,
+  "files_succeeded": 42,
+  "totals": {
+    "input_tokens": 86324,
+    "output_tokens": 91220,
+    "total_tokens": 177544
+  },
+  "files": [
+    {
+      "file": "adventure_sports.json",
+      "output_file": "adventure_sports.json",
+      "input_tokens": 1022,
+      "output_tokens": 922,
+      "total_tokens": 1944
+    },
+    {
+      "file": "art_and_creativity.json",
+      "output_file": "art_and_creativity.json",
+      "input_tokens": 2440,
+      "output_tokens": 2340,
+      "total_tokens": 4780
+    },
+    {
+      "file": "beauty_and_makeup.json",
+      "output_file": "beauty_and_makeup.json",
+      "input_tokens": 2244,
+      "output_tokens": 2144,
+      "total_tokens": 4388
+    },
+    {
+      "file": "business.json",
+      "output_file": "business.json",
+      "input_tokens": 2168,
+      "output_tokens": 3124,
+      "total_tokens": 5292
+    },
+    {
+      "file": "cars_and_bikes.json",
+      "output_file": "cars_and_bikes.json",
+      "input_tokens": 1913,
+      "output_tokens": 1813,
+      "total_tokens": 3726
+    },
+    {
+      "file": "celebrity.json",
+      "output_file": "celebrity.json",
+      "input_tokens": 2379,
+      "output_tokens": 2279,
+      "total_tokens": 4658
+    },
+    {
+      "file": "daily_life.json",
+      "output_file": "daily_life.json",
+      "input_tokens": 2423,
+      "output_tokens": 2322,
+      "total_tokens": 4745
+    },
+    {
+      "file": "diy_and_crafts.json",
+      "output_file": "diy_and_crafts.json",
+      "input_tokens": 1783,
+      "output_tokens": 1683,
+      "total_tokens": 3466
+    },
+    {
+      "file": "education_and_learning.json",
+      "output_file": "education_and_learning.json",
+      "input_tokens": 2425,
+      "output_tokens": 2328,
+      "total_tokens": 4753
+    },
+    {
+      "file": "entertainment.json",
+      "output_file": "entertainment.json",
+      "input_tokens": 2334,
+      "output_tokens": 3362,
+      "total_tokens": 5696
+    },
+    {
+      "file": "fashion_and_style.json",
+      "output_file": "fashion_and_style.json",
+      "input_tokens": 2750,
+      "output_tokens": 2650,
+      "total_tokens": 5400
+    },
+    {
+      "file": "finance_and_money.json",
+      "output_file": "finance_and_money.json",
+      "input_tokens": 1475,
+      "output_tokens": 1375,
+      "total_tokens": 2850
+    },
+    {
+      "file": "fitness_and_gym.json",
+      "output_file": "fitness_and_gym.json",
+      "input_tokens": 2812,
+      "output_tokens": 4111,
+      "total_tokens": 6923
+    },
+    {
+      "file": "food_and_cooking.json",
+      "output_file": "food_and_cooking.json",
+      "input_tokens": 2828,
+      "output_tokens": 2728,
+      "total_tokens": 5556
+    },
+    {
+      "file": "food_blogging.json",
+      "output_file": "food_blogging.json",
+      "input_tokens": 1028,
+      "output_tokens": 933,
+      "total_tokens": 1961
+    },
+    {
+      "file": "game.json",
+      "output_file": "game.json",
+      "input_tokens": 2047,
+      "output_tokens": 1947,
+      "total_tokens": 3994
+    },
+    {
+      "file": "health_and_wellness.json",
+      "output_file": "health_and_wellness.json",
+      "input_tokens": 2527,
+      "output_tokens": 2427,
+      "total_tokens": 4954
+    },
+    {
+      "file": "holidays_and_festivals.json",
+      "output_file": "holidays_and_festivals.json",
+      "input_tokens": 1714,
+      "output_tokens": 1614,
+      "total_tokens": 3328
+    },
+    {
+      "file": "interiors.json",
+      "output_file": "interiors.json",
+      "input_tokens": 2337,
+      "output_tokens": 2237,
+      "total_tokens": 4574
+    },
+    {
+      "file": "lifestyle.json",
+      "output_file": "lifestyle.json",
+      "input_tokens": 2360,
+      "output_tokens": 2260,
+      "total_tokens": 4620
+    },
+    {
+      "file": "love_and_relationships.json",
+      "output_file": "love_and_relationships.json",
+      "input_tokens": 1363,
+      "output_tokens": 1263,
+      "total_tokens": 2626
+    },
+    {
+      "file": "luxury.json",
+      "output_file": "luxury.json",
+      "input_tokens": 1459,
+      "output_tokens": 1359,
+      "total_tokens": 2818
+    },
+    {
+      "file": "marketing_and_branding.json",
+      "output_file": "marketing_and_branding.json",
+      "input_tokens": 1804,
+      "output_tokens": 1716,
+      "total_tokens": 3520
+    },
+    {
+      "file": "motivation_and_quotes.json",
+      "output_file": "motivation_and_quotes.json",
+      "input_tokens": 1967,
+      "output_tokens": 2116,
+      "total_tokens": 4083
+    },
+    {
+      "file": "music_and_dance.json",
+      "output_file": "music_and_dance.json",
+      "input_tokens": 2348,
+      "output_tokens": 3436,
+      "total_tokens": 5784
+    },
+    {
+      "file": "nature_and_wildlife.json",
+      "output_file": "nature_and_wildlife.json",
+      "input_tokens": 2786,
+      "output_tokens": 2686,
+      "total_tokens": 5472
+    },
+    {
+      "file": "parenting_and_family.json",
+      "output_file": "parenting_and_family.json",
+      "input_tokens": 2454,
+      "output_tokens": 2354,
+      "total_tokens": 4808
+    },
+    {
+      "file": "pets_and_animals.json",
+      "output_file": "pets_and_animals.json",
+      "input_tokens": 1876,
+      "output_tokens": 1776,
+      "total_tokens": 3652
+    },
+    {
+      "file": "photography.json",
+      "output_file": "photography.json",
+      "input_tokens": 2258,
+      "output_tokens": 2158,
+      "total_tokens": 4416
+    },
+    {
+      "file": "real_estate.json",
+      "output_file": "real_estate.json",
+      "input_tokens": 2101,
+      "output_tokens": 3009,
+      "total_tokens": 5110
+    },
+    {
+      "file": "routines_and_challenges.json",
+      "output_file": "routines_and_challenges.json",
+      "input_tokens": 1418,
+      "output_tokens": 1318,
+      "total_tokens": 2736
+    },
+    {
+      "file": "social_media_trends.json",
+      "output_file": "social_media_trends.json",
+      "input_tokens": 879,
+      "output_tokens": 779,
+      "total_tokens": 1658
+    },
+    {
+      "file": "spirituality_and_mindfulness.json",
+      "output_file": "spirituality_and_mindfulness.json",
+      "input_tokens": 1998,
+      "output_tokens": 1898,
+      "total_tokens": 3896
+    },
+    {
+      "file": "sports_and_athletics.json",
+      "output_file": "sports_and_athletics.json",
+      "input_tokens": 2847,
+      "output_tokens": 4156,
+      "total_tokens": 7003
+    },
+    {
+      "file": "streetwear.json",
+      "output_file": "streetwear.json",
+      "input_tokens": 1421,
+      "output_tokens": 1321,
+      "total_tokens": 2742
+    },
+    {
+      "file": "study_and_students.json",
+      "output_file": "study_and_students.json",
+      "input_tokens": 1488,
+      "output_tokens": 1388,
+      "total_tokens": 2876
+    },
+    {
+      "file": "summer_vibes.json",
+      "output_file": "summer_vibes.json",
+      "input_tokens": 1481,
+      "output_tokens": 1381,
+      "total_tokens": 2862
+    },
+    {
+      "file": "technology_and_gadgets.json",
+      "output_file": "technology_and_gadgets.json",
+      "input_tokens": 2345,
+      "output_tokens": 2245,
+      "total_tokens": 4590
+    },
+    {
+      "file": "travel_and_adventure.json",
+      "output_file": "travel_and_adventure.json",
+      "input_tokens": 3267,
+      "output_tokens": 4797,
+      "total_tokens": 8064
+    },
+    {
+      "file": "wedding_and_events.json",
+      "output_file": "wedding_and_events.json",
+      "input_tokens": 2349,
+      "output_tokens": 2254,
+      "total_tokens": 4603
+    },
+    {
+      "file": "winter_and_cozy.json",
+      "output_file": "winter_and_cozy.json",
+      "input_tokens": 1463,
+      "output_tokens": 1363,
+      "total_tokens": 2826
+    },
+    {
+      "file": "work_and_office_life.json",
+      "output_file": "work_and_office_life.json",
+      "input_tokens": 1943,
+      "output_tokens": 1848,
+      "total_tokens": 3791
+    }
+  ]
+}

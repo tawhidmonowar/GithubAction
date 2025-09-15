@@ -1,0 +1,448 @@
+{
+  "Entertainment": {
+    "Viral Trends": {
+      "hashtags": [
+        {
+          "tag": "#communityviraltrends",
+          "uses_count": "65.1M"
+        },
+        {
+          "tag": "#viraltrendscontentcreator",
+          "uses_count": "65.4M"
+        },
+        {
+          "tag": "#viraltrendscreator",
+          "uses_count": "40.1M"
+        },
+        {
+          "tag": "#viraltrendscommunity",
+          "uses_count": "37.3M"
+        },
+        {
+          "tag": "#viraltrendsbestpractices",
+          "uses_count": "57.7M"
+        },
+        {
+          "tag": "#viraltrendshowto",
+          "uses_count": "35.7M"
+        },
+        {
+          "tag": "#viraltrendssubscribe",
+          "uses_count": "65.1M"
+        },
+        {
+          "tag": "#viraltrendshub",
+          "uses_count": "53.0M"
+        },
+        {
+          "tag": "#viraltrendsforyou",
+          "uses_count": "22.8M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "44.8M"
+        },
+        {
+          "tag": "#viraltrendsviralvideo",
+          "uses_count": "24.6M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "35.4M"
+        },
+        {
+          "tag": "#newpostviraltrends",
+          "uses_count": "57.4M"
+        },
+        {
+          "tag": "#viraltrendstalk",
+          "uses_count": "68.3M"
+        },
+        {
+          "tag": "#viraltrendsposts",
+          "uses_count": "34.3M"
+        },
+        {
+          "tag": "#viraltrendsbehindthescenes",
+          "uses_count": "5.5M"
+        },
+        {
+          "tag": "#viraltrendslikeandshare",
+          "uses_count": "70.6M"
+        },
+        {
+          "tag": "#viraltrendstips",
+          "uses_count": "8.5M"
+        }
+      ]
+    },
+    "Celebrity": {
+      "hashtags": [
+        {
+          "tag": "#celebrity",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#actor",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#hollywood",
+          "uses_count": "6.0K"
+        },
+        {
+          "tag": "#famosos",
+          "uses_count": "558"
+        },
+        {
+          "tag": "#celebritychallenge",
+          "uses_count": "24.6M"
+        },
+        {
+          "tag": "#celebritycommunity",
+          "uses_count": "21.9M"
+        },
+        {
+          "tag": "#tutorialcelebrity",
+          "uses_count": "7.9M"
+        },
+        {
+          "tag": "#celebrityvibes",
+          "uses_count": "9.1M"
+        },
+        {
+          "tag": "#celebritycontentcreator",
+          "uses_count": "43.3M"
+        },
+        {
+          "tag": "#celebrityviralvideo",
+          "uses_count": "41.7M"
+        },
+        {
+          "tag": "#celebritylivestream",
+          "uses_count": "21.6M"
+        },
+        {
+          "tag": "#celebrityszone",
+          "uses_count": "19.5M"
+        },
+        {
+          "tag": "#celebritycreators",
+          "uses_count": "44.4M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "12.1M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "13.4M"
+        },
+        {
+          "tag": "#celebrityhowto",
+          "uses_count": "45.5M"
+        },
+        {
+          "tag": "#celebritydaily",
+          "uses_count": "14.6M"
+        },
+        {
+          "tag": "#reelscelebrity",
+          "uses_count": "28.7M"
+        },
+        {
+          "tag": "#trendingnowcelebrity",
+          "uses_count": "5.8M"
+        },
+        {
+          "tag": "#livestreamcelebrity",
+          "uses_count": "31.7M"
+        },
+        {
+          "tag": "#celebrityshorts",
+          "uses_count": "77.4M"
+        },
+        {
+          "tag": "#celebritygrowthtips",
+          "uses_count": "18.2M"
+        }
+      ]
+    },
+    "Nostalgia": {
+      "hashtags": [
+        {
+          "tag": "#tbt",
+          "uses_count": "588M"
+        },
+        {
+          "tag": "#80smusic",
+          "uses_count": "1.6M"
+        },
+        {
+          "tag": "#90smusic",
+          "uses_count": "846.3K"
+        },
+        {
+          "tag": "#2000smusic",
+          "uses_count": "195.3K"
+        },
+        {
+          "tag": "#foryounostalgia",
+          "uses_count": "41.5M"
+        },
+        {
+          "tag": "#shortsnostalgia",
+          "uses_count": "52.5M"
+        },
+        {
+          "tag": "#nostalgiagoals",
+          "uses_count": "33.7M"
+        },
+        {
+          "tag": "#nostalgiacreators",
+          "uses_count": "43.7M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "26.1M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "22.0M"
+        },
+        {
+          "tag": "#nostalgialife",
+          "uses_count": "18.7M"
+        },
+        {
+          "tag": "#growthtipsnostalgia",
+          "uses_count": "6.4M"
+        },
+        {
+          "tag": "#learnontheinternetnostalgia",
+          "uses_count": "28.2M"
+        },
+        {
+          "tag": "#creatorsnostalgia",
+          "uses_count": "26.7M"
+        },
+        {
+          "tag": "#nostalgiahub",
+          "uses_count": "696.1K"
+        },
+        {
+          "tag": "#nostalgiabuzz",
+          "uses_count": "10.9M"
+        },
+        {
+          "tag": "#bestNostalgia",
+          "uses_count": "40.0M"
+        },
+        {
+          "tag": "#nostalgiastalk",
+          "uses_count": "12.8M"
+        },
+        {
+          "tag": "#learnNostalgia",
+          "uses_count": "11.7M"
+        },
+        {
+          "tag": "#contentcreatornostalgia",
+          "uses_count": "43.0M"
+        },
+        {
+          "tag": "#trendingnow",
+          "uses_count": "28.0M"
+        },
+        {
+          "tag": "#nostalgiabehindthescenes",
+          "uses_count": "41.6M"
+        }
+      ]
+    },
+    "Humor & Memes": {
+      "hashtags": [
+        {
+          "tag": "#funny",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#lol",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#memes",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#gymhumor",
+          "uses_count": "1.7M"
+        },
+        {
+          "tag": "#humormemes",
+          "uses_count": "39.4M"
+        },
+        {
+          "tag": "#humormemesshorts",
+          "uses_count": "49.1M"
+        },
+        {
+          "tag": "#viralvideohumormemes",
+          "uses_count": "12.1M"
+        },
+        {
+          "tag": "#subscribehumormemes",
+          "uses_count": "60.9M"
+        },
+        {
+          "tag": "#humormemesdaily",
+          "uses_count": "32.1M"
+        },
+        {
+          "tag": "#humormemesfyp",
+          "uses_count": "4.8M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "4.1M"
+        },
+        {
+          "tag": "#humormemesgrowthtips",
+          "uses_count": "5.9M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "34.8M"
+        },
+        {
+          "tag": "#growthtipshumormemes",
+          "uses_count": "21.2M"
+        },
+        {
+          "tag": "#fyphumormemes",
+          "uses_count": "55.3M"
+        },
+        {
+          "tag": "#humormemeszone",
+          "uses_count": "16.5M"
+        },
+        {
+          "tag": "#newposthumormemes",
+          "uses_count": "21.9M"
+        },
+        {
+          "tag": "#howtohumormemes",
+          "uses_count": "4.3M"
+        },
+        {
+          "tag": "#humormemesvibes",
+          "uses_count": "35.2M"
+        },
+        {
+          "tag": "#humormemeslifehacks",
+          "uses_count": "36.8M"
+        },
+        {
+          "tag": "#humormemestutorial",
+          "uses_count": "42.7M"
+        },
+        {
+          "tag": "#humormemesnewpost",
+          "uses_count": "16.0M"
+        }
+      ]
+    },
+    "Events & News": {
+      "hashtags": [
+        {
+          "tag": "#breaking",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#news",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#trendingnow",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#reelsinstagram",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#eventsnewszone",
+          "uses_count": "10.0M"
+        },
+        {
+          "tag": "#eventsnewshub",
+          "uses_count": "29.6M"
+        },
+        {
+          "tag": "#shortseventsnews",
+          "uses_count": "41.2M"
+        },
+        {
+          "tag": "#newposteventsnews",
+          "uses_count": "42.3M"
+        },
+        {
+          "tag": "#eventsnewsdaily",
+          "uses_count": "44.3M"
+        },
+        {
+          "tag": "#eventsnewstrend",
+          "uses_count": "20.5M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "5.6M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "37.3M"
+        },
+        {
+          "tag": "#eventsnewsposts",
+          "uses_count": "39.5M"
+        },
+        {
+          "tag": "#eventsnewstalk",
+          "uses_count": "29.1M"
+        },
+        {
+          "tag": "#eventsnewsforbeginners",
+          "uses_count": "9.5M"
+        },
+        {
+          "tag": "#eventsnewstipsandtricks",
+          "uses_count": "30.0M"
+        },
+        {
+          "tag": "#eventsnewslivestream",
+          "uses_count": "5.5M"
+        },
+        {
+          "tag": "#eventsposts",
+          "uses_count": "17.4M"
+        },
+        {
+          "tag": "#eventsnewscommunity",
+          "uses_count": "4.9M"
+        },
+        {
+          "tag": "#likeandshareeventsnews",
+          "uses_count": "66.1M"
+        },
+        {
+          "tag": "#learnontheinterneteventsnews",
+          "uses_count": "20.6M"
+        },
+        {
+          "tag": "#eventsnewslife",
+          "uses_count": "27.9M"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "Real Estate": {
+    "General Real Estate": {
+      "hashtags": [
+        {
+          "tag": "#realestatehacks",
+          "uses_count": "7.0M"
+        },
+        {
+          "tag": "#realestatestips",
+          "uses_count": "22.8M"
+        },
+        {
+          "tag": "#bestpracticesrealestate",
+          "uses_count": "6.9M"
+        },
+        {
+          "tag": "#dailycontentrealestate",
+          "uses_count": "31.2M"
+        },
+        {
+          "tag": "#realestateforbeginners",
+          "uses_count": "21.2M"
+        },
+        {
+          "tag": "#likeandsharerealestate",
+          "uses_count": "22.6M"
+        },
+        {
+          "tag": "#realestateshub",
+          "uses_count": "2.7M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "41.0M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "21.9M"
+        },
+        {
+          "tag": "#realestatefyp",
+          "uses_count": "22.2M"
+        },
+        {
+          "tag": "#realestatezone",
+          "uses_count": "43.6M"
+        },
+        {
+          "tag": "#foryourealestate",
+          "uses_count": "15.9M"
+        },
+        {
+          "tag": "#realestatefollowformore",
+          "uses_count": "66.1M"
+        },
+        {
+          "tag": "#realestatecreator",
+          "uses_count": "28.9M"
+        },
+        {
+          "tag": "#realestatestrends",
+          "uses_count": "1.8M"
+        },
+        {
+          "tag": "#reelsrealestate",
+          "uses_count": "47.7M"
+        },
+        {
+          "tag": "#realestatetipsandtricks",
+          "uses_count": "14.9M"
+        },
+        {
+          "tag": "#realestatebestpractices",
+          "uses_count": "26.3M"
+        }
+      ]
+    },
+    "Property Listings": {
+      "hashtags": [
+        {
+          "tag": "#propertylistingscreators",
+          "uses_count": "21.0M"
+        },
+        {
+          "tag": "#propertylistingsfyp",
+          "uses_count": "25.9M"
+        },
+        {
+          "tag": "#propertylistingshacks",
+          "uses_count": "24.7M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "41.4M"
+        },
+        {
+          "tag": "#learnontheinternetpropertylistings",
+          "uses_count": "8.4M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "18.9M"
+        },
+        {
+          "tag": "#propertylistingstrendingnow",
+          "uses_count": "61.4M"
+        },
+        {
+          "tag": "#propertylistingstips",
+          "uses_count": "13.2M"
+        },
+        {
+          "tag": "#propertylistingsgrowthtips",
+          "uses_count": "1.7M"
+        },
+        {
+          "tag": "#growthtipspropertylistings",
+          "uses_count": "32.6M"
+        },
+        {
+          "tag": "#propertylistingslearnontheinternet",
+          "uses_count": "26.2M"
+        },
+        {
+          "tag": "#propertylistingsforyou",
+          "uses_count": "191.9K"
+        },
+        {
+          "tag": "#shortspropertylistings",
+          "uses_count": "26.8M"
+        },
+        {
+          "tag": "#propertylistingslifehacks",
+          "uses_count": "21.9M"
+        },
+        {
+          "tag": "#propertylistingstutorial",
+          "uses_count": "6.3M"
+        },
+        {
+          "tag": "#propertylistingsguide",
+          "uses_count": "4.4M"
+        },
+        {
+          "tag": "#propertylistings",
+          "uses_count": "10.2M"
+        },
+        {
+          "tag": "#propertylistingstrend",
+          "uses_count": "37.2M"
+        }
+      ]
+    },
+    "Investment & Finance": {
+      "hashtags": [
+        {
+          "tag": "#reelsinvestmentfinance",
+          "uses_count": "16.5M"
+        },
+        {
+          "tag": "#investmentfinancegrowthtips",
+          "uses_count": "35.5M"
+        },
+        {
+          "tag": "#investmentfinancezone",
+          "uses_count": "41.7M"
+        },
+        {
+          "tag": "#investment",
+          "uses_count": "29.7M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "32.1M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "12.0M"
+        },
+        {
+          "tag": "#fypinvestmentfinance",
+          "uses_count": "6.0M"
+        },
+        {
+          "tag": "#communityinvestmentfinance",
+          "uses_count": "20.8M"
+        },
+        {
+          "tag": "#investmentfinanceguide",
+          "uses_count": "50.0M"
+        },
+        {
+          "tag": "#investmentfinancesworld",
+          "uses_count": "17.0M"
+        },
+        {
+          "tag": "#likeandshareinvestmentfinance",
+          "uses_count": "77.7M"
+        },
+        {
+          "tag": "#contentcreatorinvestmentfinance",
+          "uses_count": "41.6M"
+        },
+        {
+          "tag": "#behindthescenesinvestmentfinance",
+          "uses_count": "44.1M"
+        },
+        {
+          "tag": "#trendingnow",
+          "uses_count": "44.8M"
+        },
+        {
+          "tag": "#livestream",
+          "uses_count": "27.4M"
+        },
+        {
+          "tag": "#lifehacks",
+          "uses_count": "31.5M"
+        },
+        {
+          "tag": "#investmentfinancestalk",
+          "uses_count": "21.9M"
+        },
+        {
+          "tag": "#growthtips",
+          "uses_count": "44.2M"
+        }
+      ]
+    },
+    "Luxury Real Estate": {
+      "hashtags": [
+        {
+          "tag": "#realestatehacks",
+          "uses_count": "44.8M"
+        },
+        {
+          "tag": "#realestatestips",
+          "uses_count": "6.1M"
+        },
+        {
+          "tag": "#bestpracticesrealestate",
+          "uses_count": "43.4M"
+        },
+        {
+          "tag": "#dailycontentrealestate",
+          "uses_count": "18.8M"
+        },
+        {
+          "tag": "#realestateforbeginners",
+          "uses_count": "26.0M"
+        },
+        {
+          "tag": "#likeandsharerealestate",
+          "uses_count": "68.6M"
+        },
+        {
+          "tag": "#realestateshub",
+          "uses_count": "27.6M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "31.6M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "8.3M"
+        },
+        {
+          "tag": "#realestatefyp",
+          "uses_count": "59.7M"
+        },
+        {
+          "tag": "#realestatezone",
+          "uses_count": "24.1M"
+        },
+        {
+          "tag": "#foryourealestate",
+          "uses_count": "1.4M"
+        },
+        {
+          "tag": "#realestatefollowformore",
+          "uses_count": "25.3M"
+        },
+        {
+          "tag": "#realestatecreator",
+          "uses_count": "5.9M"
+        },
+        {
+          "tag": "#realestatestrends",
+          "uses_count": "2.1M"
+        },
+        {
+          "tag": "#reelsrealestate",
+          "uses_count": "43.6M"
+        },
+        {
+          "tag": "#realestatetipsandtricks",
+          "uses_count": "15.5M"
+        },
+        {
+          "tag": "#realestatebestpractices",
+          "uses_count": "15.0M"
+        }
+      ]
+    },
+    "Local Real Estate": {
+      "hashtags": [
+        {
+          "tag": "#[City]RealEstate",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#movingto[City]",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#[Neighborhood]Living",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#shoplocal",
+          "uses_count": "907.6M"
+        },
+        {
+          "tag": "#realestatehacks",
+          "uses_count": "36.6M"
+        },
+        {
+          "tag": "#realestatestips",
+          "uses_count": "36.0M"
+        },
+        {
+          "tag": "#bestpracticesrealestate",
+          "uses_count": "44.4M"
+        },
+        {
+          "tag": "#dailycontentrealestate",
+          "uses_count": "33.6M"
+        },
+        {
+          "tag": "#realestateforbeginners",
+          "uses_count": "43.9M"
+        },
+        {
+          "tag": "#likeandsharerealestate",
+          "uses_count": "36.7M"
+        },
+        {
+          "tag": "#realestateshub",
+          "uses_count": "19.6M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "28.1M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "35.3M"
+        },
+        {
+          "tag": "#realestatefyp",
+          "uses_count": "72.6M"
+        },
+        {
+          "tag": "#realestatezone",
+          "uses_count": "39.0M"
+        },
+        {
+          "tag": "#foryourealestate",
+          "uses_count": "32.2M"
+        },
+        {
+          "tag": "#realestatefollowformore",
+          "uses_count": "11.9M"
+        },
+        {
+          "tag": "#realestatecreator",
+          "uses_count": "16.8M"
+        },
+        {
+          "tag": "#realestatestrends",
+          "uses_count": "32.7M"
+        },
+        {
+          "tag": "#reelsrealestate",
+          "uses_count": "5.7M"
+        },
+        {
+          "tag": "#realestatetipsandtricks",
+          "uses_count": "32.0M"
+        },
+        {
+          "tag": "#realestatebestpractices",
+          "uses_count": "17.6M"
+        }
+      ]
+    }
+  }
+}

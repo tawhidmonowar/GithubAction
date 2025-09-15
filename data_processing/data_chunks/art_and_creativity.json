@@ -1,0 +1,476 @@
+{
+  "Art & Creativity": {
+    "General Art": {
+      "hashtags": [
+        {
+          "tag": "#artposts",
+          "uses_count": "14.0M"
+        },
+        {
+          "tag": "#generalartlife",
+          "uses_count": "6.4M"
+        },
+        {
+          "tag": "#generalartchallenge",
+          "uses_count": "44.0M"
+        },
+        {
+          "tag": "#generalarttrends",
+          "uses_count": "29.2M"
+        },
+        {
+          "tag": "#learnGeneralart",
+          "uses_count": "23.6M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "18.6M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "9.7M"
+        },
+        {
+          "tag": "#generalarthacks",
+          "uses_count": "2.3M"
+        },
+        {
+          "tag": "#growthtipsgeneralart",
+          "uses_count": "26.4M"
+        },
+        {
+          "tag": "#foryougeneralart",
+          "uses_count": "4.5M"
+        },
+        {
+          "tag": "#generalartlifehacks",
+          "uses_count": "5.6M"
+        },
+        {
+          "tag": "#behindthescenesgeneralart",
+          "uses_count": "16.4M"
+        },
+        {
+          "tag": "#art",
+          "uses_count": "31.3M"
+        },
+        {
+          "tag": "#generalartcontentcreator",
+          "uses_count": "36.7M"
+        },
+        {
+          "tag": "#generalartshub",
+          "uses_count": "5.2M"
+        },
+        {
+          "tag": "#trendingnow",
+          "uses_count": "64.6M"
+        },
+        {
+          "tag": "#generalartsworld",
+          "uses_count": "29.1M"
+        },
+        {
+          "tag": "#livestream",
+          "uses_count": "30.2M"
+        }
+      ]
+    },
+    "Digital Art": {
+      "hashtags": [
+        {
+          "tag": "#artposts",
+          "uses_count": "2.7M"
+        },
+        {
+          "tag": "#digitalartreels",
+          "uses_count": "16.9M"
+        },
+        {
+          "tag": "#digitalartworld",
+          "uses_count": "29.7M"
+        },
+        {
+          "tag": "#tutorialdigitalart",
+          "uses_count": "16.3M"
+        },
+        {
+          "tag": "#digitalartlearnontheinternet",
+          "uses_count": "30.5M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "40.0M"
+        },
+        {
+          "tag": "#learnontheinternetdigitalart",
+          "uses_count": "17.8M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "8.1M"
+        },
+        {
+          "tag": "#digitalartgrowthtips",
+          "uses_count": "17.6M"
+        },
+        {
+          "tag": "#bestpracticesdigitalart",
+          "uses_count": "6.1M"
+        },
+        {
+          "tag": "#howtoDigitalart",
+          "uses_count": "14.4M"
+        },
+        {
+          "tag": "#communitydigitalart",
+          "uses_count": "15.9M"
+        },
+        {
+          "tag": "#digitalartzone",
+          "uses_count": "26.1M"
+        },
+        {
+          "tag": "#digitalposts",
+          "uses_count": "35.9M"
+        },
+        {
+          "tag": "#art",
+          "uses_count": "38.8M"
+        },
+        {
+          "tag": "#trendingnow",
+          "uses_count": "72.3M"
+        },
+        {
+          "tag": "#livestream",
+          "uses_count": "18.2M"
+        },
+        {
+          "tag": "#digitalartexpert",
+          "uses_count": "38.1M"
+        }
+      ]
+    },
+    "Traditional Media": {
+      "hashtags": [
+        {
+          "tag": "#traditionalmediagoals",
+          "uses_count": "15.6M"
+        },
+        {
+          "tag": "#traditionalmediasubscribe",
+          "uses_count": "42.6M"
+        },
+        {
+          "tag": "#learnTraditionalmedia",
+          "uses_count": "29.5M"
+        },
+        {
+          "tag": "#traditionalmediabestpractices",
+          "uses_count": "29.1M"
+        },
+        {
+          "tag": "#traditionalmediaguide",
+          "uses_count": "43.0M"
+        },
+        {
+          "tag": "#traditionalmediaforbeginners",
+          "uses_count": "23.0M"
+        },
+        {
+          "tag": "#traditionalmediaszone",
+          "uses_count": "27.2M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "24.1M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "3.2M"
+        },
+        {
+          "tag": "#traditionalmediadaily",
+          "uses_count": "24.1M"
+        },
+        {
+          "tag": "#traditionalmediacreator",
+          "uses_count": "42.9M"
+        },
+        {
+          "tag": "#traditionalmediadailycontent",
+          "uses_count": "35.9M"
+        },
+        {
+          "tag": "#fyptraditionalmedia",
+          "uses_count": "30.1M"
+        },
+        {
+          "tag": "#mediaposts",
+          "uses_count": "17.0M"
+        },
+        {
+          "tag": "#traditionalmediahacks",
+          "uses_count": "18.8M"
+        },
+        {
+          "tag": "#traditionalmedia101",
+          "uses_count": "29.3M"
+        },
+        {
+          "tag": "#contentcreatortraditionalmedia",
+          "uses_count": "11.9M"
+        },
+        {
+          "tag": "#howtoTraditionalmedia",
+          "uses_count": "48.2M"
+        }
+      ]
+    },
+    "Art Community": {
+      "hashtags": [
+        {
+          "tag": "#artistsupport",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#artcommunity",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#artlovers",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#creativeprocess",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#artposts",
+          "uses_count": "41.7M"
+        },
+        {
+          "tag": "#communityartcommunity",
+          "uses_count": "34.3M"
+        },
+        {
+          "tag": "#artcommunitydaily",
+          "uses_count": "38.1M"
+        },
+        {
+          "tag": "#artcommunityhowto",
+          "uses_count": "29.8M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "3.3M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "21.5M"
+        },
+        {
+          "tag": "#followformoreartcommunity",
+          "uses_count": "44.1M"
+        },
+        {
+          "tag": "#artcommunitytutorial",
+          "uses_count": "12.7M"
+        },
+        {
+          "tag": "#artcommunityworld",
+          "uses_count": "32.2M"
+        },
+        {
+          "tag": "#artcommunitynewpost",
+          "uses_count": "35.2M"
+        },
+        {
+          "tag": "#artcommunityszone",
+          "uses_count": "20.9M"
+        },
+        {
+          "tag": "#artcommunitylife",
+          "uses_count": "36.1M"
+        },
+        {
+          "tag": "#artcommunitylearnontheinternet",
+          "uses_count": "44.3M"
+        },
+        {
+          "tag": "#artcommunitycreators",
+          "uses_count": "18.1M"
+        },
+        {
+          "tag": "#art",
+          "uses_count": "15.6M"
+        },
+        {
+          "tag": "#trendingnow",
+          "uses_count": "21.2M"
+        },
+        {
+          "tag": "#artcommunitylivestream",
+          "uses_count": "31.3M"
+        },
+        {
+          "tag": "#livestream",
+          "uses_count": "24.3M"
+        }
+      ]
+    },
+    "Art for Sale": {
+      "hashtags": [
+        {
+          "tag": "#forsale",
+          "uses_count": "43.4M"
+        },
+        {
+          "tag": "#forsalesbuzz",
+          "uses_count": "11.2M"
+        },
+        {
+          "tag": "#forsalenewpost",
+          "uses_count": "6.5M"
+        },
+        {
+          "tag": "#viralForsale",
+          "uses_count": "60.9M"
+        },
+        {
+          "tag": "#viralvideoforsale",
+          "uses_count": "52.1M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "31.1M"
+        },
+        {
+          "tag": "#forsaleszone",
+          "uses_count": "8.0M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "41.7M"
+        },
+        {
+          "tag": "#forsaletalk",
+          "uses_count": "38.3M"
+        },
+        {
+          "tag": "#forsaletrend",
+          "uses_count": "31.4M"
+        },
+        {
+          "tag": "#forsaleforyou",
+          "uses_count": "38.9M"
+        },
+        {
+          "tag": "#forsale101",
+          "uses_count": "38.3M"
+        },
+        {
+          "tag": "#subscribeforsale",
+          "uses_count": "62.1M"
+        },
+        {
+          "tag": "#growthtipsforsale",
+          "uses_count": "11.3M"
+        },
+        {
+          "tag": "#tutorialforsale",
+          "uses_count": "44.4M"
+        },
+        {
+          "tag": "#forsaleworld",
+          "uses_count": "1.5M"
+        },
+        {
+          "tag": "#howtoforsale",
+          "uses_count": "10.9M"
+        },
+        {
+          "tag": "#forsaleshub",
+          "uses_count": "27.8M"
+        }
+      ]
+    },
+    "DIY & Crafts": {
+      "hashtags": [
+        {
+          "tag": "#diycraftstipsandtricks",
+          "uses_count": "10.2M"
+        },
+        {
+          "tag": "#diycraftsfollowformore",
+          "uses_count": "20.6M"
+        },
+        {
+          "tag": "#diycraftslikeandshare",
+          "uses_count": "12.4M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "13.2M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "25.3M"
+        },
+        {
+          "tag": "#bestDiycrafts",
+          "uses_count": "43.1M"
+        },
+        {
+          "tag": "#diycraftsdaily",
+          "uses_count": "24.0M"
+        },
+        {
+          "tag": "#diycraftstutorial",
+          "uses_count": "50.3M"
+        },
+        {
+          "tag": "#livestreamdiycrafts",
+          "uses_count": "31.8M"
+        },
+        {
+          "tag": "#viralvideodiycrafts",
+          "uses_count": "41.6M"
+        },
+        {
+          "tag": "#diycraftsreels",
+          "uses_count": "20.7M"
+        },
+        {
+          "tag": "#shortsdiycrafts",
+          "uses_count": "5.2M"
+        },
+        {
+          "tag": "#diycraftstalk",
+          "uses_count": "31.0M"
+        },
+        {
+          "tag": "#diycraftstrend",
+          "uses_count": "40.5M"
+        },
+        {
+          "tag": "#diycraftstrendingnow",
+          "uses_count": "78.0M"
+        },
+        {
+          "tag": "#diycraftssubscribe",
+          "uses_count": "29.0M"
+        },
+        {
+          "tag": "#diycraftsfyp",
+          "uses_count": "59.2M"
+        },
+        {
+          "tag": "#diycraftsviral",
+          "uses_count": "46.4M"
+        }
+      ]
+    }
+  }
+}

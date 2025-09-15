@@ -1,0 +1,43 @@
+{
+  "categories": {
+    "Travel": {
+      "Adventure": {
+        "hashtags": [
+          {
+            "tag": ""
+          },
+          {
+            "tag": ""
+          }
+        ]
+      },
+      "Alone": {
+        "hashtags": [
+          {
+            "tag": ""
+          }
+        ]
+      }
+    },
+    "Food": {
+      "Food": {
+        "hashtags": [
+          {
+            "tag": ""
+          },
+          {
+            "tag": ""
+          }
+        ]
+      },
+      "HomeMadeFood": {
+        "hashtags": [
+          {
+            "tag": ""
+          }
+        ]
+      }
+    }
+  },
+  "last_update": "9-13-2025"
+}

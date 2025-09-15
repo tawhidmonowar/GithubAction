@@ -1,0 +1,3980 @@
+{
+  "categories": {
+    "Graphic Design": {
+      "GraphicDesign": {
+        "hashtags": [
+          {"tag": "#graphicdesign", "uses_count": 100000000},
+          {"tag": "#design", "uses_count": 200000000},
+          {"tag": "#art", "uses_count": 1000000000},
+          {"tag": "#graphicdesigner", "uses_count": 50000000},
+          {"tag": "#branding", "uses_count": 80000000},
+          {"tag": "#logo", "uses_count": 150000000},
+          {"tag": "#illustration", "uses_count": 250000000},
+          {"tag": "#digitalart", "uses_count": 300000000},
+          {"tag": "#designer", "uses_count": 120000000},
+          {"tag": "#artwork", "uses_count": 400000000},
+          {"tag": "#photoshop", "uses_count": 180000000},
+          {"tag": "#creative", "uses_count": 500000000},
+          {"tag": "#typography", "uses_count": 70000000},
+          {"tag": "#webdesign", "uses_count": 90000000},
+          {"tag": "#logodesign", "uses_count": 60000000}
+        ]
+      },
+      "Design": {
+        "hashtags": [
+          {"tag": "#design", "uses_count": 200000000},
+          {"tag": "#interiordesign", "uses_count": 150000000},
+          {"tag": "#homedecor", "uses_count": 200000000},
+          {"tag": "#architecture", "uses_count": 100000000},
+          {"tag": "#home", "uses_count": 300000000},
+          {"tag": "#style", "uses_count": 800000000},
+          {"tag": "#inspiration", "uses_count": 600000000},
+          {"tag": "#art", "uses_count": 1000000000},
+          {"tag": "#fashion", "uses_count": 1200000000},
+          {"tag": "#love", "uses_count": 2000000000},
+          {"tag": "#beautiful", "uses_count": 1500000000},
+          {"tag": "#instagood", "uses_count": 1800000000},
+          {"tag": "#photooftheday", "uses_count": 1300000000},
+          {"tag": "#decor", "uses_count": 100000000},
+          {"tag": "#handmade", "uses_count": 250000000}
+        ]
+      },
+      "Art": {
+        "hashtags": [
+          {"tag": "#art", "uses_count": 1000000000},
+          {"tag": "#artist", "uses_count": 500000000},
+          {"tag": "#drawing", "uses_count": 400000000},
+          {"tag": "#artwork", "uses_count": 400000000},
+          {"tag": "#love", "uses_count": 2000000000},
+          {"tag": "#photography", "uses_count": 1500000000},
+          {"tag": "#painting", "uses_count": 300000000},
+          {"tag": "#instagood", "uses_count": 1800000000},
+          {"tag": "#artistsoninstagram", "uses_count": 200000000},
+          {"tag": "#digitalart", "uses_count": 300000000},
+          {"tag": "#illustration", "uses_count": 250000000},
+          {"tag": "#beautiful", "uses_count": 1500000000},
+          {"tag": "#sketch", "uses_count": 200000000},
+          {"tag": "#artoftheday", "uses_count": 100000000},
+          {"tag": "#instaart", "uses_count": 150000000}
+        ]
+      },
+      "GraphicDesigner": {
+        "hashtags": [
+          {"tag": "#graphicdesigner", "uses_count": 50000000},
+          {"tag": "#graphicdesign", "uses_count": 100000000},
+          {"tag": "#design", "uses_count": 200000000},
+          {"tag": "#designer", "uses_count": 120000000},
+          {"tag": "#art", "uses_count": 1000000000},
+          {"tag": "#logo", "uses_count": 150000000},
+          {"tag": "#illustrator", "uses_count": 100000000},
+          {"tag": "#photoshop", "uses_count": 180000000},
+          {"tag": "#branding", "uses_count": 80000000},
+          {"tag": "#creative", "uses_count": 500000000},
+          {"tag": "#artwork", "uses_count": 400000000},
+          {"tag": "#typography", "uses_count": 70000000},
+          {"tag": "#logodesigner", "uses_count": 40000000},
+          {"tag": "#webdesigner", "uses_count": 30000000},
+          {"tag": "#artist", "uses_count": 500000000}
+        ]
+      },
+      "Branding": {
+        "hashtags": [
+          {"tag": "#branding", "uses_count": 80000000},
+          {"tag": "#marketing", "uses_count": 300000000},
+          {"tag": "#design", "uses_count": 200000000},
+          {"tag": "#logo", "uses_count": 150000000},
+          {"tag": "#graphicdesign", "uses_count": 100000000},
+          {"tag": "#business", "uses_count": 500000000},
+          {"tag": "#socialmedia", "uses_count": 400000000},
+          {"tag": "#digitalmarketing", "uses_count": 200000000},
+          {"tag": "#brand", "uses_count": 100000000},
+          {"tag": "#smallbusiness", "uses_count": 300000000},
+          {"tag": "#advertising", "uses_count": 150000000},
+          {"tag": "#entrepreneur", "uses_count": 400000000},
+          {"tag": "#socialmediamarketing", "uses_count": 250000000},
+          {"tag": "#webdesign", "uses_count": 90000000},
+          {"tag": "#contentmarketing", "uses_count": 100000000}
+        ]
+      },
+      "Logo": {
+        "hashtags": [
+          {"tag": "#logo", "uses_count": 150000000},
+          {"tag": "#logodesign", "uses_count": 60000000},
+          {"tag": "#graphicdesign", "uses_count": 100000000},
+          {"tag": "#branding", "uses_count": 80000000},
+          {"tag": "#design", "uses_count": 200000000},
+          {"tag": "#logodesigner", "uses_count": 40000000},
+          {"tag": "#art", "uses_count": 1000000000},
+          {"tag": "#illustrator", "uses_count": 100000000},
+          {"tag": "#brand", "uses_count": 100000000},
+          {"tag": "#graphicdesigner", "uses_count": 50000000},
+          {"tag": "#logomaker", "uses_count": 20000000},
+          {"tag": "#typography", "uses_count": 70000000},
+          {"tag": "#photoshop", "uses_count": 180000000},
+          {"tag": "#creative", "uses_count": 500000000},
+          {"tag": "#vector", "uses_count": 50000000}
+        ]
+      },
+      "Illustration": {
+        "hashtags": [
+          {"tag": "#illustration", "uses_count": 250000000},
+          {"tag": "#art", "uses_count": 1000000000},
+          {"tag": "#drawing", "uses_count": 400000000},
+          {"tag": "#artist", "uses_count": 500000000},
+          {"tag": "#artwork", "uses_count": 400000000},
+          {"tag": "#sketch", "uses_count": 200000000},
+          {"tag": "#digitalart", "uses_count": 300000000},
+          {"tag": "#design", "uses_count": 200000000},
+          {"tag": "#painting", "uses_count": 300000000},
+          {"tag": "#illustrator", "uses_count": 100000000},
+          {"tag": "#draw", "uses_count": 300000000},
+          {"tag": "#artistsoninstagram", "uses_count": 200000000},
+          {"tag": "#procreate", "uses_count": 150000000},
+          {"tag": "#fanart", "uses_count": 200000000},
+          {"tag": "#characterdesign", "uses_count": 100000000}
+        ]
+      },
+      "DigitalArt": {
+        "hashtags": [
+          {"tag": "#digitalart", "uses_count": 300000000},
+          {"tag": "#art", "uses_count": 1000000000},
+          {"tag": "#drawing", "uses_count": 400000000},
+          {"tag": "#illustration", "uses_count": 250000000},
+          {"tag": "#artist", "uses_count": 500000000},
+          {"tag": "#artwork", "uses_count": 400000000},
+          {"tag": "#digitaldrawing", "uses_count": 100000000},
+          {"tag": "#digitalpainting", "uses_count": 150000000},
+          {"tag": "#procreate", "uses_count": 150000000},
+          {"tag": "#sketch", "uses_count": 200000000},
+          {"tag": "#artistsoninstagram", "uses_count": 200000000},
+          {"tag": "#design", "uses_count": 200000000},
+          {"tag": "#fanart", "uses_count": 200000000},
+          {"tag": "#photoshop", "uses_count": 180000000},
+          {"tag": "#digitalartist", "uses_count": 80000000}
+        ]
+      },
+      "Typography": {
+        "hashtags": [
+          {"tag": "#typography", "uses_count": 70000000},
+          {"tag": "#design", "uses_count": 200000000},
+          {"tag": "#graphicdesign", "uses_count": 100000000},
+          {"tag": "#art", "uses_count": 1000000000},
+          {"tag": "#lettering", "uses_count": 150000000},
+          {"tag": "#handlettering", "uses_count": 100000000},
+          {"tag": "#font", "uses_count": 50000000},
+          {"tag": "#type", "uses_count": 80000000},
+          {"tag": "#calligraphy", "uses_count": 120000000},
+          {"tag": "#typographyinspired", "uses_count": 20000000},
+          {"tag": "#goodtype", "uses_count": 30000000},
+          {"tag": "#thedailytype", "uses_count": 20000000},
+          {"tag": "#typographydesign", "uses_count": 10000000},
+          {"tag": "#logo", "uses_count": 150000000},
+          {"tag": "#designinspiration", "uses_count": 50000000}
+        ]
+      },
+      "DesignInspiration": {
+        "hashtags": [
+          {"tag": "#designinspiration", "uses_count": 50000000},
+          {"tag": "#design", "uses_count": 200000000},
+          {"tag": "#graphicdesign", "uses_count": 100000000},
+          {"tag": "#interiordesign", "uses_count": 150000000},
+          {"tag": "#art", "uses_count": 1000000000},
+          {"tag": "#inspiration", "uses_count": 600000000},
+          {"tag": "#homedecor", "uses_count": 200000000},
+          {"tag": "#architecture", "uses_count": 100000000},
+          {"tag": "#branding", "uses_count": 80000000},
+          {"tag": "#creative", "uses_count": 500000000},
+          {"tag": "#logo", "uses_count": 150000000},
+          {"tag": "#artwork", "uses_count": 400000000},
+          {"tag": "#style", "uses_count": 800000000},
+          {"tag": "#webdesign", "uses_count": 90000000},
+          {"tag": "#decor", "uses_count": 100000000}
+        ]
+      }
+    },
+    "Classical Music": {
+      "ClassicalMusic": {
+        "hashtags": [
+          {"tag": "#classicalmusic", "uses_count": 10000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#classical", "uses_count": 50000000},
+          {"tag": "#musician", "uses_count": 200000000},
+          {"tag": "#orchestra", "uses_count": 30000000},
+          {"tag": "#concert", "uses_count": 150000000},
+          {"tag": "#art", "uses_count": 1000000000},
+          {"tag": "#composer", "uses_count": 20000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#instamusic", "uses_count": 100000000},
+          {"tag": "#piano", "uses_count": 300000000},
+          {"tag": "#violin", "uses_count": 150000000},
+          {"tag": "#cello", "uses_count": 80000000},
+          {"tag": "#opera", "uses_count": 50000000},
+          {"tag": "#symphony", "uses_count": 40000000}
+        ]
+      },
+      "Classical": {
+        "hashtags": [
+          {"tag": "#classical", "uses_count": 50000000},
+          {"tag": "#classicalmusic", "uses_count": 10000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#baroque", "uses_count": 10000000},
+          {"tag": "#romantic", "uses_count": 100000000},
+          {"tag": "#modern", "uses_count": 200000000},
+          {"tag": "#impressionism", "uses_count": 20000000},
+          {"tag": "#minimalism", "uses_count": 10000000},
+          {"tag": "#choral", "uses_count": 5000000},
+          {"tag": "#chambermusic", "uses_count": 10000000},
+          {"tag": "#sonata", "uses_count": 5000000},
+          {"tag": "#concerto", "uses_count": 5000000},
+          {"tag": "#ballet", "uses_count": 100000000},
+          {"tag": "#soundtrack", "uses_count": 50000000},
+          {"tag": "#filmscore", "uses_count": 20000000}
+        ]
+      },
+      "Orchestra": {
+        "hashtags": [
+          {"tag": "#orchestra", "uses_count": 30000000},
+          {"tag": "#symphonyorchestra", "uses_count": 10000000},
+          {"tag": "#conductor", "uses_count": 10000000},
+          {"tag": "#musician", "uses_count": 200000000},
+          {"tag": "#classicalmusic", "uses_count": 10000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#concert", "uses_count": 150000000},
+          {"tag": "#violin", "uses_count": 150000000},
+          {"tag": "#cello", "uses_count": 80000000},
+          {"tag": "#flute", "uses_count": 50000000},
+          {"tag": "#trumpet", "uses_count": 40000000},
+          {"tag": "#trombone", "uses_count": 30000000},
+          {"tag": "#percussion", "uses_count": 20000000},
+          {"tag": "#woodwinds", "uses_count": 10000000},
+          {"tag": "#brass", "uses_count": 20000000}
+        ]
+      },
+      "Composer": {
+        "hashtags": [
+          {"tag": "#composer", "uses_count": 20000000},
+          {"tag": "#classicalcomposer", "uses_count": 5000000},
+          {"tag": "#mozart", "uses_count": 20000000},
+          {"tag": "#bach", "uses_count": 15000000},
+          {"tag": "#chopin", "uses_count": 20000000},
+          {"tag": "#liszt", "uses_count": 5000000},
+          {"tag": "#debussy", "uses_count": 10000000},
+          {"tag": "#ravel", "uses_count": 5000000},
+          {"tag": "#stravinsky", "uses_count": 5000000},
+          {"tag": "#mahler", "uses_count": 5000000},
+          {"tag": "#brahms", "uses_count": 5000000},
+          {"tag": "#tchaikovsky", "uses_count": 10000000},
+          {"tag": "#schubert", "uses_count": 5000000},
+          {"tag": "#schumann", "uses_count": 5000000},
+          {"tag": "#beethoven", "uses_count": 20000000}
+        ]
+      },
+      "Piano": {
+        "hashtags": [
+          {"tag": "#piano", "uses_count": 300000000},
+          {"tag": "#pianist", "uses_count": 100000000},
+          {"tag": "#pianocover", "uses_count": 50000000},
+          {"tag": "#pianomusic", "uses_count": 30000000},
+          {"tag": "#classicalpiano", "uses_count": 10000000},
+          {"tag": "#grandpiano", "uses_count": 20000000},
+          {"tag": "#uprightpiano", "uses_count": 10000000},
+          {"tag": "#keyboard", "uses_count": 100000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#musician", "uses_count": 200000000},
+          {"tag": "#instapiano", "uses_count": 20000000},
+          {"tag": "#pianogram", "uses_count": 10000000},
+          {"tag": "#pianolove", "uses_count": 10000000},
+          {"tag": "#pianolife", "uses_count": 10000000},
+          {"tag": "#pianopractice", "uses_count": 10000000}
+        ]
+      },
+      "Violin": {
+        "hashtags": [
+          {"tag": "#violin", "uses_count": 150000000},
+          {"tag": "#violinist", "uses_count": 50000000},
+          {"tag": "#violincover", "uses_count": 10000000},
+          {"tag": "#violingirl", "uses_count": 5000000},
+          {"tag": "#violinlove", "uses_count": 5000000},
+          {"tag": "#violinlife", "uses_count": 5000000},
+          {"tag": "#violinpractice", "uses_count": 5000000},
+          {"tag": "#classicalviolin", "uses_count": 5000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#musician", "uses_count": 200000000},
+          {"tag": "#instaviolin", "uses_count": 5000000},
+          {"tag": "#violingram", "uses_count": 1000000},
+          {"tag": "#stringquartet", "uses_count": 10000000},
+          {"tag": "#orchestra", "uses_count": 30000000},
+          {"tag": "#symphony", "uses_count": 40000000}
+        ]
+      },
+      "Cello": {
+        "hashtags": [
+          {"tag": "#cello", "uses_count": 80000000},
+          {"tag": "#cellist", "uses_count": 20000000},
+          {"tag": "#cellocover", "uses_count": 5000000},
+          {"tag": "#cellolove", "uses_count": 5000000},
+          {"tag": "#cellolife", "uses_count": 5000000},
+          {"tag": "#cellopractice", "uses_count": 1000000},
+          {"tag": "#classicalcello", "uses_count": 1000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#musician", "uses_count": 200000000},
+          {"tag": "#instacello", "uses_count": 1000000},
+          {"tag": "#cellogram", "uses_count": 1000000},
+          {"tag": "#stringquartet", "uses_count": 10000000},
+          {"tag": "#orchestra", "uses_count": 30000000},
+          {"tag": "#symphony", "uses_count": 40000000},
+          {"tag": "#yo-yoma", "uses_count": 1000000}
+        ]
+      },
+      "Opera": {
+        "hashtags": [
+          {"tag": "#opera", "uses_count": 50000000},
+          {"tag": "#operasinger", "uses_count": 10000000},
+          {"tag": "#soprano", "uses_count": 20000000},
+          {"tag": "#tenor", "uses_count": 10000000},
+          {"tag": "#baritone", "uses_count": 5000000},
+          {"tag": "#mezzosoprano", "uses_count": 5000000},
+          {"tag": "#aria", "uses_count": 5000000},
+          {"tag": "#classicalmusic", "uses_count": 10000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#theatre", "uses_count": 150000000},
+          {"tag": "#art", "uses_count": 1000000000},
+          {"tag": "#culture", "uses_count": 300000000},
+          {"tag": "#performance", "uses_count": 200000000},
+          {"tag": "#instaopera", "uses_count": 1000000}
+        ]
+      },
+      "Symphony": {
+        "hashtags": [
+          {"tag": "#symphony", "uses_count": 40000000},
+          {"tag": "#symphonyorchestra", "uses_count": 10000000},
+          {"tag": "#classicalmusic", "uses_count": 10000000},
+          {"tag": "#orchestra", "uses_count": 30000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#beethoven", "uses_count": 20000000},
+          {"tag": "#mozart", "uses_count": 20000000},
+          {"tag": "#mahler", "uses_count": 5000000},
+          {"tag": "#tchaikovsky", "uses_count": 10000000},
+          {"tag": "#conductor", "uses_count": 10000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#concert", "uses_count": 150000000},
+          {"tag": "#violin", "uses_count": 150000000},
+          {"tag": "#cello", "uses_count": 80000000},
+          {"tag": "#classicalconcert", "uses_count": 5000000}
+        ]
+      },
+      "Beethoven": {
+        "hashtags": [
+          {"tag": "#beethoven", "uses_count": 20000000},
+          {"tag": "#ludwigvanbeethoven", "uses_count": 5000000},
+          {"tag": "#classicalmusic", "uses_count": 10000000},
+          {"tag": "#composer", "uses_count": 20000000},
+          {"tag": "#piano", "uses_count": 300000000},
+          {"tag": "#symphony", "uses_count": 40000000},
+          {"tag": "#fur-elise", "uses_count": 1000000},
+          {"tag": "#moonlightsonata", "uses_count": 5000000},
+          {"tag": "#ode-to-joy", "uses_count": 1000000},
+          {"tag": "#classicalpiano", "uses_count": 10000000},
+          {"tag": "#pianist", "uses_count": 100000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#art", "uses_count": 1000000000},
+          {"tag": "#genius", "uses_count": 50000000},
+          {"tag": "#classicalcomposer", "uses_count": 5000000}
+        ]
+      }
+    },
+    "Blues Music": {
+      "Blues": {
+        "hashtags": [
+          {"tag": "#blues", "uses_count": 100000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#guitar", "uses_count": 500000000},
+          {"tag": "#jazz", "uses_count": 200000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#rock", "uses_count": 800000000},
+          {"tag": "#rocknroll", "uses_count": 300000000},
+          {"tag": "#guitarist", "uses_count": 150000000},
+          {"tag": "#bluesrock", "uses_count": 50000000},
+          {"tag": "#bluesmusic", "uses_count": 30000000},
+          {"tag": "#soul", "uses_count": 200000000},
+          {"tag": "#musician", "uses_count": 200000000},
+          {"tag": "#bluesguitar", "uses_count": 20000000},
+          {"tag": "#rockandroll", "uses_count": 200000000},
+          {"tag": "#guitarplayer", "uses_count": 100000000}
+        ]
+      },
+      "BluesMusic": {
+        "hashtags": [
+          {"tag": "#bluesmusic", "uses_count": 30000000},
+          {"tag": "#blues", "uses_count": 100000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#bluesfestival", "uses_count": 5000000},
+          {"tag": "#chicagoblues", "uses_count": 5000000},
+          {"tag": "#deltablues", "uses_count": 5000000},
+          {"tag": "#acousticblues", "uses_count": 5000000},
+          {"tag": "#bbking", "uses_count": 5000000},
+          {"tag": "#muddywaters", "uses_count": 1000000},
+          {"tag": "#johnleehooker", "uses_count": 1000000},
+          {"tag": "#howlinwolf", "uses_count": 1000000},
+          {"tag": "#buddyguy", "uses_count": 1000000},
+          {"tag": "#srv", "uses_count": 10000000},
+          {"tag": "#supportlivemusic", "uses_count": 50000000}
+        ]
+      },
+      "BluesGuitar": {
+        "hashtags": [
+          {"tag": "#bluesguitar", "uses_count": 20000000},
+          {"tag": "#guitar", "uses_count": 500000000},
+          {"tag": "#blues", "uses_count": 100000000},
+          {"tag": "#guitarsolo", "uses_count": 50000000},
+          {"tag": "#guitarist", "uses_count": 150000000},
+          {"tag": "#electricguitar", "uses_count": 100000000},
+          {"tag": "#acousticguitar", "uses_count": 100000000},
+          {"tag": "#fender", "uses_count": 150000000},
+          {"tag": "#gibson", "uses_count": 100000000},
+          {"tag": "#guitartone", "uses_count": 20000000},
+          {"tag": "#guitarlicks", "uses_count": 10000000},
+          {"tag": "#guitarplayer", "uses_count": 100000000},
+          {"tag": "#knowyourtone", "uses_count": 20000000},
+          {"tag": "#guitargear", "uses_count": 50000000},
+          {"tag": "#guitarlove", "uses_count": 50000000}
+        ]
+      },
+      "ChicagoBlues": {
+        "hashtags": [
+          {"tag": "#chicagoblues", "uses_count": 5000000},
+          {"tag": "#blues", "uses_count": 100000000},
+          {"tag": "#chicago", "uses_count": 200000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#bluesmusic", "uses_count": 30000000},
+          {"tag": "#muddywaters", "uses_count": 1000000},
+          {"tag": "#howlinwolf", "uses_count": 1000000},
+          {"tag": "#buddyguy", "uses_count": 1000000},
+          {"tag": "#williedixon", "uses_count": 1000000},
+          {"tag": "#chessrecords", "uses_count": 1000000},
+          {"tag": "#harmonica", "uses_count": 20000000},
+          {"tag": "#bluesbar", "uses_count": 1000000},
+          {"tag": "#kingstonmines", "uses_count": 100000},
+          {"tag": "#chicagomusic", "uses_count": 5000000},
+          {"tag": "#windycity", "uses_count": 50000000}
+        ]
+      },
+      "DeltaBlues": {
+        "hashtags": [
+          {"tag": "#deltablues", "uses_count": 5000000},
+          {"tag": "#blues", "uses_count": 100000000},
+          {"tag": "#mississippi", "uses_count": 50000000},
+          {"tag": "#robertjohnson", "uses_count": 1000000},
+          {"tag": "#acousticblues", "uses_count": 5000000},
+          {"tag": "#slideguitar", "uses_count": 10000000},
+          {"tag": "#crossroads", "uses_count": 20000000},
+          {"tag": "#acousticguitar", "uses_count": 100000000},
+          {"tag": "#bottleneckguitar", "uses_count": 100000},
+          {"tag": "#countryblues", "uses_count": 1000000},
+          {"tag": "#sonhouse", "uses_count": 100000},
+          {"tag": "#charleypatton", "uses_count": 100000},
+          {"tag": "#bluesman", "uses_count": 5000000},
+          {"tag": "#theblues", "uses_count": 10000000},
+          {"tag": "#deepblues", "uses_count": 100000}
+        ]
+      },
+      "AcousticBlues": {
+        "hashtags": [
+          {"tag": "#acousticblues", "uses_count": 5000000},
+          {"tag": "#blues", "uses_count": 100000000},
+          {"tag": "#acousticguitar", "uses_count": 100000000},
+          {"tag": "#fingerstyle", "uses_count": 20000000},
+          {"tag": "#deltablues", "uses_count": 5000000},
+          {"tag": "#countryblues", "uses_count": 1000000},
+          {"tag": "#robertjohnson", "uses_count": 1000000},
+          {"tag": "#slideguitar", "uses_count": 10000000},
+          {"tag": "#acoustic", "uses_count": 200000000},
+          {"tag": "#guitar", "uses_count": 500000000},
+          {"tag": "#unplugged", "uses_count": 50000000},
+          {"tag": "#folkmusic", "uses_count": 20000000},
+          {"tag": "#singersongwriter", "uses_count": 100000000},
+          {"tag": "#bluesman", "uses_count": 5000000},
+          {"tag": "#rootsmusic", "uses_count": 5000000}
+        ]
+      },
+      "Guitar": {
+        "hashtags": [
+          {"tag": "#guitar", "uses_count": 500000000},
+          {"tag": "#guitarist", "uses_count": 150000000},
+          {"tag": "#guitarsolo", "uses_count": 50000000},
+          {"tag": "#electricguitar", "uses_count": 100000000},
+          {"tag": "#acousticguitar", "uses_count": 100000000},
+          {"tag": "#fender", "uses_count": 150000000},
+          {"tag": "#gibson", "uses_count": 100000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#musician", "uses_count": 200000000},
+          {"tag": "#rock", "uses_count": 800000000},
+          {"tag": "#jazz", "uses_count": 200000000},
+          {"tag": "#blues", "uses_count": 100000000},
+          {"tag": "#metal", "uses_count": 500000000},
+          {"tag": "#guitars", "uses_count": 100000000},
+          {"tag": "#guitarplayer", "uses_count": 100000000}
+        ]
+      },
+      "LiveMusic": {
+        "hashtags": [
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#concert", "uses_count": 150000000},
+          {"tag": "#band", "uses_count": 200000000},
+          {"tag": "#live", "uses_count": 500000000},
+          {"tag": "#musician", "uses_count": 200000000},
+          {"tag": "#singer", "uses_count": 300000000},
+          {"tag": "#guitar", "uses_count": 500000000},
+          {"tag": "#rock", "uses_count": 800000000},
+          {"tag": "#pop", "uses_count": 1000000000},
+          {"tag": "#jazz", "uses_count": 200000000},
+          {"tag": "#blues", "uses_count": 100000000},
+          {"tag": "#hiphop", "uses_count": 1000000000},
+          {"tag": "#festival", "uses_count": 200000000},
+          {"tag": "#love", "uses_count": 2000000000}
+        ]
+      },
+      "Music": {
+        "hashtags": [
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#love", "uses_count": 2000000000},
+          {"tag": "#hiphop", "uses_count": 1000000000},
+          {"tag": "#rap", "uses_count": 800000000},
+          {"tag": "#pop", "uses_count": 1000000000},
+          {"tag": "#instagood", "uses_count": 1800000000},
+          {"tag": "#artist", "uses_count": 500000000},
+          {"tag": "#dj", "uses_count": 500000000},
+          {"tag": "#follow", "uses_count": 1500000000},
+          {"tag": "#like", "uses_count": 1200000000},
+          {"tag": "#explorepage", "uses_count": 1000000000},
+          {"tag": "#dance", "uses_count": 800000000},
+          {"tag": "#newmusic", "uses_count": 300000000},
+          {"tag": "#producer", "uses_count": 200000000},
+          {"tag": "#youtube", "uses_count": 1200000000}
+        ]
+      },
+      "Bluesman": {
+        "hashtags": [
+          {"tag": "#bluesman", "uses_count": 5000000},
+          {"tag": "#blues", "uses_count": 100000000},
+          {"tag": "#guitarist", "uses_count": 150000000},
+          {"tag": "#singer", "uses_count": 300000000},
+          {"tag": "#songwriter", "uses_count": 100000000},
+          {"tag": "#musician", "uses_count": 200000000},
+          {"tag": "#bluesmusic", "uses_count": 30000000},
+          {"tag": "#bbking", "uses_count": 5000000},
+          {"tag": "#muddywaters", "uses_count": 1000000},
+          {"tag": "#johnleehooker", "uses_count": 1000000},
+          {"tag": "#howlinwolf", "uses_count": 1000000},
+          {"tag": "#robertjohnson", "uses_count": 1000000},
+          {"tag": "#deltablues", "uses_count": 5000000},
+          {"tag": "#chicagoblues", "uses_count": 5000000},
+          {"tag": "#legend", "uses_count": 200000000}
+        ]
+      }
+    },
+    "Folk Music": {
+      "FolkMusic": {
+        "hashtags": [
+          {"tag": "#folkmusic", "uses_count": 20000000},
+          {"tag": "#folk", "uses_count": 100000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#singersongwriter", "uses_count": 100000000},
+          {"tag": "#musician", "uses_count": 200000000},
+          {"tag": "#acoustic", "uses_count": 200000000},
+          {"tag": "#indiemusic", "uses_count": 150000000},
+          {"tag": "#acousticguitar", "uses_count": 100000000},
+          {"tag": "#songwriter", "uses_count": 100000000},
+          {"tag": "#newmusic", "uses_count": 300000000},
+          {"tag": "#worldmusic", "uses_count": 50000000},
+          {"tag": "#folksong", "uses_count": 5000000},
+          {"tag": "#americana", "uses_count": 50000000},
+          {"tag": "#countrymusic", "uses_count": 200000000}
+        ]
+      },
+      "Folk": {
+        "hashtags": [
+          {"tag": "#folk", "uses_count": 100000000},
+          {"tag": "#folklore", "uses_count": 50000000},
+          {"tag": "#traditionalart", "uses_count": 10000000},
+          {"tag": "#culture", "uses_count": 300000000},
+          {"tag": "#mythology", "uses_count": 50000000},
+          {"tag": "#pagan", "uses_count": 50000000},
+          {"tag": "#viking", "uses_count": 200000000},
+          {"tag": "#celtic", "uses_count": 50000000},
+          {"tag": "#norse", "uses_count": 30000000},
+          {"tag": "#witchcraft", "uses_count": 200000000},
+          {"tag": "#magic", "uses_count": 300000000},
+          {"tag": "#fantasy", "uses_count": 500000000},
+          {"tag": "#fairytale", "uses_count": 50000000},
+          {"tag": "#storytelling", "uses_count": 100000000},
+          {"tag": "#history", "uses_count": 500000000}
+        ]
+      },
+      "SingerSongwriter": {
+        "hashtags": [
+          {"tag": "#singersongwriter", "uses_count": 100000000},
+          {"tag": "#acoustic", "uses_count": 200000000},
+          {"tag": "#originalmusic", "uses_count": 100000000},
+          {"tag": "#songwriter", "uses_count": 100000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#musician", "uses_count": 200000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#newmusic", "uses_count": 300000000},
+          {"tag": "#indiemusic", "uses_count": 150000000},
+          {"tag": "#artist", "uses_count": 500000000},
+          {"tag": "#singer", "uses_count": 300000000},
+          {"tag": "#guitar", "uses_count": 500000000},
+          {"tag": "#love", "uses_count": 2000000000},
+          {"tag": "#pop", "uses_count": 1000000000},
+          {"tag": "#rock", "uses_count": 800000000}
+        ]
+      },
+      "Acoustic": {
+        "hashtags": [
+          {"tag": "#acoustic", "uses_count": 200000000},
+          {"tag": "#acousticguitar", "uses_count": 100000000},
+          {"tag": "#guitar", "uses_count": 500000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#cover", "uses_count": 500000000},
+          {"tag": "#singer", "uses_count": 300000000},
+          {"tag": "#singersongwriter", "uses_count": 100000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#unplugged", "uses_count": 50000000},
+          {"tag": "#acousticcover", "uses_count": 30000000},
+          {"tag": "#musician", "uses_count": 200000000},
+          {"tag": "#instamusic", "uses_count": 100000000},
+          {"tag": "#love", "uses_count": 2000000000},
+          {"tag": "#song", "uses_count": 500000000},
+          {"tag": "#artist", "uses_count": 500000000}
+        ]
+      },
+      "IndieFolk": {
+        "hashtags": [
+          {"tag": "#indiefolk", "uses_count": 20000000},
+          {"tag": "#folk", "uses_count": 100000000},
+          {"tag": "#indiemusic", "uses_count": 150000000},
+          {"tag": "#singersongwriter", "uses_count": 100000000},
+          {"tag": "#acoustic", "uses_count": 200000000},
+          {"tag": "#boniver", "uses_count": 5000000},
+          {"tag": "#fleetfoxes", "uses_count": 1000000},
+          {"tag": "#thelumineers", "uses_count": 5000000},
+          {"tag": "#mumfordandsons", "uses_count": 5000000},
+          {"tag": "#ofmonstersandmen", "uses_count": 1000000},
+          {"tag": "#sufjanstevens", "uses_count": 1000000},
+          {"tag": "#ironandwine", "uses_count": 1000000},
+          {"tag": "#folkmusic", "uses_count": 20000000},
+          {"tag": "#newmusic", "uses_count": 300000000},
+          {"tag": "#nowplaying", "uses_count": 100000000}
+        ]
+      },
+      "FolkRock": {
+        "hashtags": [
+          {"tag": "#folkrock", "uses_count": 10000000},
+          {"tag": "#rock", "uses_count": 800000000},
+          {"tag": "#folk", "uses_count": 100000000},
+          {"tag": "#singersongwriter", "uses_count": 100000000},
+          {"tag": "#bobdylan", "uses_count": 10000000},
+          {"tag": "#neilyoung", "uses_count": 5000000},
+          {"tag": "#thebyrds", "uses_count": 1000000},
+          {"tag": "#simonandgarfunkel", "uses_count": 1000000},
+          {"tag": "#crosbystillsandnash", "uses_count": 1000000},
+          {"tag": "#jonimitchell", "uses_count": 1000000},
+          {"tag": "#classicrock", "uses_count": 200000000},
+          {"tag": "#60smusic", "uses_count": 10000000},
+          {"tag": "#70smusic", "uses_count": 20000000},
+          {"tag": "#vinyl", "uses_count": 100000000},
+          {"tag": "#nowspinning", "uses_count": 20000000}
+        ]
+      },
+      "Americana": {
+        "hashtags": [
+          {"tag": "#americana", "uses_count": 50000000},
+          {"tag": "#americanamusic", "uses_count": 5000000},
+          {"tag": "#rootsmusic", "uses_count": 5000000},
+          {"tag": "#altcountry", "uses_count": 5000000},
+          {"tag": "#folk", "uses_count": 100000000},
+          {"tag": "#countrymusic", "uses_count": 200000000},
+          {"tag": "#bluegrass", "uses_count": 30000000},
+          {"tag": "#singersongwriter", "uses_count": 100000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#nashville", "uses_count": 100000000},
+          {"tag": "#austin", "uses_count": 100000000},
+          {"tag": "#texasmusic", "uses_count": 5000000},
+          {"tag": "#realcountrymusic", "uses_count": 5000000},
+          {"tag": "#supportlocalmusic", "uses_count": 20000000},
+          {"tag": "#newmusic", "uses_count": 300000000}
+        ]
+      },
+      "WorldMusic": {
+        "hashtags": [
+          {"tag": "#worldmusic", "uses_count": 50000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#musica", "uses_count": 300000000},
+          {"tag": "#globalmusic", "uses_count": 1000000},
+          {"tag": "#worldfusion", "uses_count": 1000000},
+          {"tag": "#ethnicmusic", "uses_count": 100000},
+          {"tag": "#traditionalmusic", "uses_count": 5000000},
+          {"tag": "#folkmusic", "uses_count": 20000000},
+          {"tag": "#africanmusic", "uses_count": 5000000},
+          {"tag": "#latinmusic", "uses_count": 50000000},
+          {"tag": "#reggae", "uses_count": 200000000},
+          {"tag": "#celticmusic", "uses_count": 5000000},
+          {"tag": "#indianmusic", "uses_count": 10000000},
+          {"tag": "#middleeasternmusic", "uses_count": 1000000}
+        ]
+      },
+      "FolkFestival": {
+        "hashtags": [
+          {"tag": "#folkfestival", "uses_count": 5000000},
+          {"tag": "#musicfestival", "uses_count": 100000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#folkmusic", "uses_count": 20000000},
+          {"tag": "#folk", "uses_count": 100000000},
+          {"tag": "#summerfestival", "uses_count": 10000000},
+          {"tag": "#festival", "uses_count": 200000000},
+          {"tag": "#singersongwriter", "uses_count": 100000000},
+          {"tag": "#acoustic", "uses_count": 200000000},
+          {"tag": "#americana", "uses_count": 50000000},
+          {"tag": "#bluegrass", "uses_count": 30000000},
+          {"tag": "#craftfair", "uses_count": 10000000},
+          {"tag": "#supportlivemusic", "uses_count": 50000000},
+          {"tag": "#goodvibes", "uses_count": 500000000},
+          {"tag": "#community", "uses_count": 300000000}
+        ]
+      },
+      "FolkSinger": {
+        "hashtags": [
+          {"tag": "#folksinger", "uses_count": 5000000},
+          {"tag": "#singersongwriter", "uses_count": 100000000},
+          {"tag": "#folk", "uses_count": 100000000},
+          {"tag": "#musician", "uses_count": 200000000},
+          {"tag": "#acoustic", "uses_count": 200000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#originalmusic", "uses_count": 100000000},
+          {"tag": "#bobdylan", "uses_count": 10000000},
+          {"tag": "#joanbaez", "uses_count": 1000000},
+          {"tag": "#woodyguthrie", "uses_count": 1000000},
+          {"tag": "#peteseeger", "uses_count": 1000000},
+          {"tag": "#voiceofthepeople", "uses_count": 100000},
+          {"tag": "#protestsong", "uses_count": 1000000},
+          {"tag": "#troubadour", "uses_count": 1000000},
+          {"tag": "#storyteller", "uses_count": 50000000}
+        ]
+      }
+    },
+    "Country Music": {
+      "CountryMusic": {
+        "hashtags": [
+          {"tag": "#countrymusic", "uses_count": 200000000},
+          {"tag": "#country", "uses_count": 500000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#nashville", "uses_count": 100000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#singersongwriter", "uses_count": 100000000},
+          {"tag": "#singer", "uses_count": 300000000},
+          {"tag": "#newmusic", "uses_count": 300000000},
+          {"tag": "#countrygirl", "uses_count": 100000000},
+          {"tag": "#songwriter", "uses_count": 100000000},
+          {"tag": "#musician", "uses_count": 200000000},
+          {"tag": "#countrylife", "uses_count": 150000000},
+          {"tag": "#cowboy", "uses_count": 200000000},
+          {"tag": "#americana", "uses_count": 50000000},
+          {"tag": "#outlawcountry", "uses_count": 10000000}
+        ]
+      },
+      "Country": {
+        "hashtags": [
+          {"tag": "#country", "uses_count": 500000000},
+          {"tag": "#countrylife", "uses_count": 150000000},
+          {"tag": "#countryliving", "uses_count": 100000000},
+          {"tag": "#nature", "uses_count": 1000000000},
+          {"tag": "#love", "uses_count": 2000000000},
+          {"tag": "#photography", "uses_count": 1500000000},
+          {"tag": "#travel", "uses_count": 1000000000},
+          {"tag": "#farm", "uses_count": 100000000},
+          {"tag": "#agriculture", "uses_count": 50000000},
+          {"tag": "#sunset", "uses_count": 500000000},
+          {"tag": "#beautiful", "uses_count": 1500000000},
+          {"tag": "#photooftheday", "uses_count": 1300000000},
+          {"tag": "#instagood", "uses_count": 1800000000},
+          {"tag": "#summer", "uses_count": 1000000000},
+          {"tag": "#sky", "uses_count": 800000000}
+        ]
+      },
+      "Nashville": {
+        "hashtags": [
+          {"tag": "#nashville", "uses_count": 100000000},
+          {"tag": "#musiccity", "uses_count": 20000000},
+          {"tag": "#tennessee", "uses_count": 50000000},
+          {"tag": "#countrymusic", "uses_count": 200000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#nashvilletn", "uses_count": 10000000},
+          {"tag": "#explorepage", "uses_count": 1000000000},
+          {"tag": "#downtownnashville", "uses_count": 5000000},
+          {"tag": "#broadwaynashville", "uses_count": 1000000},
+          {"tag": "#singersongwriter", "uses_count": 100000000},
+          {"tag": "#musician", "uses_count": 200000000},
+          {"tag": "#love", "uses_count": 2000000000},
+          {"tag": "#instagood", "uses_count": 1800000000},
+          {"tag": "#photooftheday", "uses_count": 1300000000},
+          {"tag": "#travel", "uses_count": 1000000000}
+        ]
+      },
+      "GrandOleOpry": {
+        "hashtags": [
+          {"tag": "#grandoleopry", "uses_count": 5000000},
+          {"tag": "#opry", "uses_count": 10000000},
+          {"tag": "#nashville", "uses_count": 100000000},
+          {"tag": "#countrymusic", "uses_count": 200000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#musiccity", "uses_count": 20000000},
+          {"tag": "#rymanauditorium", "uses_count": 1000000},
+          {"tag": "#johnnycash", "uses_count": 10000000},
+          {"tag": "#dollyparton", "uses_count": 10000000},
+          {"tag": "#lorettalynn", "uses_count": 1000000},
+          {"tag": "#hankwilliams", "uses_count": 1000000},
+          {"tag": "#patsycline", "uses_count": 1000000},
+          {"tag": "#classiccountry", "uses_count": 10000000},
+          {"tag": "#iconic", "uses_count": 100000000},
+          {"tag": "#legend", "uses_count": 200000000}
+        ]
+      },
+      "CountryGirl": {
+        "hashtags": [
+          {"tag": "#countrygirl", "uses_count": 100000000},
+          {"tag": "#country", "uses_count": 500000000},
+          {"tag": "#countrylife", "uses_count": 150000000},
+          {"tag": "#love", "uses_count": 2000000000},
+          {"tag": "#cowgirl", "uses_count": 100000000},
+          {"tag": "#countryboy", "uses_count": 80000000},
+          {"tag": "#southern", "uses_count": 100000000},
+          {"tag": "#beautiful", "uses_count": 1500000000},
+          {"tag": "#instagood", "uses_count": 1800000000},
+          {"tag": "#photooftheday", "uses_count": 1300000000},
+          {"tag": "#selfie", "uses_count": 1000000000},
+          {"tag": "#summer", "uses_count": 1000000000},
+          {"tag": "#smile", "uses_count": 1200000000},
+          {"tag": "#me", "uses_count": 2000000000},
+          {"tag": "#cute", "uses_count": 1500000000}
+        ]
+      },
+      "CountryBoy": {
+        "hashtags": [
+          {"tag": "#countryboy", "uses_count": 80000000},
+          {"tag": "#country", "uses_count": 500000000},
+          {"tag": "#countrylife", "uses_count": 150000000},
+          {"tag": "#love", "uses_count": 2000000000},
+          {"tag": "#cowboy", "uses_count": 200000000},
+          {"tag": "#countrygirl", "uses_count": 100000000},
+          {"tag": "#southern", "uses_count": 100000000},
+          {"tag": "#instagood", "uses_count": 1800000000},
+          {"tag": "#photooftheday", "uses_count": 1300000000},
+          {"tag": "#selfie", "uses_count": 1000000000},
+          {"tag": "#summer", "uses_count": 1000000000},
+          {"tag": "#smile", "uses_count": 1200000000},
+          {"tag": "#me", "uses_count": 2000000000},
+          {"tag": "#cute", "uses_count": 1500000000},
+          {"tag": "#handsome", "uses_count": 300000000}
+        ]
+      },
+      "OutlawCountry": {
+        "hashtags": [
+          {"tag": "#outlawcountry", "uses_count": 10000000},
+          {"tag": "#countrymusic", "uses_count": 200000000},
+          {"tag": "#waylonjennings", "uses_count": 1000000},
+          {"tag": "#willienelson", "uses_count": 5000000},
+          {"tag": "#johnnycash", "uses_count": 10000000},
+          {"tag": "#merlehaggard", "uses_count": 1000000},
+          {"tag": "#realcountrymusic", "uses_count": 5000000},
+          {"tag": "#classiccountry", "uses_count": 10000000},
+          {"tag": "#honkytonk", "uses_count": 10000000},
+          {"tag": "#americana", "uses_count": 50000000},
+          {"tag": "#countryrebel", "uses_count": 1000000},
+          {"tag": "#supportrealcountrymusic", "uses_count": 100000},
+          {"tag": "#outlaw", "uses_count": 50000000},
+          {"tag": "#rebel", "uses_count": 100000000},
+          {"tag": "#getdownwiththegetdown", "uses_count": 100000}
+        ]
+      },
+      "ClassicCountry": {
+        "hashtags": [
+          {"tag": "#classiccountry", "uses_count": 10000000},
+          {"tag": "#countrymusic", "uses_count": 200000000},
+          {"tag": "#realcountrymusic", "uses_count": 5000000},
+          {"tag": "#johnnycash", "uses_count": 10000000},
+          {"tag": "#georgejones", "uses_count": 1000000},
+          {"tag": "#hankwilliams", "uses_count": 1000000},
+          {"tag": "#lorettalynn", "uses_count": 1000000},
+          {"tag": "#patsycline", "uses_count": 1000000},
+          {"tag": "#merlehaggard", "uses_count": 1000000},
+          {"tag": "#waylonjennings", "uses_count": 1000000},
+          {"tag": "#willienelson", "uses_count": 5000000},
+          {"tag": "#grandoleopry", "uses_count": 5000000},
+          {"tag": "#opry", "uses_count": 10000000},
+          {"tag": "#vinyl", "uses_count": 100000000},
+          {"tag": "#nowspinning", "uses_count": 20000000}
+        ]
+      },
+      "HonkyTonk": {
+        "hashtags": [
+          {"tag": "#honkytonk", "uses_count": 10000000},
+          {"tag": "#countrymusic", "uses_count": 200000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#nashville", "uses_count": 100000000},
+          {"tag": "#realcountrymusic", "uses_count": 5000000},
+          {"tag": "#dancehall", "uses_count": 10000000},
+          {"tag": "#twosteppin", "uses_count": 1000000},
+          {"tag": "#beerjoint", "uses_count": 100000},
+          {"tag": "#jukejoint", "uses_count": 1000000},
+          {"tag": "#neonlights", "uses_count": 10000000},
+          {"tag": "#saturdaynight", "uses_count": 200000000},
+          {"tag": "#goodtimes", "uses_count": 500000000},
+          {"tag": "#countrybar", "uses_count": 1000000},
+          {"tag": "#supportlivemusic", "uses_count": 50000000},
+          {"tag": "#getdownwiththegetdown", "uses_count": 100000}
+        ]
+      },
+      "CountrySinger": {
+        "hashtags": [
+          {"tag": "#countrysinger", "uses_count": 20000000},
+          {"tag": "#countrymusic", "uses_count": 200000000},
+          {"tag": "#singer", "uses_count": 300000000},
+          {"tag": "#songwriter", "uses_count": 100000000},
+          {"tag": "#musician", "uses_count": 200000000},
+          {"tag": "#nashville", "uses_count": 100000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#newmusic", "uses_count": 300000000},
+          {"tag": "#garthbrooks", "uses_count": 1000000},
+          {"tag": "#blakeshelton", "uses_count": 5000000},
+          {"tag": "#carrieunderwood", "uses_count": 5000000},
+          {"tag": "#lukecombs", "uses_count": 5000000},
+          {"tag": "#morganwallen", "uses_count": 5000000},
+          {"tag": "#chrisstapleton", "uses_count": 1000000},
+          {"tag": "#supportcountrymusic", "uses_count": 1000000}
+        ]
+      }
+    },
+    "Electronic Music": {
+      "ElectronicMusic": {
+        "hashtags": [
+          {"tag": "#electronicmusic", "uses_count": 100000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#techno", "uses_count": 300000000},
+          {"tag": "#housemusic", "uses_count": 400000000},
+          {"tag": "#edm", "uses_count": 500000000},
+          {"tag": "#rave", "uses_count": 200000000},
+          {"tag": "#deephouse", "uses_count": 100000000},
+          {"tag": "#technomusic", "uses_count": 50000000},
+          {"tag": "#dance", "uses_count": 800000000},
+          {"tag": "#dancemusic", "uses_count": 100000000},
+          {"tag": "#djlife", "uses_count": 150000000},
+          {"tag": "#producer", "uses_count": 200000000},
+          {"tag": "#festival", "uses_count": 200000000},
+          {"tag": "#trance", "uses_count": 100000000},
+          {"tag": "#dubstep", "uses_count": 150000000}
+        ]
+      },
+      "EDM": {
+        "hashtags": [
+          {"tag": "#edm", "uses_count": 500000000},
+          {"tag": "#electronicdancemusic", "uses_count": 20000000},
+          {"tag": "#rave", "uses_count": 200000000},
+          {"tag": "#dj", "uses_count": 500000000},
+          {"tag": "#festival", "uses_count": 200000000},
+          {"tag": "#housemusic", "uses_count": 400000000},
+          {"tag": "#techno", "uses_count": 300000000},
+          {"tag": "#trance", "uses_count": 100000000},
+          {"tag": "#dubstep", "uses_count": 150000000},
+          {"tag": "#tomorrowland", "uses_count": 50000000},
+          {"tag": "#ultramusicfestival", "uses_count": 10000000},
+          {"tag": "#edc", "uses_count": 20000000},
+          {"tag": "#plur", "uses_count": 30000000},
+          {"tag": "#edmlife", "uses_count": 20000000},
+          {"tag": "#edmvibes", "uses_count": 10000000}
+        ]
+      },
+      "Techno": {
+        "hashtags": [
+          {"tag": "#techno", "uses_count": 300000000},
+          {"tag": "#technomusic", "uses_count": 50000000},
+          {"tag": "#rave", "uses_count": 200000000},
+          {"tag": "#darktechno", "uses_count": 10000000},
+          {"tag": "#industrialtechno", "uses_count": 5000000},
+          {"tag": "#acidtechno", "uses_count": 5000000},
+          {"tag": "#minimaltechno", "uses_count": 10000000},
+          {"tag": "#hardtechno", "uses_count": 10000000},
+          {"tag": "#berlintechno", "uses_count": 10000000},
+          {"tag": "#undergroundtechno", "uses_count": 5000000},
+          {"tag": "#technodj", "uses_count": 10000000},
+          {"tag": "#technofamily", "uses_count": 10000000},
+          {"tag": "#technolove", "uses_count": 10000000},
+          {"tag": "#technovibes", "uses_count": 5000000},
+          {"tag": "#berghain", "uses_count": 5000000}
+        ]
+      },
+      "HouseMusic": {
+        "hashtags": [
+          {"tag": "#housemusic", "uses_count": 400000000},
+          {"tag": "#deephouse", "uses_count": 100000000},
+          {"tag": "#techhouse", "uses_count": 80000000},
+          {"tag": "#soulfulhouse", "uses_count": 20000000},
+          {"tag": "#afrohouse", "uses_count": 30000000},
+          {"tag": "#jackinhouse", "uses_count": 5000000},
+          {"tag": "#chicagohouse", "uses_count": 10000000},
+          {"tag": "#vocalhouse", "uses_count": 10000000},
+          {"tag": "#housemusicallnightlong", "uses_count": 10000000},
+          {"tag": "#housemusiclovers", "uses_count": 10000000},
+          {"tag": "#housemusicdj", "uses_count": 5000000},
+          {"tag": "#ibiza", "uses_count": 100000000},
+          {"tag": "#defected", "uses_count": 5000000},
+          {"tag": "#glitterbox", "uses_count": 5000000},
+          {"tag": "#toolroom", "uses_count": 1000000}
+        ]
+      },
+      "Trance": {
+        "hashtags": [
+          {"tag": "#trance", "uses_count": 100000000},
+          {"tag": "#trancemusic", "uses_count": 30000000},
+          {"tag": "#trancefamily", "uses_count": 50000000},
+          {"tag": "#upliftingtrance", "uses_count": 10000000},
+          {"tag": "#progressivetrance", "uses_count": 10000000},
+          {"tag": "#vocaltrance", "uses_count": 10000000},
+          {"tag": "#psytrance", "uses_count": 50000000},
+          {"tag": "#arminvanbuuren", "uses_count": 10000000},
+          {"tag": "#asot", "uses_count": 20000000},
+          {"tag": "#aboveandbeyond", "uses_count": 5000000},
+          {"tag": "#dreamstate", "uses_count": 5000000},
+          {"tag": "#trancedj", "uses_count": 5000000},
+          {"tag": "#trancelove", "uses_count": 5000000},
+          {"tag": "#trancenation", "uses_count": 5000000},
+          {"tag": "#wearetrance", "uses_count": 1000000}
+        ]
+      },
+      "Dubstep": {
+        "hashtags": [
+          {"tag": "#dubstep", "uses_count": 150000000},
+          {"tag": "#riddim", "uses_count": 20000000},
+          {"tag": "#bassmusic", "uses_count": 50000000},
+          {"tag": "#deathstep", "uses_count": 1000000},
+          {"tag": "#tearout", "uses_count": 1000000},
+          {"tag": "#brostep", "uses_count": 1000000},
+          {"tag": "#dubstepgutter", "uses_count": 1000000},
+          {"tag": "#skrillex", "uses_count": 10000000},
+          {"tag": "#excision", "uses_count": 5000000},
+          {"tag": "#lostlands", "uses_count": 5000000},
+          {"tag": "#basscanyon", "uses_count": 1000000},
+          {"tag": "#headbanger", "uses_count": 10000000},
+          {"tag": "#railbreaker", "uses_count": 5000000},
+          {"tag": "#dubstepdrops", "uses_count": 1000000},
+          {"tag": "#wobble", "uses_count": 5000000}
+        ]
+      },
+      "Rave": {
+        "hashtags": [
+          {"tag": "#rave", "uses_count": 200000000},
+          {"tag": "#raver", "uses_count": 50000000},
+          {"tag": "#plur", "uses_count": 30000000},
+          {"tag": "#edm", "uses_count": 500000000},
+          {"tag": "#festival", "uses_count": 200000000},
+          {"tag": "#techno", "uses_count": 300000000},
+          {"tag": "#housemusic", "uses_count": 400000000},
+          {"tag": "#trance", "uses_count": 100000000},
+          {"tag": "#dubstep", "uses_count": 150000000},
+          {"tag": "#kandi", "uses_count": 10000000},
+          {"tag": "#raveculture", "uses_count": 10000000},
+          {"tag": "#raveoutfit", "uses_count": 10000000},
+          {"tag": "#edmlifestyle", "uses_count": 10000000},
+          {"tag": "#party", "uses_count": 1000000000},
+          {"tag": "#dance", "uses_count": 800000000}
+        ]
+      },
+      "DJ": {
+        "hashtags": [
+          {"tag": "#dj", "uses_count": 500000000},
+          {"tag": "#djlife", "uses_count": 150000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#producer", "uses_count": 200000000},
+          {"tag": "#techno", "uses_count": 300000000},
+          {"tag": "#housemusic", "uses_count": 400000000},
+          {"tag": "#hiphop", "uses_count": 1000000000},
+          {"tag": "#party", "uses_count": 1000000000},
+          {"tag": "#dance", "uses_count": 800000000},
+          {"tag": "#rave", "uses_count": 200000000},
+          {"tag": "#djs", "uses_count": 50000000},
+          {"tag": "#turntablism", "uses_count": 5000000},
+          {"tag": "#pioneerdj", "uses_count": 20000000},
+          {"tag": "#serato", "uses_count": 10000000},
+          {"tag": "#vinyl", "uses_count": 100000000}
+        ]
+      },
+      "Producer": {
+        "hashtags": [
+          {"tag": "#producer", "uses_count": 200000000},
+          {"tag": "#musicproducer", "uses_count": 100000000},
+          {"tag": "#beatmaker", "uses_count": 80000000},
+          {"tag": "#flstudio", "uses_count": 50000000},
+          {"tag": "#ableton", "uses_count": 50000000},
+          {"tag": "#logicpro", "uses_count": 30000000},
+          {"tag": "#studiolife", "uses_count": 100000000},
+          {"tag": "#musicproduction", "uses_count": 80000000},
+          {"tag": "#beats", "uses_count": 300000000},
+          {"tag": "#instrumental", "uses_count": 100000000},
+          {"tag": "#trapbeats", "uses_count": 50000000},
+          {"tag": "#hiphopbeats", "uses_count": 50000000},
+          {"tag": "#newmusic", "uses_count": 300000000},
+          {"tag": "#artist", "uses_count": 500000000},
+          {"tag": "#soundcloud", "uses_count": 200000000}
+        ]
+      },
+      "Synth": {
+        "hashtags": [
+          {"tag": "#synth", "uses_count": 50000000},
+          {"tag": "#synthesizer", "uses_count": 30000000},
+          {"tag": "#modularsynth", "uses_count": 20000000},
+          {"tag": "#eurorack", "uses_count": 10000000},
+          {"tag": "#analogsynth", "uses_count": 10000000},
+          {"tag": "#vintagesynth", "uses_count": 5000000},
+          {"tag": "#synthwave", "uses_count": 30000000},
+          {"tag": "#retrowave", "uses_count": 20000000},
+          {"tag": "#outrun", "uses_count": 10000000},
+          {"tag": "#80s", "uses_count": 500000000},
+          {"tag": "#electronicmusic", "uses_count": 100000000},
+          {"tag": "#producer", "uses_count": 200000000},
+          {"tag": "#studiogear", "uses_count": 10000000},
+          {"tag": "#gearporn", "uses_count": 20000000},
+          {"tag": "#keyboard", "uses_count": 100000000}
+        ]
+      }
+    },
+    "Jazz Music": {
+      "Jazz": {
+        "hashtags": [
+          {"tag": "#jazz", "uses_count": 200000000},
+          {"tag": "#jazzmusic", "uses_count": 50000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#jazzclub", "uses_count": 10000000},
+          {"tag": "#jazzpiano", "uses_count": 10000000},
+          {"tag": "#jazzguitar", "uses_count": 5000000},
+          {"tag": "#saxophone", "uses_count": 50000000},
+          {"tag": "#bebop", "uses_count": 5000000},
+          {"tag": "#swing", "uses_count": 100000000},
+          {"tag": "#smoothjazz", "uses_count": 10000000},
+          {"tag": "#livejazz", "uses_count": 5000000},
+          {"tag": "#instajazz", "uses_count": 5000000},
+          {"tag": "#jazzlover", "uses_count": 5000000},
+          {"tag": "#jazzmaster", "uses_count": 5000000}
+        ]
+      },
+      "JazzMusic": {
+        "hashtags": [
+          {"tag": "#jazzmusic", "uses_count": 50000000},
+          {"tag": "#jazz", "uses_count": 200000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#livejazz", "uses_count": 5000000},
+          {"tag": "#jazzfestival", "uses_count": 5000000},
+          {"tag": "#newyorkjazz", "uses_count": 1000000},
+          {"tag": "#londonjazz", "uses_count": 1000000},
+          {"tag": "#parisjazz", "uses_count": 1000000},
+          {"tag": "#milesdavis", "uses_count": 5000000},
+          {"tag": "#johncoltrane", "uses_count": 1000000},
+          {"tag": "#dukeellington", "uses_count": 1000000},
+          {"tag": "#billieholiday", "uses_count": 1000000},
+          {"tag": "#chetbaker", "uses_count": 1000000},
+          {"tag": "#supportlivemusic", "uses_count": 50000000},
+          {"tag": "#jazzstandard", "uses_count": 1000000}
+        ]
+      },
+      "JazzClub": {
+        "hashtags": [
+          {"tag": "#jazzclub", "uses_count": 10000000},
+          {"tag": "#livejazz", "uses_count": 5000000},
+          {"tag": "#jazz", "uses_count": 200000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#jazzbar", "uses_count": 1000000},
+          {"tag": "#speakeasy", "uses_count": 10000000},
+          {"tag": "#newyorkcity", "uses_count": 500000000},
+          {"tag": "#london", "uses_count": 1000000000},
+          {"tag": "#paris", "uses_count": 1000000000},
+          {"tag": "#nightlife", "uses_count": 200000000},
+          {"tag": "#cocktails", "uses_count": 300000000},
+          {"tag": "#goodvibes", "uses_count": 500000000},
+          {"tag": "#datenight", "uses_count": 200000000},
+          {"tag": "#bluenote", "uses_count": 5000000},
+          {"tag": "#villagevanguard", "uses_count": 1000000}
+        ]
+      },
+      "JazzPiano": {
+        "hashtags": [
+          {"tag": "#jazzpiano", "uses_count": 10000000},
+          {"tag": "#piano", "uses_count": 300000000},
+          {"tag": "#jazz", "uses_count": 200000000},
+          {"tag": "#pianist", "uses_count": 100000000},
+          {"tag": "#pianosolo", "uses_count": 10000000},
+          {"tag": "#bill-evans", "uses_count": 1000000},
+          {"tag": "#theloniousmonk", "uses_count": 1000000},
+          {"tag": "#keithjarrett", "uses_count": 1000000},
+          {"tag": "#herbiehancock", "uses_count": 1000000},
+          {"tag": "#chickcorea", "uses_count": 1000000},
+          {"tag": "#jazzstandard", "uses_count": 1000000},
+          {"tag": "#improvisation", "uses_count": 10000000},
+          {"tag": "#swing", "uses_count": 100000000},
+          {"tag": "#bebop", "uses_count": 5000000},
+          {"tag": "#instapiano", "uses_count": 20000000}
+        ]
+      },
+      "JazzGuitar": {
+        "hashtags": [
+          {"tag": "#jazzguitar", "uses_count": 5000000},
+          {"tag": "#guitar", "uses_count": 500000000},
+          {"tag": "#jazz", "uses_count": 200000000},
+          {"tag": "#guitarist", "uses_count": 150000000},
+          {"tag": "#guitarsolo", "uses_count": 50000000},
+          {"tag": "#archtop", "uses_count": 1000000},
+          {"tag": "#wesmontgomery", "uses_count": 1000000},
+          {"tag": "#joepass", "uses_count": 1000000},
+          {"tag": "#patmetheny", "uses_count": 1000000},
+          {"tag": "#django-reinhardt", "uses_count": 1000000},
+          {"tag": "#jazzstandard", "uses_count": 1000000},
+          {"tag": "#improvisation", "uses_count": 10000000},
+          {"tag": "#swing", "uses_count": 100000000},
+          {"tag": "#bebop", "uses_count": 5000000},
+          {"tag": "#instaguitar", "uses_count": 20000000}
+        ]
+      },
+      "Saxophone": {
+        "hashtags": [
+          {"tag": "#saxophone", "uses_count": 50000000},
+          {"tag": "#sax", "uses_count": 100000000},
+          {"tag": "#saxophonist", "uses_count": 10000000},
+          {"tag": "#jazz", "uses_count": 200000000},
+          {"tag": "#altosax", "uses_count": 10000000},
+          {"tag": "#tenorsax", "uses_count": 10000000},
+          {"tag": "#sopranosax", "uses_count": 5000000},
+          {"tag": "#barisax", "uses_count": 1000000},
+          {"tag": "#johncoltrane", "uses_count": 1000000},
+          {"tag": "#charlieparker", "uses_count": 1000000},
+          {"tag": "#sonnyrollins", "uses_count": 1000000},
+          {"tag": "#cannonballadderley", "uses_count": 100000},
+          {"tag": "#woodwind", "uses_count": 5000000},
+          {"tag": "#instrument", "uses_count": 50000000},
+          {"tag": "#music", "uses_count": 1000000000}
+        ]
+      },
+      "Bebop": {
+        "hashtags": [
+          {"tag": "#bebop", "uses_count": 5000000},
+          {"tag": "#jazz", "uses_count": 200000000},
+          {"tag": "#hardbop", "uses_count": 1000000},
+          {"tag": "#charlieparker", "uses_count": 1000000},
+          {"tag": "#dizzygillespie", "uses_count": 1000000},
+          {"tag": "#theloniousmonk", "uses_count": 1000000},
+          {"tag": "#budpowell", "uses_count": 100000},
+          {"tag": "#maxroach", "uses_count": 100000},
+          {"tag": "#jazzhistory", "uses_count": 1000000},
+          {"tag": "#jazzstandard", "uses_count": 1000000},
+          {"tag": "#improvisation", "uses_count": 10000000},
+          {"tag": "#saxophone", "uses_count": 50000000},
+          {"tag": "#trumpet", "uses_count": 40000000},
+          {"tag": "#piano", "uses_count": 300000000},
+          {"tag": "#drums", "uses_count": 100000000}
+        ]
+      },
+      "Swing": {
+        "hashtags": [
+          {"tag": "#swing", "uses_count": 100000000},
+          {"tag": "#swingdance", "uses_count": 20000000},
+          {"tag": "#lindyhop", "uses_count": 10000000},
+          {"tag": "#charleston", "uses_count": 20000000},
+          {"tag": "#balboa", "uses_count": 1000000},
+          {"tag": "#jazz", "uses_count": 200000000},
+          {"tag": "#bigband", "uses_count": 5000000},
+          {"tag": "#vintage", "uses_count": 500000000},
+          {"tag": "#retro", "uses_count": 300000000},
+          {"tag": "#1920s", "uses_count": 50000000},
+          {"tag": "#1930s", "uses_count": 20000000},
+          {"tag": "#1940s", "uses_count": 30000000},
+          {"tag": "#dance", "uses_count": 800000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#fun", "uses_count": 2000000000}
+        ]
+      },
+      "SmoothJazz": {
+        "hashtags": [
+          {"tag": "#smoothjazz", "uses_count": 10000000},
+          {"tag": "#jazz", "uses_count": 200000000},
+          {"tag": "#rnb", "uses_count": 500000000},
+          {"tag": "#soul", "uses_count": 200000000},
+          {"tag": "#chillout", "uses_count": 50000000},
+          {"tag": "#relaxingmusic", "uses_count": 10000000},
+          {"tag": "#kennyg", "uses_count": 1000000},
+          {"tag": "#sade", "uses_count": 5000000},
+          {"tag": "#groverwashingtonjr", "uses_count": 100000},
+          {"tag": "#georgebenson", "uses_count": 1000000},
+          {"tag": "#instrumentalmusic", "uses_count": 10000000},
+          {"tag": "#saxophone", "uses_count": 50000000},
+          {"tag": "#guitar", "uses_count": 500000000},
+          {"tag": "#radio", "uses_count": 100000000},
+          {"tag": "#goodvibes", "uses_count": 500000000}
+        ]
+      },
+      "LiveJazz": {
+        "hashtags": [
+          {"tag": "#livejazz", "uses_count": 5000000},
+          {"tag": "#jazz", "uses_count": 200000000},
+          {"tag": "#livemusic", "uses_count": 250000000},
+          {"tag": "#jazzclub", "uses_count": 10000000},
+          {"tag": "#jazzbar", "uses_count": 1000000},
+          {"tag": "#supportlivemusic", "uses_count": 50000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#concert", "uses_count": 150000000},
+          {"tag": "#band", "uses_count": 200000000},
+          {"tag": "#musician", "uses_count": 200000000},
+          {"tag": "#singer", "uses_count": 300000000},
+          {"tag": "#saxophone", "uses_count": 50000000},
+          {"tag": "#piano", "uses_count": 300000000},
+          {"tag": "#newyork", "uses_count": 1000000000},
+          {"tag": "#london", "uses_count": 1000000000}
+        ]
+      }
+    },
+    "Latin Music": {
+      "LatinMusic": {
+        "hashtags": [
+          {"tag": "#latinmusic", "uses_count": 50000000},
+          {"tag": "#musicalatina", "uses_count": 30000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#reggaeton", "uses_count": 500000000},
+          {"tag": "#salsa", "uses_count": 200000000},
+          {"tag": "#bachata", "uses_count": 150000000},
+          {"tag": "#merengue", "uses_count": 50000000},
+          {"tag": "#cumbia", "uses_count": 100000000},
+          {"tag": "#latinpop", "uses_count": 50000000},
+          {"tag": "#rockenespanol", "uses_count": 10000000},
+          {"tag": "#musicaurbana", "uses_count": 50000000},
+          {"tag": "#badbunny", "uses_count": 100000000},
+          {"tag": "#jbalvin", "uses_count": 50000000},
+          {"tag": "#shakira", "uses_count": 100000000},
+          {"tag": "#maluma", "uses_count": 50000000}
+        ]
+      },
+      "MusicaLatina": {
+        "hashtags": [
+          {"tag": "#musicalatina", "uses_count": 30000000},
+          {"tag": "#latinmusic", "uses_count": 50000000},
+          {"tag": "#musica", "uses_count": 300000000},
+          {"tag": "#reggaeton", "uses_count": 500000000},
+          {"tag": "#salsa", "uses_count": 200000000},
+          {"tag": "#bachata", "uses_count": 150000000},
+          {"tag": "#merengue", "uses_count": 50000000},
+          {"tag": "#cumbia", "uses_count": 100000000},
+          {"tag": "#latinpop", "uses_count": 50000000},
+          {"tag": "#rockenespanol", "uses_count": 10000000},
+          {"tag": "#musicaurbana", "uses_count": 50000000},
+          {"tag": "#daddyyankee", "uses_count": 20000000},
+          {"tag": "#ozuna", "uses_count": 30000000},
+          {"tag": "#karolg", "uses_count": 50000000},
+          {"tag": "#nattinatasha", "uses_count": 20000000}
+        ]
+      },
+      "Reggaeton": {
+        "hashtags": [
+          {"tag": "#reggaeton", "uses_count": 500000000},
+          {"tag": "#musicaurbana", "uses_count": 50000000},
+          {"tag": "#trap", "uses_count": 300000000},
+          {"tag": "#dembow", "uses_count": 50000000},
+          {"tag": "#badbunny", "uses_count": 100000000},
+          {"tag": "#jbalvin", "uses_count": 50000000},
+          {"tag": "#daddyyankee", "uses_count": 20000000},
+          {"tag": "#ozuna", "uses_count": 30000000},
+          {"tag": "#karolg", "uses_count": 50000000},
+          {"tag": "#nattinatasha", "uses_count": 20000000},
+          {"tag": "#anuelaa", "uses_count": 30000000},
+          {"tag": "#sech", "uses_count": 10000000},
+          {"tag": "#rauwalejandro", "uses_count": 10000000},
+          {"tag": "#myketowers", "uses_count": 5000000},
+          {"tag": "#perreo", "uses_count": 20000000}
+        ]
+      },
+      "Salsa": {
+        "hashtags": [
+          {"tag": "#salsa", "uses_count": 200000000},
+          {"tag": "#salsadancing", "uses_count": 50000000},
+          {"tag": "#salsamusic", "uses_count": 10000000},
+          {"tag": "#salsacubana", "uses_count": 10000000},
+          {"tag": "#salsaromantica", "uses_count": 5000000},
+          {"tag": "#salsacasino", "uses_count": 1000000},
+          {"tag": "#salsaybachata", "uses_count": 10000000},
+          {"tag": "#marcanthony", "uses_count": 10000000},
+          {"tag": "#celiacruz", "uses_count": 1000000},
+          {"tag": "#hectorlavoe", "uses_count": 1000000},
+          {"tag": "#elgrancombodepuertorico", "uses_count": 100000},
+          {"tag": "#gruponiche", "uses_count": 1000000},
+          {"tag": "#faniaallstars", "uses_count": 100000},
+          {"tag": "#bailar", "uses_count": 100000000},
+          {"tag": "#fiesta", "uses_count": 500000000}
+        ]
+      },
+      "Bachata": {
+        "hashtags": [
+          {"tag": "#bachata", "uses_count": 150000000},
+          {"tag": "#bachatadancing", "uses_count": 30000000},
+          {"tag": "#bachatasensual", "uses_count": 20000000},
+          {"tag": "#bachatadominicana", "uses_count": 5000000},
+          {"tag": "#bachatafusion", "uses_count": 1000000},
+          {"tag": "#bachatatime", "uses_count": 5000000},
+          {"tag": "#romeosantos", "uses_count": 10000000},
+          {"tag": "#princeroyce", "uses_count": 5000000},
+          {"tag": "#aventura", "uses_count": 10000000},
+          {"tag": "#juanluisguerra", "uses_count": 1000000},
+          {"tag": "#danielsantacruz", "uses_count": 100000},
+          {"tag": "#bachatalove", "uses_count": 5000000},
+          {"tag": "#bachateros", "uses_count": 5000000},
+          {"tag": "#dance", "uses_count": 800000000},
+          {"tag": "#love", "uses_count": 2000000000}
+        ]
+      },
+      "Merengue": {
+        "hashtags": [
+          {"tag": "#merengue", "uses_count": 50000000},
+          {"tag": "#merenguedancing", "uses_count": 5000000},
+          {"tag": "#merengueclasico", "uses_count": 1000000},
+          {"tag": "#merenguetipico", "uses_count": 1000000},
+          {"tag": "#elviscrespo", "uses_count": 1000000},
+          {"tag": "#juanluisguerra", "uses_count": 1000000},
+          {"tag": "#olgatanon", "uses_count": 1000000},
+          {"tag": "#tonyrosario", "uses_count": 100000},
+          {"tag": "#loshermanosrosario", "uses_count": 100000},
+          {"tag": "#republicadominicana", "uses_count": 100000000},
+          {"tag": "#dominicanrepublic", "uses_count": 150000000},
+          {"tag": "#bailar", "uses_count": 100000000},
+          {"tag": "#fiesta", "uses_count": 500000000},
+          {"tag": "#sabroso", "uses_count": 10000000},
+          {"tag": "#azucar", "uses_count": 10000000}
+        ]
+      },
+      "Cumbia": {
+        "hashtags": [
+          {"tag": "#cumbia", "uses_count": 100000000},
+          {"tag": "#cumbiasonidera", "uses_count": 5000000},
+          {"tag": "#cumbiavillera", "uses_count": 5000000},
+          {"tag": "#cumbiacolombiana", "uses_count": 5000000},
+          {"tag": "#cumbiamexicana", "uses_count": 5000000},
+          {"tag": "#cumbiaargentina", "uses_count": 5000000},
+          {"tag": "#losangelesazules", "uses_count": 1000000},
+          {"tag": "#celso-pina", "uses_count": 100000},
+          {"tag": "#raymix", "uses_count": 1000000},
+          {"tag": "#gild", "uses_count": 1000000},
+          {"tag": "#sonoradinamita", "uses_count": 100000},
+          {"tag": "#bailando", "uses_count": 100000000},
+          {"tag": "#fiesta", "uses_count": 500000000},
+          {"tag": "#sabado", "uses_count": 200000000},
+          {"tag": "#domingo", "uses_count": 200000000}
+        ]
+      },
+      "LatinPop": {
+        "hashtags": [
+          {"tag": "#latinpop", "uses_count": 50000000},
+          {"tag": "#poplatino", "uses_count": 10000000},
+          {"tag": "#shakira", "uses_count": 100000000},
+          {"tag": "#rickymartin", "uses_count": 10000000},
+          {"tag": "#enriqueiglesias", "uses_count": 10000000},
+          {"tag": "#luismiguel", "uses_count": 5000000},
+          {"tag": "#thalia", "uses_count": 5000000},
+          {"tag": "#cnco", "uses_count": 10000000},
+          {"tag": "#sebastianyatra", "uses_count": 10000000},
+          {"tag": "#camilo", "uses_count": 20000000},
+          {"tag": "#evaluna", "uses_count": 10000000},
+          {"tag": "#despacito", "uses_count": 10000000},
+          {"tag": "#bailamos", "uses_count": 1000000},
+          {"tag": "#vivirlavida", "uses_count": 1000000},
+          {"tag": "#macarena", "uses_count": 5000000}
+        ]
+      },
+      "RockEnEspanol": {
+        "hashtags": [
+          {"tag": "#rockenespanol", "uses_count": 10000000},
+          {"tag": "#rocklatino", "uses_count": 5000000},
+          {"tag": "#mana", "uses_count": 5000000},
+          {"tag": "#caifanes", "uses_count": 1000000},
+          {"tag": "#sodastereo", "uses_count": 5000000},
+          {"tag": "#heroesdelsilencio", "uses_count": 1000000},
+          {"tag": "#aterciopelados", "uses_count": 100000},
+          {"tag": "#molotov", "uses_count": 1000000},
+          {"tag": "#zoe", "uses_count": 5000000},
+          {"tag": "#cafe-tacvba", "uses_count": 1000000},
+          {"tag": "#gustavocerati", "uses_count": 1000000},
+          {"tag": "#bunbury", "uses_count": 1000000},
+          {"tag": "#rockentuidioma", "uses_count": 1000000},
+          {"tag": "#rockmexicano", "uses_count": 1000000},
+          {"tag": "#rockargentino", "uses_count": 5000000}
+        ]
+      },
+      "MusicaUrbana": {
+        "hashtags": [
+          {"tag": "#musicaurbana", "uses_count": 50000000},
+          {"tag": "#reggaeton", "uses_count": 500000000},
+          {"tag": "#trap", "uses_count": 300000000},
+          {"tag": "#dembow", "uses_count": 50000000},
+          {"tag": "#rap", "uses_count": 800000000},
+          {"tag": "#hiphop", "uses_count": 1000000000},
+          {"tag": "#freestyle", "uses_count": 200000000},
+          {"tag": "#batalladegallos", "uses_count": 5000000},
+          {"tag": "#redbullbatalla", "uses_count": 1000000},
+          {"tag": "#fms", "uses_count": 10000000},
+          {"tag": "#aczino", "uses_count": 1000000},
+          {"tag": "#wos", "uses_count": 10000000},
+          {"tag": "#trueno", "uses_count": 10000000},
+          {"tag": "#bizarrap", "uses_count": 10000000},
+          {"tag": "#flow", "uses_count": 300000000}
+        ]
+      }
+    },
+    "R&B/Soul Music": {
+      "RnB": {
+        "hashtags": [
+          {"tag": "#rnb", "uses_count": 500000000},
+          {"tag": "#soul", "uses_count": 200000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#hiphop", "uses_count": 1000000000},
+          {"tag": "#love", "uses_count": 2000000000},
+          {"tag": "#newmusic", "uses_count": 300000000},
+          {"tag": "#singer", "uses_count": 300000000},
+          {"tag": "#artist", "uses_count": 500000000},
+          {"tag": "#rnbmusic", "uses_count": 50000000},
+          {"tag": "#neosoul", "uses_count": 30000000},
+          {"tag": "#rnbartist", "uses_count": 10000000},
+          {"tag": "#rnbvibes", "uses_count": 10000000},
+          {"tag": "#rnblovers", "uses_count": 5000000},
+          {"tag": "#grownfolksmusic", "uses_count": 1000000},
+          {"tag": "#realrnb", "uses_count": 1000000}
+        ]
+      },
+      "SoulMusic": {
+        "hashtags": [
+          {"tag": "#soulmusic", "uses_count": 50000000},
+          {"tag": "#soul", "uses_count": 200000000},
+          {"tag": "#rnb", "uses_count": 500000000},
+          {"tag": "#funk", "uses_count": 100000000},
+          {"tag": "#motown", "uses_count": 20000000},
+          {"tag": "#jamesbrown", "uses_count": 1000000},
+          {"tag": "#arethafranklin", "uses_count": 1000000},
+          {"tag": "#steviewonder", "uses_count": 5000000},
+          {"tag": "#marvingaye", "uses_count": 1000000},
+          {"tag": "#otisredding", "uses_count": 1000000},
+          {"tag": "#samcooke", "uses_count": 1000000},
+          {"tag": "#billwithers", "uses_count": 1000000},
+          {"tag": "#soulmusiclovers", "uses_count": 1000000},
+          {"tag": "#soulmusiclives", "uses_count": 100000},
+          {"tag": "#sweetsoulmusic", "uses_count": 100000}
+        ]
+      },
+      "NeoSoul": {
+        "hashtags": [
+          {"tag": "#neosoul", "uses_count": 30000000},
+          {"tag": "#soul", "uses_count": 200000000},
+          {"tag": "#rnb", "uses_count": 500000000},
+          {"tag": "#erykahbadu", "uses_count": 5000000},
+          {"tag": "#jillscott", "uses_count": 1000000},
+          {"tag": "#maxwell", "uses_count": 5000000},
+          {"tag": "#dangelo", "uses_count": 1000000},
+          {"tag": "#laurynhill", "uses_count": 5000000},
+          {"tag": "#musicsoulchild", "uses_count": 1000000},
+          {"tag": "#anthonyhamilton", "uses_count": 1000000},
+          {"tag": "#groove", "uses_count": 100000000},
+          {"tag": "#vibes", "uses_count": 500000000},
+          {"tag": "#goodmusic", "uses_count": 200000000},
+          {"tag": "#realmusic", "uses_count": 100000000},
+          {"tag": "#grownandsexy", "uses_count": 20000000}
+        ]
+      },
+      "RandB": {
+        "hashtags": [
+          {"tag": "#randb", "uses_count": 100000000},
+          {"tag": "#rnb", "uses_count": 500000000},
+          {"tag": "#rhythmandblues", "uses_count": 1000000},
+          {"tag": "#90srnb", "uses_count": 20000000},
+          {"tag": "#00srnb", "uses_count": 5000000},
+          {"tag": "#slowjams", "uses_count": 10000000},
+          {"tag": "#quietstorm", "uses_count": 1000000},
+          {"tag": "#usher", "uses_count": 20000000},
+          {"tag": "#mariahcarey", "uses_count": 20000000},
+          {"tag": "#whitneyhouston", "uses_count": 10000000},
+          {"tag": "#boyziimen", "uses_count": 5000000},
+          {"tag": "#tlc", "uses_count": 10000000},
+          {"tag": "#destinyschild", "uses_count": 5000000},
+          {"tag": "#throwback", "uses_count": 500000000},
+          {"tag": "#nostalgia", "uses_count": 100000000}
+        ]
+      },
+      "90sRnB": {
+        "hashtags": [
+          {"tag": "#90srnb", "uses_count": 20000000},
+          {"tag": "#90smusic", "uses_count": 30000000},
+          {"tag": "#rnb", "uses_count": 500000000},
+          {"tag": "#throwbackthursday", "uses_count": 100000000},
+          {"tag": "#flashbackfriday", "uses_count": 50000000},
+          {"tag": "#maryjblige", "uses_count": 5000000},
+          {"tag": "#jodeci", "uses_count": 1000000},
+          {"tag": "#swv", "uses_count": 1000000},
+          {"tag": "#xscape", "uses_count": 1000000},
+          {"tag": "#brandy", "uses_count": 10000000},
+          {"tag": "#monica", "uses_count": 5000000},
+          {"tag": "#aaliyah", "uses_count": 10000000},
+          {"tag": "#rkelly", "uses_count": 5000000},
+          {"tag": "#newjackswing", "uses_count": 1000000},
+          {"tag": "#oldschool", "uses_count": 300000000}
+        ]
+      },
+      "SlowJams": {
+        "hashtags": [
+          {"tag": "#slowjams", "uses_count": 10000000},
+          {"tag": "#rnb", "uses_count": 500000000},
+          {"tag": "#quietstorm", "uses_count": 1000000},
+          {"tag": "#lovemakingmusic", "uses_count": 100000},
+          {"tag": "#babymakingmusic", "uses_count": 100000},
+          {"tag": "#cuffingseason", "uses_count": 5000000},
+          {"tag": "#mood", "uses_count": 1000000000},
+          {"tag": "#latenightvibes", "uses_count": 20000000},
+          {"tag": "#sexy", "uses_count": 1000000000},
+          {"tag": "#romance", "uses_count": 200000000},
+          {"tag": "#inthemood", "uses_count": 10000000},
+          {"tag": "#bedroomtunes", "uses_count": 100000},
+          {"tag": "#love", "uses_count": 2000000000},
+          {"tag": "#relationshipgoals", "uses_count": 500000000},
+          {"tag": "#couplegoals", "uses_count": 800000000}
+        ]
+      },
+      "QuietStorm": {
+        "hashtags": [
+          {"tag": "#quietstorm", "uses_count": 1000000},
+          {"tag": "#slowjams", "uses_count": 10000000},
+          {"tag": "#rnb", "uses_count": 500000000},
+          {"tag": "#soul", "uses_count": 200000000},
+          {"tag": "#smoothjazz", "uses_count": 10000000},
+          {"tag": "#luthervandross", "uses_count": 1000000},
+          {"tag": "#anitabaker", "uses_count": 1000000},
+          {"tag": "#sade", "uses_count": 5000000},
+          {"tag": "#smokeyrobinson", "uses_count": 1000000},
+          {"tag": "#algreen", "uses_count": 1000000},
+          {"tag": "#teddy-pendergrass", "uses_count": 100000},
+          {"tag": "#grownfolksmusic", "uses_count": 1000000},
+          {"tag": "#classicrnb", "uses_count": 5000000},
+          {"tag": "#oldschoolrnb", "uses_count": 5000000},
+          {"tag": "#radio", "uses_count": 100000000}
+        ]
+      },
+      "Funk": {
+        "hashtags": [
+          {"tag": "#funk", "uses_count": 100000000},
+          {"tag": "#funky", "uses_count": 50000000},
+          {"tag": "#soul", "uses_count": 200000000},
+          {"tag": "#disco", "uses_count": 150000000},
+          {"tag": "#jamesbrown", "uses_count": 1000000},
+          {"tag": "#parliamentfunkadelic", "uses_count": 100000},
+          {"tag": "#georgeclinton", "uses_count": 100000},
+          {"tag": "#bootsycollins", "uses_count": 100000},
+          {"tag": "#earthwindandfire", "uses_count": 1000000},
+          {"tag": "#koolandthegang", "uses_count": 1000000},
+          {"tag": "#prince", "uses_count": 20000000},
+          {"tag": "#bass", "uses_count": 100000000},
+          {"tag": "#groove", "uses_count": 100000000},
+          {"tag": "#getdown", "uses_count": 10000000},
+          {"tag": "#stayfunky", "uses_count": 100000}
+        ]
+      },
+      "Motown": {
+        "hashtags": [
+          {"tag": "#motown", "uses_count": 20000000},
+          {"tag": "#motownrecords", "uses_count": 1000000},
+          {"tag": "#detroit", "uses_count": 100000000},
+          {"tag": "#hitsvilleusa", "uses_count": 100000},
+          {"tag": "#thesupremes", "uses_count": 1000000},
+          {"tag": "#thetemptations", "uses_count": 1000000},
+          {"tag": "#thefourtops", "uses_count": 100000},
+          {"tag": "#smokeyrobinsonandthemiracles", "uses_count": 100000},
+          {"tag": "#marvingaye", "uses_count": 1000000},
+          {"tag": "#steviewonder", "uses_count": 5000000},
+          {"tag": "#thejackson5", "uses_count": 5000000},
+          {"tag": "#dianaross", "uses_count": 5000000},
+          {"tag": "#soulmusic", "uses_count": 50000000},
+          {"tag": "#oldschoolmusic", "uses_count": 20000000},
+          {"tag": "#classic", "uses_count": 300000000}
+        ]
+      },
+      "RnBSinger": {
+        "hashtags": [
+          {"tag": "#rnbsinger", "uses_count": 10000000},
+          {"tag": "#rnbartist", "uses_count": 10000000},
+          {"tag": "#singer", "uses_count": 300000000},
+          {"tag": "#songwriter", "uses_count": 100000000},
+          {"tag": "#musician", "uses_count": 200000000},
+          {"tag": "#newmusic", "uses_count": 300000000},
+          {"tag": "#vocals", "uses_count": 100000000},
+          {"tag": "#beyonce", "uses_count": 200000000},
+          {"tag": "#chrisbrown", "uses_count": 50000000},
+          {"tag": "#brentfaiyaz", "uses_count": 1000000},
+          {"tag": "#her", "uses_count": 100000000},
+          {"tag": "#sza", "uses_count": 20000000},
+          {"tag": "#kehlani", "uses_count": 10000000},
+          {"tag": "#ellamai", "uses_count": 5000000},
+          {"tag": "#unsignedartist", "uses_count": 50000000}
+        ]
+      }
+    },
+    "Mycology": {
+      "Mycology": {
+        "hashtags": [
+          {"tag": "#mycology", "uses_count": 10000000},
+          {"tag": "#mushrooms", "uses_count": 100000000},
+          {"tag": "#fungi", "uses_count": 50000000},
+          {"tag": "#mushroomhunting", "uses_count": 10000000},
+          {"tag": "#foraging", "uses_count": 20000000},
+          {"tag": "#mycophile", "uses_count": 1000000},
+          {"tag": "#fungus", "uses_count": 10000000},
+          {"tag": "#shrooms", "uses_count": 20000000},
+          {"tag": "#myco", "uses_count": 1000000},
+          {"tag": "#mushroomid", "uses_count": 1000000},
+          {"tag": "#fantasticfungi", "uses_count": 5000000},
+          {"tag": "#allthemushroomhashtags", "uses_count": 100000},
+          {"tag": "#mushroomphotography", "uses_count": 10000000},
+          {"tag": "#mushroomsofinstagram", "uses_count": 5000000},
+          {"tag": "#fungusamongus", "uses_count": 1000000}
+        ]
+      },
+      "Mushrooms": {
+        "hashtags": [
+          {"tag": "#mushrooms", "uses_count": 100000000},
+          {"tag": "#fungi", "uses_count": 50000000},
+          {"tag": "#nature", "uses_count": 1000000000},
+          {"tag": "#food", "uses_count": 2000000000},
+          {"tag": "#vegan", "uses_count": 500000000},
+          {"tag": "#vegetarian", "uses_count": 300000000},
+          {"tag": "#foodie", "uses_count": 1000000000},
+          {"tag": "#healthyfood", "uses_count": 500000000},
+          {"tag": "#delicious", "uses_count": 800000000},
+          {"tag": "#instafood", "uses_count": 1000000000},
+          {"tag": "#yummy", "uses_count": 1000000000},
+          {"tag": "#cooking", "uses_count": 500000000},
+          {"tag": "#recipe", "uses_count": 300000000},
+          {"tag": "#dinner", "uses_count": 800000000},
+          {"tag": "#lunch", "uses_count": 500000000}
+        ]
+      },
+      "Fungi": {
+        "hashtags": [
+          {"tag": "#fungi", "uses_count": 50000000},
+          {"tag": "#mushrooms", "uses_count": 100000000},
+          {"tag": "#nature", "uses_count": 1000000000},
+          {"tag": "#fungus", "uses_count": 10000000},
+          {"tag": "#mycology", "uses_count": 10000000},
+          {"tag": "#forest", "uses_count": 300000000},
+          {"tag": "#naturephotography", "uses_count": 500000000},
+          {"tag": "#macro", "uses_count": 200000000},
+          {"tag": "#macrophotography", "uses_count": 100000000},
+          {"tag": "#mushroomsofinstagram", "uses_count": 5000000},
+          {"tag": "#fungiphotography", "uses_count": 1000000},
+          {"tag": "#fantasticfungi", "uses_count": 5000000},
+          {"tag": "#mycelium", "uses_count": 5000000},
+          {"tag": "#spores", "uses_count": 1000000},
+          {"tag": "#biodiversity", "uses_count": 10000000}
+        ]
+      },
+      "MushroomHunting": {
+        "hashtags": [
+          {"tag": "#mushroomhunting", "uses_count": 10000000},
+          {"tag": "#foraging", "uses_count": 20000000},
+          {"tag": "#mushrooms", "uses_count": 100000000},
+          {"tag": "#mycology", "uses_count": 10000000},
+          {"tag": "#wildfood", "uses_count": 5000000},
+          {"tag": "#wildedibles", "uses_count": 1000000},
+          {"tag": "#morels", "uses_count": 1000000},
+          {"tag": "#chanterelles", "uses_count": 1000000},
+          {"tag": "#bolete", "uses_count": 1000000},
+          {"tag": "#porcini", "uses_count": 5000000},
+          {"tag": "#oystermushrooms", "uses_count": 1000000},
+          {"tag": "#henofthewoods", "uses_count": 100000},
+          {"tag": "#chickenofthewoods", "uses_count": 100000},
+          {"tag": "#forager", "uses_count": 1000000},
+          {"tag": "#getoutside", "uses_count": 200000000}
+        ]
+      },
+      "Foraging": {
+        "hashtags": [
+          {"tag": "#foraging", "uses_count": 20000000},
+          {"tag": "#wildfood", "uses_count": 5000000},
+          {"tag": "#wildedibles", "uses_count": 1000000},
+          {"tag": "#mushroomhunting", "uses_count": 10000000},
+          {"tag": "#herbalism", "uses_count": 10000000},
+          {"tag": "#botany", "uses_count": 5000000},
+          {"tag": "#permaculture", "uses_count": 10000000},
+          {"tag": "#homesteading", "uses_count": 20000000},
+          {"tag": "#survival", "uses_count": 100000000},
+          {"tag": "#bushcraft", "uses_count": 20000000},
+          {"tag": "#rewilding", "uses_count": 1000000},
+          {"tag": "#eattheweeds", "uses_count": 100000},
+          {"tag": "#urbanforaging", "uses_count": 1000000},
+          {"tag": "#naturelover", "uses_count": 500000000},
+          {"tag": "#outdoors", "uses_count": 500000000}
+        ]
+      },
+      "MycoPhile": {
+        "hashtags": [
+          {"tag": "#mycophile", "uses_count": 1000000},
+          {"tag": "#mushroomlover", "uses_count": 1000000},
+          {"tag": "#fungilover", "uses_count": 1000000},
+          {"tag": "#mycology", "uses_count": 10000000},
+          {"tag": "#mushrooms", "uses_count": 100000000},
+          {"tag": "#fungi", "uses_count": 50000000},
+          {"tag": "#mushroomnerd", "uses_count": 100000},
+          {"tag": "#fungifreak", "uses_count": 100000},
+          {"tag": "#mushroomgeek", "uses_count": 100000},
+          {"tag": "#fantasticfungi", "uses_count": 5000000},
+          {"tag": "#paulstamets", "uses_count": 1000000},
+          {"tag": "#terencemckenna", "uses_count": 1000000},
+          {"tag": "#entheogen", "uses_count": 1000000},
+          {"tag": "#psychedelic", "uses_count": 100000000},
+          {"tag": "#magicmushrooms", "uses_count": 10000000}
+        ]
+      },
+      "Fungus": {
+        "hashtags": [
+          {"tag": "#fungus", "uses_count": 10000000},
+          {"tag": "#fungi", "uses_count": 50000000},
+          {"tag": "#mushrooms", "uses_count": 100000000},
+          {"tag": "#mycology", "uses_count": 10000000},
+          {"tag": "#nature", "uses_count": 1000000000},
+          {"tag": "#slime-mold", "uses_count": 100000},
+          {"tag": "#lichen", "uses_count": 5000000},
+          {"tag": "#yeast", "uses_count": 5000000},
+          {"tag": "#mold", "uses_count": 10000000},
+          {"tag": "#mycelium", "uses_count": 5000000},
+          {"tag": "#spores", "uses_count": 1000000},
+          {"tag": "#decomposition", "uses_count": 1000000},
+          {"tag": "#symbiosis", "uses_count": 1000000},
+          {"tag": "#ecology", "uses_count": 20000000},
+          {"tag": "#biology", "uses_count": 50000000}
+        ]
+      },
+      "Shrooms": {
+        "hashtags": [
+          {"tag": "#shrooms", "uses_count": 20000000},
+          {"tag": "#magicmushrooms", "uses_count": 10000000},
+          {"tag": "#psilocybin", "uses_count": 10000000},
+          {"tag": "#psychedelic", "uses_count": 100000000},
+          {"tag": "#trippy", "uses_count": 100000000},
+          {"tag": "#lsd", "uses_count": 100000000},
+          {"tag": "#dmt", "uses_count": 50000000},
+          {"tag": "#ayahuasca", "uses_count": 20000000},
+          {"tag": "#entheogen", "uses_count": 1000000},
+          {"tag": "#plantmedicine", "uses_count": 10000000},
+          {"tag": "#spiritualawakening", "uses_count": 100000000},
+          {"tag": "#consciousness", "uses_count": 100000000},
+          {"tag": "#thirdeye", "uses_count": 200000000},
+          {"tag": "#goodvibes", "uses_count": 500000000},
+          {"tag": "#highlife", "uses_count": 300000000}
+        ]
+      },
+      "Myco": {
+        "hashtags": [
+          {"tag": "#myco", "uses_count": 1000000},
+          {"tag": "#mycology", "uses_count": 10000000},
+          {"tag": "#mycologist", "uses_count": 100000},
+          {"tag": "#mycoremediation", "uses_count": 100000},
+          {"tag": "#mycoculture", "uses_count": 100000},
+          {"tag": "#mycogardening", "uses_count": 10000},
+          {"tag": "#mycoart", "uses_count": 10000},
+          {"tag": "#mycofashion", "uses_count": 1000},
+          {"tag": "#mycotecture", "uses_count": 1000},
+          {"tag": "#mycoprotein", "uses_count": 10000},
+          {"tag": "#mycomaterials", "uses_count": 10000},
+          {"tag": "#mycoworks", "uses_count": 10000},
+          {"tag": "#myceliumrunning", "uses_count": 10000},
+          {"tag": "#fungal-futures", "uses_count": 1000},
+          {"tag": "#thefutureisfungi", "uses_count": 10000}
+        ]
+      },
+      "MushroomID": {
+        "hashtags": [
+          {"tag": "#mushroomid", "uses_count": 1000000},
+          {"tag": "#mushroomidentification", "uses_count": 100000},
+          {"tag": "#fungiid", "uses_count": 100000},
+          {"tag": "#whatisthismushroom", "uses_count": 10000},
+          {"tag": "#helpmushroomid", "uses_count": 1000},
+          {"tag": "#mycology", "uses_count": 10000000},
+          {"tag": "#mushrooms", "uses_count": 100000000},
+          {"tag": "#fungi", "uses_count": 50000000},
+          {"tag": "#foraging", "uses_count": 20000000},
+          {"tag": "#mushroomhunting", "uses_count": 10000000},
+          {"tag": "#sporeprint", "uses_count": 100000},
+          {"tag": "#gills", "uses_count": 1000000},
+          {"tag": "#capandstem", "uses_count": 10000},
+          {"tag": "#knowyourmushrooms", "uses_count": 100000},
+          {"tag": "#edible-or-poisonous", "uses_count": 10000}
+        ]
+      }
+    },
+    "Geocaching": {
+      "Geocaching": {
+        "hashtags": [
+          {"tag": "#geocaching", "uses_count": 10000000},
+          {"tag": "#geocache", "uses_count": 5000000},
+          {"tag": "#tftc", "uses_count": 1000000},
+          {"tag": "#groundspeak", "uses_count": 100000},
+          {"tag": "#geocachers", "uses_count": 1000000},
+          {"tag": "#gogeocaching", "uses_count": 500000},
+          {"tag": "#geocachingadventures", "uses_count": 1000000},
+          {"tag": "#foundit", "uses_count": 1000000},
+          {"tag": "#cachemeifyoucan", "uses_count": 100000},
+          {"tag": "#geocachinglife", "uses_count": 500000},
+          {"tag": "#geocachingfun", "uses_count": 500000},
+          {"tag": "#ilovegeocaching", "uses_count": 500000},
+          {"tag": "#geocachinghq", "uses_count": 100000},
+          {"tag": "#geocachingcom", "uses_count": 100000},
+          {"tag": "#geocachersofinstagram", "uses_count": 500000}
+        ]
+      },
+      "Geocache": {
+        "hashtags": [
+          {"tag": "#geocache", "uses_count": 5000000},
+          {"tag": "#geocaching", "uses_count": 10000000},
+          {"tag": "#cache", "uses_count": 1000000},
+          {"tag": "#treasure", "uses_count": 100000000},
+          {"tag": "#hidden", "uses_count": 50000000},
+          {"tag": "#swag", "uses_count": 100000000},
+          {"tag": "#trackable", "uses_count": 100000},
+          {"tag": "#travelbug", "uses_count": 500000},
+          {"tag": "#geocoin", "uses_count": 100000},
+          {"tag": "#logbook", "uses_count": 1000000},
+          {"tag": "#muggled", "uses_count": 100000},
+          {"tag": "#dnf", "uses_count": 1000000},
+          {"tag": "#firsttofind", "uses_count": 100000},
+          {"tag": "#geocachecontainer", "uses_count": 10000},
+          {"tag": "#geocacheoftheweek", "uses_count": 10000}
+        ]
+      },
+      "TFTC": {
+        "hashtags": [
+          {"tag": "#tftc", "uses_count": 1000000},
+          {"tag": "#thanksforthecache", "uses_count": 100000},
+          {"tag": "#geocaching", "uses_count": 10000000},
+          {"tag": "#foundit", "uses_count": 1000000},
+          {"tag": "#smiley", "uses_count": 100000000},
+          {"tag": "#geocache", "uses_count": 5000000},
+          {"tag": "#logbook", "uses_count": 1000000},
+          {"tag": "#geocachinglife", "uses_count": 500000},
+          {"tag": "#geocachingfun", "uses_count": 500000},
+          {"tag": "#geocachingadventures", "uses_count": 1000000},
+          {"tag": "#geocachersofinstagram", "uses_count": 500000},
+          {"tag": "#geocachingcommunity", "uses_count": 100000},
+          {"tag": "#geocachingfriends", "uses_count": 100000},
+          {"tag": "#geocachingfamily", "uses_count": 100000},
+          {"tag": "#geocachingwithkids", "uses_count": 100000}
+        ]
+      },
+      "Groundspeak": {
+        "hashtags": [
+          {"tag": "#groundspeak", "uses_count": 100000},
+          {"tag": "#geocachinghq", "uses_count": 100000},
+          {"tag": "#geocachingcom", "uses_count": 100000},
+          {"tag": "#lackey", "uses_count": 10000},
+          {"tag": "#signalthefrog", "uses_count": 10000},
+          {"tag": "#geocaching", "uses_count": 10000000},
+          {"tag": "#geocache", "uses_count": 5000000},
+          {"tag": "#tftc", "uses_count": 1000000},
+          {"tag": "#foundit", "uses_count": 1000000},
+          {"tag": "#geocachinglife", "uses_count": 500000},
+          {"tag": "#geocachingfun", "uses_count": 500000},
+          {"tag": "#geocachingadventures", "uses_count": 1000000},
+          {"tag": "#geocachersofinstagram", "uses_count": 500000},
+          {"tag": "#geocachingcommunity", "uses_count": 100000},
+          {"tag": "#thegeocachingvlogger", "uses_count": 10000}
+        ]
+      },
+      "Geocachers": {
+        "hashtags": [
+          {"tag": "#geocachers", "uses_count": 1000000},
+          {"tag": "#geocacher", "uses_count": 1000000},
+          {"tag": "#geocachingcommunity", "uses_count": 100000},
+          {"tag": "#geocachingfriends", "uses_count": 100000},
+          {"tag": "#geocachingfamily", "uses_count": 100000},
+          {"tag": "#geocachingwithkids", "uses_count": 100000},
+          {"tag": "#geocachersofinstagram", "uses_count": 500000},
+          {"tag": "#geocaching", "uses_count": 10000000},
+          {"tag": "#geocache", "uses_count": 5000000},
+          {"tag": "#tftc", "uses_count": 1000000},
+          {"tag": "#foundit", "uses_count": 1000000},
+          {"tag": "#geocachinglife", "uses_count": 500000},
+          {"tag": "#geocachingfun", "uses_count": 500000},
+          {"tag": "#geocachingadventures", "uses_count": 1000000},
+          {"tag": "#thegeocachingvlogger", "uses_count": 10000}
+        ]
+      },
+      "GoGeocaching": {
+        "hashtags": [
+          {"tag": "#gogeocaching", "uses_count": 500000},
+          {"tag": "#geocaching", "uses_count": 10000000},
+          {"tag": "#getoutside", "uses_count": 200000000},
+          {"tag": "#adventure", "uses_count": 500000000},
+          {"tag": "#explore", "uses_count": 1000000000},
+          {"tag": "#hike", "uses_count": 300000000},
+          {"tag": "#walk", "uses_count": 500000000},
+          {"tag": "#nature", "uses_count": 1000000000},
+          {"tag": "#outdoors", "uses_count": 500000000},
+          {"tag": "#geocachingfun", "uses_count": 500000},
+          {"tag": "#geocachinglife", "uses_count": 500000},
+          {"tag": "#geocachingadventures", "uses_count": 1000000},
+          {"tag": "#geocachingwithkids", "uses_count": 100000},
+          {"tag": "#geocachingfamily", "uses_count": 100000},
+          {"tag": "#geocachingcommunity", "uses_count": 100000}
+        ]
+      },
+      "GeocachingAdventures": {
+        "hashtags": [
+          {"tag": "#geocachingadventures", "uses_count": 1000000},
+          {"tag": "#geocaching", "uses_count": 10000000},
+          {"tag": "#adventuretime", "uses_count": 100000000},
+          {"tag": "#exploremore", "uses_count": 100000000},
+          {"tag": "#getlost", "uses_count": 50000000},
+          {"tag": "#neverstopexploring", "uses_count": 300000000},
+          {"tag": "#thegreatoutdoors", "uses_count": 200000000},
+          {"tag": "#letsgosomewhere", "uses_count": 100000000},
+          {"tag": "#roamtheplanet", "uses_count": 100000000},
+          {"tag": "#travelgram", "uses_count": 1000000000},
+          {"tag": "#instatravel", "uses_count": 500000000},
+          {"tag": "#wanderlust", "uses_count": 800000000},
+          {"tag": "#traveling", "uses_count": 500000000},
+          {"tag": "#vacation", "uses_count": 500000000},
+          {"tag": "#holiday", "uses_count": 800000000}
+        ]
+      },
+      "FoundIt": {
+        "hashtags": [
+          {"tag": "#foundit", "uses_count": 1000000},
+          {"tag": "#geocaching", "uses_count": 10000000},
+          {"tag": "#tftc", "uses_count": 1000000},
+          {"tag": "#geocache", "uses_count": 5000000},
+          {"tag": "#smiley", "uses_count": 100000000},
+          {"tag": "#success", "uses_count": 500000000},
+          {"tag": "#winner", "uses_count": 300000000},
+          {"tag": "#achievement", "uses_count": 50000000},
+          {"tag": "#missionaccomplished", "uses_count": 10000000},
+          {"tag": "#nailedit", "uses_count": 50000000},
+          {"tag": "#gotit", "uses_count": 10000000},
+          {"tag": "#yes", "uses_count": 500000000},
+          {"tag": "#finally", "uses_count": 100000000},
+          {"tag": "#phew", "uses_count": 10000000},
+          {"tag": "#madeit", "uses_count": 10000000}
+        ]
+      },
+      "CacheMeIfYouCan": {
+        "hashtags": [
+          {"tag": "#cachemeifyoucan", "uses_count": 100000},
+          {"tag": "#geocaching", "uses_count": 10000000},
+          {"tag": "#catchmeifyoucan", "uses_count": 10000000},
+          {"tag": "#hideandseek", "uses_count": 50000000},
+          {"tag": "#challenge", "uses_count": 500000000},
+          {"tag": "#game", "uses_count": 1000000000},
+          {"tag": "#puzzle", "uses_count": 100000000},
+          {"tag": "#riddle", "uses_count": 20000000},
+          {"tag": "#brainteaser", "uses_count": 5000000},
+          {"tag": "#mystery", "uses_count": 200000000},
+          {"tag": "#cunning", "uses_count": 1000000},
+          {"tag": "#clever", "uses_count": 50000000},
+          {"tag": "#tricky", "uses_count": 10000000},
+          {"tag": "#elusive", "uses_count": 1000000},
+          {"tag": "#masterofdisguise", "uses_count": 100000}
+        ]
+      },
+      "GeocachingLife": {
+        "hashtags": [
+          {"tag": "#geocachinglife", "uses_count": 500000},
+          {"tag": "#geocachinglifestyle", "uses_count": 100000},
+          {"tag": "#addictedtogeocaching", "uses_count": 10000},
+          {"tag": "#geocachingaddict", "uses_count": 10000},
+          {"tag": "#geocachingeveryday", "uses_count": 10000},
+          {"tag": "#geocachinglove", "uses_count": 100000},
+          {"tag": "#geocachingpassion", "uses_count": 10000},
+          {"tag": "#geocachingworld", "uses_count": 100000},
+          {"tag": "#geocachingfamily", "uses_count": 100000},
+          {"tag": "#geocachingfriends", "uses_count": 100000},
+          {"tag": "#geocachingcommunity", "uses_count": 100000},
+          {"tag": "#thegeocachingvlogger", "uses_count": 10000},
+          {"tag": "#geocachingvlogger", "uses_count": 10000},
+          {"tag": "#geocachingyoutube", "uses_count": 10000},
+          {"tag": "#geocachingpodcast", "uses_count": 1000}
+        ]
+      }
+    },
+    "Taxidermy": {
+      "Taxidermy": {
+        "hashtags": [
+          {"tag": "#taxidermy", "uses_count": 10000000},
+          {"tag": "#taxidermyart", "uses_count": 1000000},
+          {"tag": "#vultureculture", "uses_count": 5000000},
+          {"tag": "#oddities", "uses_count": 10000000},
+          {"tag": "#curiosities", "uses_count": 5000000},
+          {"tag": "#deadthings", "uses_count": 1000000},
+          {"tag": "#skull", "uses_count": 100000000},
+          {"tag": "#bones", "uses_count": 50000000},
+          {"tag": "#mounted", "uses_count": 10000000},
+          {"tag": "#trophy", "uses_count": 50000000},
+          {"tag": "#hunting", "uses_count": 300000000},
+          {"tag": "#fishing", "uses_count": 500000000},
+          {"tag": "#naturalhistory", "uses_count": 5000000},
+          {"tag": "#wunderkammer", "uses_count": 1000000},
+          {"tag": "#cabinetofcuriosities", "uses_count": 1000000}
+        ]
+      },
+      "TaxidermyArt": {
+        "hashtags": [
+          {"tag": "#taxidermyart", "uses_count": 1000000},
+          {"tag": "#taxidermy", "uses_count": 10000000},
+          {"tag": "#art", "uses_count": 1000000000},
+          {"tag": "#sculpture", "uses_count": 100000000},
+          {"tag": "#contemporaryart", "uses_count": 300000000},
+          {"tag": "#darkart", "uses_count": 20000000},
+          {"tag": "#gothicart", "uses_count": 10000000},
+          {"tag": "#macabreart", "uses_count": 1000000},
+          {"tag": "#surrealism", "uses_count": 50000000},
+          {"tag": "#fineart", "uses_count": 300000000},
+          {"tag": "#instaart", "uses_count": 150000000},
+          {"tag": "#artoftheday", "uses_count": 100000000},
+          {"tag": "#creative", "uses_count": 500000000},
+          {"tag": "#uniqueart", "uses_count": 10000000},
+          {"tag": "#oneofakind", "uses_count": 100000000}
+        ]
+      },
+      "VultureCulture": {
+        "hashtags": [
+          {"tag": "#vultureculture", "uses_count": 5000000},
+          {"tag": "#oddities", "uses_count": 10000000},
+          {"tag": "#curiosities", "uses_count": 5000000},
+          {"tag": "#bones", "uses_count": 50000000},
+          {"tag": "#skulls", "uses_count": 20000000},
+          {"tag": "#osteology", "uses_count": 1000000},
+          {"tag": "#deadthings", "uses_count": 1000000},
+          {"tag": "#foundobjects", "uses_count": 5000000},
+          {"tag": "#naturefinds", "uses_count": 1000000},
+          {"tag": "#roadkill", "uses_count": 1000000},
+          {"tag": "#bonecollector", "uses_count": 1000000},
+          {"tag": "#skullcollector", "uses_count": 1000000},
+          {"tag": "#witchyvibes", "uses_count": 50000000},
+          {"tag": "#goblincore", "uses_count": 10000000},
+          {"tag": "#darkacademia", "uses_count": 20000000}
+        ]
+      },
+      "Oddities": {
+        "hashtags": [
+          {"tag": "#oddities", "uses_count": 10000000},
+          {"tag": "#curiosities", "uses_count": 5000000},
+          {"tag": "#odditiesandcuriosities", "uses_count": 1000000},
+          {"tag": "#cabinetofcuriosities", "uses_count": 1000000},
+          {"tag": "#wunderkammer", "uses_count": 1000000},
+          {"tag": "#vultureculture", "uses_count": 5000000},
+          {"tag": "#taxidermy", "uses_count": 10000000},
+          {"tag": "#antiques", "uses_count": 100000000},
+          {"tag": "#vintage", "uses_count": 500000000},
+          {"tag": "#macabre", "uses_count": 5000000},
+          {"tag": "#gothic", "uses_count": 200000000},
+          {"tag": "#dark", "uses_count": 1000000000},
+          {"tag": "#strangeandunusual", "uses_count": 10000000},
+          {"tag": "#weird", "uses_count": 300000000},
+          {"tag": "#bizarre", "uses_count": 20000000}
+        ]
+      },
+      "Curiosities": {
+        "hashtags": [
+          {"tag": "#curiosities", "uses_count": 5000000},
+          {"tag": "#oddities", "uses_count": 10000000},
+          {"tag": "#cabinetofcuriosities", "uses_count": 1000000},
+          {"tag": "#wunderkammer", "uses_count": 1000000},
+          {"tag": "#curiosity", "uses_count": 100000000},
+          {"tag": "#curiositycabinet", "uses_count": 1000000},
+          {"tag": "#naturalhistory", "uses_count": 5000000},
+          {"tag": "#collection", "uses_count": 200000000},
+          {"tag": "#collector", "uses_count": 100000000},
+          {"tag": "#vintagefinds", "uses_count": 20000000},
+          {"tag": "#antiquedealersofinstagram", "uses_count": 1000000},
+          {"tag": "#fleamarketfinds", "uses_count": 20000000},
+          {"tag": "#eclecticdecor", "uses_count": 5000000},
+          {"tag": "#maximalism", "uses_count": 10000000},
+          {"tag": "#darkinteriors", "uses_count": 1000000}
+        ]
+      },
+      "DeadThings": {
+        "hashtags": [
+          {"tag": "#deadthings", "uses_count": 1000000},
+          {"tag": "#vultureculture", "uses_count": 5000000},
+          {"tag": "#taxidermy", "uses_count": 10000000},
+          {"tag": "#bones", "uses_count": 50000000},
+          {"tag": "#skulls", "uses_count": 20000000},
+          {"tag": "#mementomori", "uses_count": 5000000},
+          {"tag": "#deathpositive", "uses_count": 1000000},
+          {"tag": "#gothic", "uses_count": 200000000},
+          {"tag": "#macabre", "uses_count": 5000000},
+          {"tag": "#darkart", "uses_count": 20000000},
+          {"tag": "#witchy", "uses_count": 100000000},
+          {"tag": "#pagan", "uses_count": 50000000},
+          {"tag": "#occult", "uses_count": 50000000},
+          {"tag": "#morbid", "uses_count": 5000000},
+          {"tag": "#creepy", "uses_count": 200000000}
+        ]
+      },
+      "Skull": {
+        "hashtags": [
+          {"tag": "#skull", "uses_count": 100000000},
+          {"tag": "#skulls", "uses_count": 20000000},
+          {"tag": "#skullart", "uses_count": 10000000},
+          {"tag": "#humanskull", "uses_count": 1000000},
+          {"tag": "#animalskull", "uses_count": 1000000},
+          {"tag": "#deerskull", "uses_count": 1000000},
+          {"tag": "#birdskull", "uses_count": 1000000},
+          {"tag": "#cat-skull", "uses_count": 100000},
+          {"tag": "#dogskull", "uses_count": 100000},
+          {"tag": "#skullcollector", "uses_count": 1000000},
+          {"tag": "#bonecollector", "uses_count": 1000000},
+          {"tag": "#vultureculture", "uses_count": 5000000},
+          {"tag": "#taxidermy", "uses_count": 10000000},
+          {"tag": "#anatomy", "uses_count": 50000000},
+          {"tag": "#osteology", "uses_count": 1000000}
+        ]
+      },
+      "Bones": {
+        "hashtags": [
+          {"tag": "#bones", "uses_count": 50000000},
+          {"tag": "#bone", "uses_count": 100000000},
+          {"tag": "#boneart", "uses_count": 1000000},
+          {"tag": "#bonecollector", "uses_count": 1000000},
+          {"tag": "#vultureculture", "uses_count": 5000000},
+          {"tag": "#osteology", "uses_count": 1000000},
+          {"tag": "#skeleton", "uses_count": 50000000},
+          {"tag": "#anatomy", "uses_count": 50000000},
+          {"tag": "#vertebrae", "uses_count": 100000},
+          {"tag": "#ribs", "uses_count": 10000000},
+          {"tag": "#femur", "uses_count": 1000000},
+          {"tag": "#jawbone", "uses_count": 100000},
+          {"tag": "#animalbones", "uses_count": 1000000},
+          {"tag": "#foundbones", "uses_count": 100000},
+          {"tag": "#deadthings", "uses_count": 1000000}
+        ]
+      },
+      "Mounted": {
+        "hashtags": [
+          {"tag": "#mounted", "uses_count": 10000000},
+          {"tag": "#taxidermy", "uses_count": 10000000},
+          {"tag": "#huntingtrophy", "uses_count": 100000},
+          {"tag": "#deerhead", "uses_count": 1000000},
+          {"tag": "#buckfever", "uses_count": 1000000},
+          {"tag": "#wallmount", "uses_count": 10000000},
+          {"tag": "#homedecor", "uses_count": 200000000},
+          {"tag": "#interiordesign", "uses_count": 150000000},
+          {"tag": "#mancave", "uses_count": 20000000},
+          {"tag": "#cabinlife", "uses_count": 50000000},
+          {"tag": "#rusticdecor", "uses_count": 20000000},
+          {"tag": "#westernstyle", "uses_count": 10000000},
+          {"tag": "#lodge", "uses_count": 10000000},
+          {"tag": "#trophyroom", "uses_count": 1000000},
+          {"tag": "#biggame", "uses_count": 10000000}
+        ]
+      },
+      "Trophy": {
+        "hashtags": [
+          {"tag": "#trophy", "uses_count": 50000000},
+          {"tag": "#winner", "uses_count": 300000000},
+          {"tag": "#champion", "uses_count": 200000000},
+          {"tag": "#award", "uses_count": 100000000},
+          {"tag": "#firstplace", "uses_count": 50000000},
+          {"tag": "#goldmedal", "uses_count": 20000000},
+          {"tag": "#silvermedal", "uses_count": 10000000},
+          {"tag": "#bronzemedal", "uses_count": 5000000},
+          {"tag": "#competition", "uses_count": 200000000},
+          {"tag": "#tournament", "uses_count": 100000000},
+          {"tag": "#championship", "uses_count": 150000000},
+          {"tag": "#sports", "uses_count": 1000000000},
+          {"tag": "#esports", "uses_count": 100000000},
+          {"tag": "#gaming", "uses_count": 1000000000},
+          {"tag": "#achievement", "uses_count": 50000000}
+        ]
+      }
+    },
+    "Lockpicking": {
+      "Lockpicking": {
+        "hashtags": [
+          {"tag": "#lockpicking", "uses_count": 10000000},
+          {"tag": "#locksport", "uses_count": 5000000},
+          {"tag": "#lockpicker", "uses_count": 1000000},
+          {"tag": "#padlock", "uses_count": 10000000},
+          {"tag": "#lockporn", "uses_count": 1000000},
+          {"tag": "#spp", "uses_count": 100000},
+          {"tag": "#toool", "uses_count": 100000},
+          {"tag": "#lockpickingtools", "uses_count": 500000},
+          {"tag": "#hacker", "uses_count": 100000000},
+          {"tag": "#security", "uses_count": 200000000},
+          {"tag": "#pentesting", "uses_count": 10000000},
+          {"tag": "#redteam", "uses_count": 5000000},
+          {"tag": "#blueteam", "uses_count": 5000000},
+          {"tag": "#infosec", "uses_count": 20000000},
+          {"tag": "#cybersecurity", "uses_count": 100000000}
+        ]
+      },
+      "LockSport": {
+        "hashtags": [
+          {"tag": "#locksport", "uses_count": 5000000},
+          {"tag": "#lockpicking", "uses_count": 10000000},
+          {"tag": "#locksportcommunity", "uses_count": 100000},
+          {"tag": "#lockpickingcommunity", "uses_count": 100000},
+          {"tag": "#toool", "uses_count": 100000},
+          {"tag": "#spp", "uses_count": 100000},
+          {"tag": "#singlepinpicking", "uses_count": 10000},
+          {"tag": "#raking", "uses_count": 100000},
+          {"tag": "#bumping", "uses_count": 100000},
+          {"tag": "#impressioning", "uses_count": 10000},
+          {"tag": "#lockpickingsport", "uses_count": 10000},
+          {"tag": "#locksportlife", "uses_count": 10000},
+          {"tag": "#locksporter", "uses_count": 10000},
+          {"tag": "#challenge-lock", "uses_count": 10000},
+          {"tag": "#customlockpicks", "uses_count": 100000}
+        ]
+      },
+      "Lockpicker": {
+        "hashtags": [
+          {"tag": "#lockpicker", "uses_count": 1000000},
+          {"tag": "#lockpicking", "uses_count": 10000000},
+          {"tag": "#locksport", "uses_count": 5000000},
+          {"tag": "#hacker", "uses_count": 100000000},
+          {"tag": "#maker", "uses_count": 200000000},
+          {"tag": "#tinkerer", "uses_count": 1000000},
+          {"tag": "#hobbyist", "uses_count": 5000000},
+          {"tag": "#diy", "uses_count": 1000000000},
+          {"tag": "#edc", "uses_count": 100000000},
+          {"tag": "#everydaycarry", "uses_count": 50000000},
+          {"tag": "#lockpickingset", "uses_count": 100000},
+          {"tag": "#southord", "uses_count": 10000},
+          {"tag": "#sparrowslockpicks", "uses_count": 10000},
+          {"tag": "#petersonlocksmithtools", "uses_count": 1000},
+          {"tag": "#multitool", "uses_count": 10000000}
+        ]
+      },
+      "Padlock": {
+        "hashtags": [
+          {"tag": "#padlock", "uses_count": 10000000},
+          {"tag": "#lock", "uses_count": 50000000},
+          {"tag": "#security", "uses_count": 200000000},
+          {"tag": "#masterlock", "uses_count": 1000000},
+          {"tag": "#abus", "uses_count": 10000000},
+          {"tag": "#americanlock", "uses_count": 100000},
+          {"tag": "#medeco", "uses_count": 100000},
+          {"tag": "#assaabloy", "uses_count": 100000},
+          {"tag": "#highsecuritylocks", "uses_count": 100000},
+          {"tag": "#discdetainer", "uses_count": 10000},
+          {"tag": "#leverlock", "uses_count": 10000},
+          {"tag": "#wardedlock", "uses_count": 10000},
+          {"tag": "#combinationlock", "uses_count": 1000000},
+          {"tag": "#vintagepadlock", "uses_count": 100000},
+          {"tag": "#padlockcollection", "uses_count": 10000}
+        ]
+      },
+      "SPP": {
+        "hashtags": [
+          {"tag": "#spp", "uses_count": 100000},
+          {"tag": "#singlepinpicking", "uses_count": 10000},
+          {"tag": "#lockpicking", "uses_count": 10000000},
+          {"tag": "#locksport", "uses_count": 5000000},
+          {"tag": "#tensionwrench", "uses_count": 10000},
+          {"tag": "#hookpick", "uses_count": 10000},
+          {"tag": "#half-diamond", "uses_count": 1000},
+          {"tag": "#shorthook", "uses_count": 1000},
+          {"tag": "#longhook", "uses_count": 1000},
+          {"tag": "#gem-pick", "uses_count": 1000},
+          {"tag": "#tok", "uses_count": 1000000},
+          {"tag": "#bok", "uses_count": 100000},
+          {"tag": "#false-set", "uses_count": 1000},
+          {"tag": "#securitypins", "uses_count": 10000},
+          {"tag": "#spoolpins", "uses_count": 10000}
+        ]
+      },
+      "Toool": {
+        "hashtags": [
+          {"tag": "#toool", "uses_count": 100000},
+          {"tag": "#theopenorganisationoflockpickers", "uses_count": 1000},
+          {"tag": "#locksport", "uses_count": 5000000},
+          {"tag": "#lockpicking", "uses_count": 10000000},
+          {"tag": "#locks", "uses_count": 10000000},
+          {"tag": "#security", "uses_count": 200000000},
+          {"tag": "#hacking", "uses_count": 100000000},
+          {"tag": "#defcon", "uses_count": 5000000},
+          {"tag": "#hopeconf", "uses_count": 100000},
+          {"tag": "#ccc", "uses_count": 10000000},
+          {"tag": "#2600", "uses_count": 10000000},
+          {"tag": "#hacker-spaces", "uses_count": 1000000},
+          {"tag": "#makerspaces", "uses_count": 5000000},
+          {"tag": "#diy-security", "uses_count": 10000},
+          {"tag": "#physicalsecurity", "uses_count": 1000000}
+        ]
+      },
+      "LockpickingTools": {
+        "hashtags": [
+          {"tag": "#lockpickingtools", "uses_count": 500000},
+          {"tag": "#lockpicks", "uses_count": 1000000},
+          {"tag": "#lockpickset", "uses_count": 100000},
+          {"tag": "#southord", "uses_count": 10000},
+          {"tag": "#sparrowslockpicks", "uses_count": 10000},
+          {"tag": "#petersonlocksmithtools", "uses_count": 1000},
+          {"tag": "#customlockpicks", "uses_count": 100000},
+          {"tag": "#tensionwrench", "uses_count": 10000},
+          {"tag": "#hookpick", "uses_count": 10000},
+          {"tag": "#rakepick", "uses_count": 10000},
+          {"tag": "#diamondpick", "uses_count": 10000},
+          {"tag": "#ballpick", "uses_count": 10000},
+          {"tag": "#pickgun", "uses_count": 100000},
+          {"tag": "#electricpickgun", "uses_count": 10000},
+          {"tag": "#tubularlockpick", "uses_count": 10000}
+        ]
+      },
+      "Hacker": {
+        "hashtags": [
+          {"tag": "#hacker", "uses_count": 100000000},
+          {"tag": "#hacking", "uses_count": 100000000},
+          {"tag": "#cybersecurity", "uses_count": 100000000},
+          {"tag": "#infosec", "uses_count": 20000000},
+          {"tag": "#ethicalhacking", "uses_count": 10000000},
+          {"tag": "#pentesting", "uses_count": 10000000},
+          {"tag": "#redteam", "uses_count": 5000000},
+          {"tag": "#blueteam", "uses_count": 5000000},
+          {"tag": "#kalilinux", "uses_count": 10000000},
+          {"tag": "#metasploit", "uses_count": 1000000},
+          {"tag": "#wireshark", "uses_count": 1000000},
+          {"tag": "#nmap", "uses_count": 1000000},
+          {"tag": "#defcon", "uses_count": 5000000},
+          {"tag": "#blackhat", "uses_count": 5000000},
+          {"tag": "#anonymous", "uses_count": 300000000}
+        ]
+      },
+      "Security": {
+        "hashtags": [
+          {"tag": "#security", "uses_count": 200000000},
+          {"tag": "#cybersecurity", "uses_count": 100000000},
+          {"tag": "#infosec", "uses_count": 20000000},
+          {"tag": "#safety", "uses_count": 300000000},
+          {"tag": "#protection", "uses_count": 100000000},
+          {"tag": "#privacy", "uses_count": 50000000},
+          {"tag": "#home-security", "uses_count": 10000000},
+          {"tag": "#cctv", "uses_count": 100000000},
+          {"tag": "#alarm", "uses_count": 50000000},
+          {"tag": "#surveillance", "uses_count": 50000000},
+          {"tag": "#bodyguard", "uses_count": 20000000},
+          {"tag": "#selfdefense", "uses_count": 100000000},
+          {"tag": "#martialarts", "uses_count": 200000000},
+          {"tag": "#kravmaga", "uses_count": 20000000},
+          {"tag": "#staysafe", "uses_count": 200000000}
+        ]
+      }
+    },
+    "Competitive Eating": {
+      "CompetitiveEating": {
+        "hashtags": [
+          {"tag": "#competitiveeating", "uses_count": 1000000},
+          {"tag": "#eatingchallenge", "uses_count": 10000000},
+          {"tag": "#foodchallenge", "uses_count": 50000000},
+          {"tag": "#manvsfood", "uses_count": 10000000},
+          {"tag": "#mukbang", "uses_count": 100000000},
+          {"tag": "#eatingshow", "uses_count": 10000000},
+          {"tag": "#foodcontest", "uses_count": 1000000},
+          {"tag": "#bigeater", "uses_count": 1000000},
+          {"tag": "#speedeating", "uses_count": 1000000},
+          {"tag": "#foodie", "uses_count": 1000000000},
+          {"tag": "#nathansfamous", "uses_count": 1000000},
+          {"tag": "#hotdogeatingcontest", "uses_count": 1000000},
+          {"tag": "#joeychestnut", "uses_count": 1000000},
+          {"tag": "#mattstonie", "uses_count": 1000000},
+          {"tag": "#kobayashi", "uses_count": 1000000}
+        ]
+      },
+      "EatingChallenge": {
+        "hashtags": [
+          {"tag": "#eatingchallenge", "uses_count": 10000000},
+          {"tag": "#foodchallenge", "uses_count": 50000000},
+          {"tag": "#spicychallenge", "uses_count": 10000000},
+          {"tag": "#ghostpepper", "uses_count": 5000000},
+          {"tag": "#carolinareaper", "uses_count": 5000000},
+          {"tag": "#onechipchallenge", "uses_count": 10000000},
+          {"tag": "#gallonchallenge", "uses_count": 1000000},
+          {"tag": "#cinnamonchallenge", "uses_count": 10000000},
+          {"tag": "#icecreamchallenge", "uses_count": 1000000},
+          {"tag": "#pizzachallenge", "uses_count": 5000000},
+          {"tag": "#burgerchallenge", "uses_count": 1000000},
+          {"tag": "#hotwingchallenge", "uses_count": 1000000},
+          {"tag": "#manvsfood", "uses_count": 10000000},
+          {"tag": "#foodbeast", "uses_count": 10000000},
+          {"tag": "#firstwefeast", "uses_count": 10000000}
+        ]
+      },
+      "FoodChallenge": {
+        "hashtags": [
+          {"tag": "#foodchallenge", "uses_count": 50000000},
+          {"tag": "#eatingchallenge", "uses_count": 10000000},
+          {"tag": "#foodporn", "uses_count": 1000000000},
+          {"tag": "#foodie", "uses_count": 1000000000},
+          {"tag": "#instafood", "uses_count": 1000000000},
+          {"tag": "#foodstagram", "uses_count": 500000000},
+          {"tag": "#yummy", "uses_count": 1000000000},
+          {"tag": "#delicious", "uses_count": 800000000},
+          {"tag": "#cheatmeal", "uses_count": 100000000},
+          {"tag": "#junkfood", "uses_count": 200000000},
+          {"tag": "#fastfood", "uses_count": 300000000},
+          {"tag": "#burger", "uses_count": 500000000},
+          {"tag": "#pizza", "uses_count": 800000000},
+          {"tag": "#hotdog", "uses_count": 100000000},
+          {"tag": "#tacos", "uses_count": 300000000}
+        ]
+      },
+      "ManVsFood": {
+        "hashtags": [
+          {"tag": "#manvsfood", "uses_count": 10000000},
+          {"tag": "#foodchallenge", "uses_count": 50000000},
+          {"tag": "#eatingchallenge", "uses_count": 10000000},
+          {"tag": "#adamrichman", "uses_count": 100000},
+          {"tag": "#caseywebb", "uses_count": 100000},
+          {"tag": "#travelchannel", "uses_count": 1000000},
+          {"tag": "#foodnetwork", "uses_count": 50000000},
+          {"tag": "#bigeats", "uses_count": 1000000},
+          {"tag": "#epicmealtime", "uses_count": 1000000},
+          {"tag": "#foodgoals", "uses_count": 10000000},
+          {"tag": "#go-big-or-go-home", "uses_count": 10000000},
+          {"tag": "#foodcoma", "uses_count": 10000000},
+          {"tag": "#stuffed", "uses_count": 50000000},
+          {"tag": "#getinmybelly", "uses_count": 20000000},
+          {"tag": "#noregrets", "uses_count": 300000000}
+        ]
+      },
+      "Mukbang": {
+        "hashtags": [
+          {"tag": "#mukbang", "uses_count": 100000000},
+          {"tag": "#eatingshow", "uses_count": 10000000},
+          {"tag": "#asmr", "uses_count": 1000000000},
+          {"tag": "#asmreating", "uses_count": 50000000},
+          {"tag": "#foodsounds", "uses_count": 10000000},
+          {"tag": "#chewing", "uses_count": 10000000},
+          {"tag": "#slurping", "uses_count": 1000000},
+          {"tag": "#koreanfood", "uses_count": 200000000},
+          {"tag": "#seafoodboil", "uses_count": 20000000},
+          {"tag": "#noodles", "uses_count": 300000000},
+          {"tag": "#friedchicken", "uses_count": 100000000},
+          {"tag": "#ramen", "uses_count": 300000000},
+          {"tag": "#youtube", "uses_count": 1200000000},
+          {"tag": "#youtuber", "uses_count": 800000000},
+          {"tag": "#subscribe", "uses_count": 1000000000}
+        ]
+      },
+      "EatingShow": {
+        "hashtags": [
+          {"tag": "#eatingshow", "uses_count": 10000000},
+          {"tag": "#mukbang", "uses_count": 100000000},
+          {"tag": "#asmr", "uses_count": 1000000000},
+          {"tag": "#foodvideo", "uses_count": 10000000},
+          {"tag": "#foodreview", "uses_count": 20000000},
+          {"tag": "#foodcritic", "uses_count": 5000000},
+          {"tag": "#foodblogger", "uses_count": 100000000},
+          {"tag": "#foodvlogger", "uses_count": 1000000},
+          {"tag": "#foodlover", "uses_count": 500000000},
+          {"tag": "#foodadventures", "uses_count": 10000000},
+          {"tag": "#foodexplorer", "uses_count": 1000000},
+          {"tag": "#foodtravel", "uses_count": 20000000},
+          {"tag": "#streetfood", "uses_count": 300000000},
+          {"tag": "#restaurantreview", "uses_count": 5000000},
+          {"tag": "#newforkcity", "uses_count": 10000000}
+        ]
+      },
+      "FoodContest": {
+        "hashtags": [
+          {"tag": "#foodcontest", "uses_count": 1000000},
+          {"tag": "#eatingcontest", "uses_count": 1000000},
+          {"tag": "#cookingcompetition", "uses_count": 1000000},
+          {"tag": "#bakingcompetition", "uses_count": 1000000},
+          {"tag": "#chilicookoff", "uses_count": 1000000},
+          {"tag": "#bbqcookoff", "uses_count": 1000000},
+          {"tag": "#pieeatingcontest", "uses_count": 100000},
+          {"tag": "#masterchef", "uses_count": 20000000},
+          {"tag": "#topchef", "uses_count": 10000000},
+          {"tag": "#chopped", "uses_count": 10000000},
+          {"tag": "#greatbritishbakeoff", "uses_count": 5000000},
+          {"tag": "#ironchef", "uses_count": 5000000},
+          {"tag": "#foodwars", "uses_count": 1000000},
+          {"tag": "#culinarybattle", "uses_count": 100000},
+          {"tag": "#whowillwin", "uses_count": 10000000}
+        ]
+      },
+      "BigEater": {
+        "hashtags": [
+          {"tag": "#bigeater", "uses_count": 1000000},
+          {"tag": "#competitiveeater", "uses_count": 1000000},
+          {"tag": "#foodieforlife", "uses_count": 1000000},
+          {"tag": "#alwayshungry", "uses_count": 100000000},
+          {"tag": "#bottomlesspit", "uses_count": 1000000},
+          {"tag": "#gluttony", "uses_count": 5000000},
+          {"tag": "#feastmode", "uses_count": 10000000},
+          {"tag": "#foodbaby", "uses_count": 10000000},
+          {"tag": "#ieatwhatiwant", "uses_count": 10000000},
+          {"tag": "#dietstartstomorrow", "uses_count": 50000000},
+          {"tag": "#noshame", "uses_count": 100000000},
+          {"tag": "#foodlover", "uses_count": 500000000},
+          {"tag": "#foodgasm", "uses_count": 100000000},
+          {"tag": "#foodcoma", "uses_count": 10000000},
+          {"tag": "#thanksgivingeveryday", "uses_count": 100000}
+        ]
+      },
+      "SpeedEating": {
+        "hashtags": [
+          {"tag": "#speedeating", "uses_count": 1000000},
+          {"tag": "#competitiveeating", "uses_count": 1000000},
+          {"tag": "#fastandeating", "uses_count": 10000},
+          {"tag": "#gobblegobble", "uses_count": 5000000},
+          {"tag": "#chug", "uses_count": 5000000},
+          {"tag": "#downinone", "uses_count": 1000000},
+          {"tag": "#worldrecord", "uses_count": 50000000},
+          {"tag": "#guinnessworldrecords", "uses_count": 10000000},
+          {"tag": "#donttrythisathome", "uses_count": 10000000},
+          {"tag": "#professional-eater", "uses_count": 100000},
+          {"tag": "#insane", "uses_count": 300000000},
+          {"tag": "#crazy", "uses_count": 1000000000},
+          {"tag": "#omg", "uses_count": 1000000000},
+          {"tag": "#wow", "uses_count": 1000000000},
+          {"tag": "#unbelievable", "uses_count": 100000000}
+        ]
+      },
+      "Foodie": {
+        "hashtags": [
+          {"tag": "#foodie", "uses_count": 1000000000},
+          {"tag": "#food", "uses_count": 2000000000},
+          {"tag": "#foodporn", "uses_count": 1000000000},
+          {"tag": "#instafood", "uses_count": 1000000000},
+          {"tag": "#foodstagram", "uses_count": 500000000},
+          {"tag": "#yummy", "uses_count": 1000000000},
+          {"tag": "#delicious", "uses_count": 800000000},
+          {"tag": "#foodlover", "uses_count": 500000000},
+          {"tag": "#foodblogger", "uses_count": 100000000},
+          {"tag": "#foodphotography", "uses_count": 300000000},
+          {"tag": "#tasty", "uses_count": 500000000},
+          {"tag": "#homemade", "uses_count": 800000000},
+          {"tag": "#restaurant", "uses_count": 300000000},
+          {"tag": "#eat", "uses_count": 500000000},
+          {"tag": "#hungry", "uses_count": 300000000}
+        ]
+      }
+    },
+    "Extreme Ironing": {
+      "ExtremeIroning": {
+        "hashtags": [
+          {"tag": "#extremeironing", "uses_count": 100000},
+          {"tag": "#eiuir", "uses_count": 1000},
+          {"tag": "#ironing", "uses_count": 1000000},
+          {"tag": "#extremesports", "uses_count": 100000000},
+          {"tag": "#wackysports", "uses_count": 10000},
+          {"tag": "#adventure", "uses_count": 500000000},
+          {"tag": "#getoutside", "uses_count": 200000000},
+          {"tag": "#neverstopexploring", "uses_count": 300000000},
+          {"tag": "#adrenalin", "uses_count": 50000000},
+          {"tag": "#daredevil", "uses_count": 10000000},
+          {"tag": "#weirdhobbies", "uses_count": 10000},
+          {"tag": "#unusualhobbies", "uses_count": 10000},
+          {"tag": "#philshaw", "uses_count": 1000},
+          {"tag": "#steamlaundry", "uses_count": 10000},
+          {"tag": "#ironman", "uses_count": 100000000}
+        ]
+      },
+      "Ironing": {
+        "hashtags": [
+          {"tag": "#ironing", "uses_count": 1000000},
+          {"tag": "#laundry", "uses_count": 100000000},
+          {"tag": "#housework", "uses_count": 10000000},
+          {"tag": "#chores", "uses_count": 10000000},
+          {"tag": "#cleaning", "uses_count": 300000000},
+          {"tag": "#satisfying", "uses_count": 1000000000},
+          {"tag": "#asmr", "uses_count": 1000000000},
+          {"tag": "#oddlysatisfying", "uses_count": 500000000},
+          {"tag": "#wrinkles", "uses_count": 10000000},
+          {"tag": "#smooth", "uses_count": 300000000},
+          {"tag": "#steam", "uses_count": 50000000},
+          {"tag": "#ironingday", "uses_count": 100000},
+          {"tag": "#laundryday", "uses_count": 50000000},
+          {"tag": "#freshandclean", "uses_count": 20000000},
+          {"tag": "#crisp", "uses_count": 10000000}
+        ]
+      },
+      "ExtremeSports": {
+        "hashtags": [
+          {"tag": "#extremesports", "uses_count": 100000000},
+          {"tag": "#adrenaline", "uses_count": 200000000},
+          {"tag": "#adventure", "uses_count": 500000000},
+          {"tag": "#gopro", "uses_count": 500000000},
+          {"tag": "#redbull", "uses_count": 300000000},
+          {"tag": "#skateboarding", "uses_count": 500000000},
+          {"tag": "#snowboarding", "uses_count": 300000000},
+          {"tag": "#surfing", "uses_count": 500000000},
+          {"tag": "#bmx", "uses_count": 300000000},
+          {"tag": "#motocross", "uses_count": 200000000},
+          {"tag": "#skydiving", "uses_count": 100000000},
+          {"tag": "#basejumping", "uses_count": 5000000},
+          {"tag": "#rockclimbing", "uses_count": 100000000},
+          {"tag": "#parkour", "uses_count": 200000000},
+          {"tag": "#liveyouradventure", "uses_count": 10000000}
+        ]
+      },
+      "WackySports": {
+        "hashtags": [
+          {"tag": "#wackysports", "uses_count": 10000},
+          {"tag": "#unusualsports", "uses_count": 10000},
+          {"tag": "#weirdsports", "uses_count": 10000},
+          {"tag": "#cooper-s-hill-cheese-rolling", "uses_count": 1000},
+          {"tag": "#wife-carrying", "uses_count": 10000},
+          {"tag": "#toe-wrestling", "uses_count": 1000},
+          {"tag": "#zorbing", "uses_count": 1000000},
+          {"tag": "#underwater-hockey", "uses_count": 10000},
+          {"tag": "#quidditch", "uses_count": 5000000},
+          {"tag": "#sepak-takraw", "uses_count": 100000},
+          {"tag": "#bossaball", "uses_count": 10000},
+          {"tag": "#cycle-ball", "uses_count": 1000},
+          {"tag": "#unicycle-hockey", "uses_count": 1000},
+          {"tag": "#hobby-horsing", "uses_count": 100000},
+          {"tag": "#somethingdifferent", "uses_count": 100000000}
+        ]
+      },
+      "Laundry": {
+        "hashtags": [
+          {"tag": "#laundry", "uses_count": 100000000},
+          {"tag": "#laundryday", "uses_count": 50000000},
+          {"tag": "#cleaning", "uses_count": 300000000},
+          {"tag": "#washingmachine", "uses_count": 10000000},
+          {"tag": "#dryer", "uses_count": 10000000},
+          {"tag": "#detergent", "uses_count": 5000000},
+          {"tag": "#fabricsoftener", "uses_count": 1000000},
+          {"tag": "#cleanclothes", "uses_count": 5000000},
+          {"tag": "#foldingclothes", "uses_count": 1000000},
+          {"tag": "#laundryroom", "uses_count": 10000000},
+          {"tag": "#laundromat", "uses_count": 5000000},
+          {"tag": "#home", "uses_count": 300000000},
+          {"tag": "#household-chores", "uses_count": 1000000},
+          {"tag": "#momlife", "uses_count": 1000000000},
+          {"tag": "#dadlife", "uses_count": 500000000}
+        ]
+      },
+      "DomesticDisorder": {
+        "hashtags": [
+          {"tag": "#domesticdisorder", "uses_count": 1000},
+          {"tag": "#chaoticenergy", "uses_count": 10000000},
+          {"tag": "#messyhouse", "uses_count": 5000000},
+          {"tag": "#organizedchaos", "uses_count": 10000000},
+          {"tag": "#reallife", "uses_count": 1000000000},
+          {"tag": "#hotmess", "uses_count": 100000000},
+          {"tag": "#adultingishard", "uses_count": 20000000},
+          {"tag": "#procrastination", "uses_count": 50000000},
+          {"tag": "#sendhelp", "uses_count": 100000000},
+          {"tag": "#thestruggleisreal", "uses_count": 300000000},
+          {"tag": "#just-winging-it", "uses_count": 10000000},
+          {"tag": "#controlled-chaos", "uses_count": 1000000},
+          {"tag": "#beautifulmess", "uses_count": 50000000},
+          {"tag": "#lifeunfiltered", "uses_count": 10000000},
+          {"tag": "#keepingitreal", "uses_count": 300000000}
+        ]
+      },
+      "EI": {
+        "hashtags": [
+          {"tag": "#ei", "uses_count": 10000000},
+          {"tag": "#emotionalintelligence", "uses_count": 10000000},
+          {"tag": "#eq", "uses_count": 5000000},
+          {"tag": "#selfawareness", "uses_count": 100000000},
+          {"tag": "#selfregulation", "uses_count": 1000000},
+          {"tag": "#motivation", "uses_count": 1000000000},
+          {"tag": "#empathy", "uses_count": 100000000},
+          {"tag": "#socialskills", "uses_count": 10000000},
+          {"tag": "#leadership", "uses_count": 500000000},
+          {"tag": "#personalgrowth", "uses_count": 300000000},
+          {"tag": "#softskills", "uses_count": 10000000},
+          {"tag": "#mindfulness", "uses_count": 500000000},
+          {"tag": "#psychology", "uses_count": 300000000},
+          {"tag": "#communication", "uses_count": 200000000},
+          {"tag": "#success", "uses_count": 500000000}
+        ]
+      },
+      "GetYourWrinklesOut": {
+        "hashtags": [
+          {"tag": "#getyourwrinklesout", "uses_count": 1000},
+          {"tag": "#wrinklefree", "uses_count": 1000000},
+          {"tag": "#smooth-sailing", "uses_count": 1000000},
+          {"tag": "#problem-solving", "uses_count": 10000000},
+          {"tag": "#lifehacks", "uses_count": 300000000},
+          {"tag": "#tiptuesday", "uses_count": 100000000},
+          {"tag": "#wisdomwednesday", "uses_count": 50000000},
+          {"tag": "#qanda", "uses_count": 100000000},
+          {"tag": "#askmeanything", "uses_count": 100000000},
+          {"tag": "#faq", "uses_count": 50000000},
+          {"tag": "#helpfultips", "uses_count": 10000000},
+          {"tag": "#advice", "uses_count": 200000000},
+          {"tag": "#troubleshooting", "uses_count": 1000000},
+          {"tag": "#solutions", "uses_count": 50000000},
+          {"tag": "#work-smarter-not-harder", "uses_count": 10000000}
+        ]
+      },
+      "SteamOn": {
+        "hashtags": [
+          {"tag": "#steamon", "uses_count": 100000},
+          {"tag": "#fullsteamahead", "uses_count": 1000000},
+          {"tag": "#unstoppable", "uses_count": 200000000},
+          {"tag": "#unstoppable-force", "uses_count": 1000000},
+          {"tag": "#unstoppable-spirit", "uses_count": 100000},
+          {"tag": "#unstoppable-women", "uses_count": 1000000},
+          {"tag": "#unstoppable-men", "uses_count": 10000},
+          {"tag": "#unstoppable-team", "uses_count": 10000},
+          {"tag": "#unstoppable-mindset", "uses_count": 100000},
+          {"tag": "#unstoppable-generation", "uses_count": 10000},
+          {"tag": "#unstoppable-love", "uses_count": 100000},
+          {"tag": "#unstoppable-god", "uses_count": 10000},
+          {"tag": "#unstoppable-grace", "uses_count": 10000},
+          {"tag": "#unstoppable-faith", "uses_count": 100000},
+          {"tag": "#unstoppable-power", "uses_count": 100000}
+        ]
+      }
+    },
+    "Folkloristics": {
+      "Folkloristics": {
+        "hashtags": [
+          {"tag": "#folkloristics", "uses_count": 10000},
+          {"tag": "#folklore", "uses_count": 50000000},
+          {"tag": "#mythology", "uses_count": 50000000},
+          {"tag": "#culturalstudies", "uses_count": 1000000},
+          {"tag": "#anthropology", "uses_count": 20000000},
+          {"tag": "#ethnography", "uses_count": 1000000},
+          {"tag": "#oralhistory", "uses_count": 1000000},
+          {"tag": "#storytelling", "uses_count": 100000000},
+          {"tag": "#tradition", "uses_count": 100000000},
+          {"tag": "#heritage", "uses_count": 100000000},
+          {"tag": "#intangibleculturalheritage", "uses_count": 100000},
+          {"tag": "#vernacular", "uses_count": 1000000},
+          {"tag": "#folk-belief", "uses_count": 1000},
+          {"tag": "#folk-narrative", "uses_count": 1000},
+          {"tag": "#material-culture", "uses_count": 100000}
+        ]
+      },
+      "Folklore": {
+        "hashtags": [
+          {"tag": "#folklore", "uses_count": 50000000},
+          {"tag": "#mythology", "uses_count": 50000000},
+          {"tag": "#fairytale", "uses_count": 50000000},
+          {"tag": "#legend", "uses_count": 200000000},
+          {"tag": "#myth", "uses_count": 100000000},
+          {"tag": "#urbanlegend", "uses_count": 5000000},
+          {"tag": "#ghoststories", "uses_count": 10000000},
+          {"tag": "#cryptid", "uses_count": 5000000},
+          {"tag": "#bigfoot", "uses_count": 20000000},
+          {"tag": "#lochnessmonster", "uses_count": 1000000},
+          {"tag": "#mothman", "uses_count": 5000000},
+          {"tag": "#wendigo", "uses_count": 1000000},
+          {"tag": "#skinwalker", "uses_count": 1000000},
+          {"tag": "#superstition", "uses_count": 5000000},
+          {"tag": "#folkmagic", "uses_count": 1000000}
+        ]
+      },
+      "Mythology": {
+        "hashtags": [
+          {"tag": "#mythology", "uses_count": 50000000},
+          {"tag": "#myth", "uses_count": 100000000},
+          {"tag": "#greekmythology", "uses_count": 20000000},
+          {"tag": "#norsemythology", "uses_count": 10000000},
+          {"tag": "#egyptianmythology", "uses_count": 5000000},
+          {"tag": "#romanmythology", "uses_count": 1000000},
+          {"tag": "#celticmythology", "uses_count": 1000000},
+          {"tag": "#hindumythology", "uses_count": 5000000},
+          {"tag": "#japanesemythology", "uses_count": 1000000},
+          {"tag": "#gods-and-goddesses", "uses_count": 10000000},
+          {"tag": "#ancienthistory", "uses_count": 50000000},
+          {"tag": "#classics", "uses_count": 50000000},
+          {"tag": "#loreolympus", "uses_count": 10000000},
+          {"tag": "#percyjackson", "uses_count": 50000000},
+          {"tag": "#circe", "uses_count": 5000000}
+        ]
+      },
+      "FolkTale": {
+        "hashtags": [
+          {"tag": "#folktale", "uses_count": 5000000},
+          {"tag": "#fairytale", "uses_count": 50000000},
+          {"tag": "#storytelling", "uses_count": 100000000},
+          {"tag": "#onceuponatime", "uses_count": 100000000},
+          {"tag": "#grimm-s-fairy-tales", "uses_count": 100000},
+          {"tag": "#hans-christian-andersen", "uses_count": 100000},
+          {"tag": "#aesop-s-fables", "uses_count": 100000},
+          {"tag": "#children-s-books", "uses_count": 200000000},
+          {"tag": "#picturebook", "uses_count": 50000000},
+          {"tag": "#kidlit", "uses_count": 50000000},
+          {"tag": "#illustration", "uses_count": 250000000},
+          {"tag": "#moral-of-the-story", "uses_count": 1000000},
+          {"tag": "#happilyeverafter", "uses_count": 100000000},
+          {"tag": "#bedtimestories", "uses_count": 20000000},
+          {"tag": "#readaloud", "uses_count": 10000000}
+        ]
+      },
+      "UrbanLegend": {
+        "hashtags": [
+          {"tag": "#urbanlegend", "uses_count": 5000000},
+          {"tag": "#creepypasta", "uses_count": 20000000},
+          {"tag": "#scarystories", "uses_count": 50000000},
+          {"tag": "#horror", "uses_count": 1000000000},
+          {"tag": "#nosleep", "uses_count": 50000000},
+          {"tag": "#slenderman", "uses_count": 5000000},
+          {"tag": "#bloody-mary", "uses_count": 1000000},
+          {"tag": "#the-rake", "uses_count": 1000000},
+          {"tag": "#jeff-the-killer", "uses_count": 1000000},
+          {"tag": "#scp", "uses_count": 100000000},
+          {"tag": "#conspiracytheory", "uses_count": 50000000},
+          {"tag": "#unsolvedmysteries", "uses_count": 10000000},
+          {"tag": "#paranormal", "uses_count": 100000000},
+          {"tag": "#supernatural", "uses_count": 300000000},
+          {"tag": "#spooky", "uses_count": 200000000}
+        ]
+      },
+      "OralTradition": {
+        "hashtags": [
+          {"tag": "#oraltradition", "uses_count": 1000000},
+          {"tag": "#storytelling", "uses_count": 100000000},
+          {"tag": "#spokenword", "uses_count": 50000000},
+          {"tag": "#poetry", "uses_count": 1000000000},
+          {"tag": "#indigenous", "uses_count": 200000000},
+          {"tag": "#nativeamerican", "uses_count": 100000000},
+          {"tag": "#firstnations", "uses_count": 20000000},
+          {"tag": "#aboriginal", "uses_count": 20000000},
+          {"tag": "#maori", "uses_count": 20000000},
+          {"tag": "#hawaiian", "uses_count": 100000000},
+          {"tag": "#griot", "uses_count": 100000},
+          {"tag": "#bard", "uses_count": 5000000},
+          {"tag": "#minstrel", "uses_count": 1000000},
+          {"tag": "#troubadour", "uses_count": 1000000},
+          {"tag": "#culturalpreservation", "uses_count": 100000}
+        ]
+      },
+      "CulturalHeritage": {
+        "hashtags": [
+          {"tag": "#culturalheritage", "uses_count": 10000000},
+          {"tag": "#heritage", "uses_count": 100000000},
+          {"tag": "#unesco", "uses_count": 20000000},
+          {"tag": "#worldheritage", "uses_count": 10000000},
+          {"tag": "#intangibleculturalheritage", "uses_count": 100000},
+          {"tag": "#history", "uses_count": 500000000},
+          {"tag": "#archaeology", "uses_count": 50000000},
+          {"tag": "#museum", "uses_count": 300000000},
+          {"tag": "#historicpreservation", "uses_count": 5000000},
+          {"tag": "#savethepast", "uses_count": 100000},
+          {"tag": "#livinghistory", "uses_count": 5000000},
+          {"tag": "#traditions", "uses_count": 50000000},
+          {"tag": "#roots", "uses_count": 100000000},
+          {"tag": "#ancestry", "uses_count": 20000000},
+          {"tag": "#genealogy", "uses_count": 10000000}
+        ]
+      },
+      "Storytelling": {
+        "hashtags": [
+          {"tag": "#storytelling", "uses_count": 100000000},
+          {"tag": "#storyteller", "uses_count": 50000000},
+          {"tag": "#narrative", "uses_count": 20000000},
+          {"tag": "#writingcommunity", "uses_count": 300000000},
+          {"tag": "#writersofinstagram", "uses_count": 500000000},
+          {"tag": "#amwriting", "uses_count": 300000000},
+          {"tag": "#screenwriting", "uses_count": 20000000},
+          {"tag": "#filmmaking", "uses_count": 300000000},
+          {"tag": "#dnd", "uses_count": 200000000},
+          {"tag": "#ttrpg", "uses_count": 20000000},
+          {"tag": "#podcast", "uses_count": 500000000},
+          {"tag": "#publicspeaking", "uses_count": 20000000},
+          {"tag": "#tedtalks", "uses_count": 10000000},
+          {"tag": "#the-moth", "uses_count": 100000},
+          {"tag": "#this-american-life", "uses_count": 100000}
+        ]
+      },
+      "Myth": {
+        "hashtags": [
+          {"tag": "#myth", "uses_count": 100000000},
+          {"tag": "#mythology", "uses_count": 50000000},
+          {"tag": "#legend", "uses_count": 200000000},
+          {"tag": "#folklore", "uses_count": 50000000},
+          {"tag": "#ancient", "uses_count": 200000000},
+          {"tag": "#history", "uses_count": 500000000},
+          {"tag": "#fact-or-fiction", "uses_count": 1000000},
+          {"tag": "#mythbusters", "uses_count": 5000000},
+          {"tag": "#debunked", "uses_count": 1000000},
+          {"tag": "#truth", "uses_count": 1000000000},
+          {"tag": "#lies", "uses_count": 100000000},
+          {"tag": "#misconception", "uses_count": 1000000},
+          {"tag": "#common-misconceptions", "uses_count": 10000},
+          {"tag": "#critical-thinking", "uses_count": 10000000},
+          {"tag": "#skeptic", "uses_count": 5000000}
+        ]
+      },
+      "Legend": {
+        "hashtags": [
+          {"tag": "#legend", "uses_count": 200000000},
+          {"tag": "#legends", "uses_count": 100000000},
+          {"tag": "#legendary", "uses_count": 100000000},
+          {"tag": "#icon", "uses_count": 300000000},
+          {"tag": "#goat", "uses_count": 300000000},
+          {"tag": "#hero", "uses_count": 500000000},
+          {"tag": "#king", "uses_count": 1000000000},
+          {"tag": "#queen", "uses_count": 1000000000},
+          {"tag": "#legacy", "uses_count": 100000000},
+          {"tag": "#hall-of-fame", "uses_count": 10000000},
+          {"tag": "#never-forget", "uses_count": 200000000},
+          {"tag": "#rip", "uses_count": 1000000000},
+          {"tag": "#in-memoriam", "uses_count": 10000000},
+          {"tag": "#throwback", "uses_count": 500000000},
+          {"tag": "#classic", "uses_count": 300000000}
+        ]
+      }
+    },
+    "Amateur Radio": {
+      "AmateurRadio": {
+        "hashtags": [
+          {"tag": "#amateurradio", "uses_count": 1000000},
+          {"tag": "#hamradio", "uses_count": 5000000},
+          {"tag": "#arrl", "uses_count": 100000},
+          {"tag": "#hfradio", "uses_count": 100000},
+          {"tag": "#qrp", "uses_count": 100000},
+          {"tag": "#cw", "uses_count": 1000000},
+          {"tag": "#dx", "uses_count": 1000000},
+          {"tag": "#hamshack", "uses_count": 100000},
+          {"tag": "#getontheair", "uses_count": 100000},
+          {"tag": "#radio", "uses_count": 100000000},
+          {"tag": "#morsecode", "uses_count": 1000000},
+          {"tag": "#shortwave", "uses_count": 1000000},
+          {"tag": "#antennas", "uses_count": 1000000},
+          {"tag": "#baofeng", "uses_count": 1000000},
+          {"tag": "#yaesu", "uses_count": 1000000}
+        ]
+      },
+      "HamRadio": {
+        "hashtags": [
+          {"tag": "#hamradio", "uses_count": 5000000},
+          {"tag": "#amateurradio", "uses_count": 1000000},
+          {"tag": "#hamradioporn", "uses_count": 10000},
+          {"tag": "#hamradioshack", "uses_count": 100000},
+          {"tag": "#hamradiooperator", "uses_count": 100000},
+          {"tag": "#hamradiostuff", "uses_count": 10000},
+          {"tag": "#hamradiogeek", "uses_count": 1000},
+          {"tag": "#hamradioproblems", "uses_count": 1000},
+          {"tag": "#hamradiotower", "uses_count": 1000},
+          {"tag": "#hamradios", "uses_count": 10000},
+          {"tag": "#hamradiogear", "uses_count": 10000},
+          {"tag": "#hamradiodx", "uses_count": 1000},
+          {"tag": "#hamradioantenna", "uses_count": 10000},
+          {"tag": "#hamradiosatellite", "uses_count": 1000},
+          {"tag": "#hamradiocontest", "uses_count": 1000}
+        ]
+      },
+      "ARRL": {
+        "hashtags": [
+          {"tag": "#arrl", "uses_count": 100000},
+          {"tag": "#amateurradio", "uses_count": 1000000},
+          {"tag": "#hamradio", "uses_count": 5000000},
+          {"tag": "#fieldday", "uses_count": 10000000},
+          {"tag": "#cq", "uses_count": 10000000},
+          {"tag": "#73", "uses_count": 10000000},
+          {"tag": "#qsl", "uses_count": 1000000},
+          {"tag": "#qso", "uses_count": 1000000},
+          {"tag": "#nationalparksontheair", "uses_count": 10000},
+          {"tag": "#pota", "uses_count": 1000000},
+          {"tag": "#sota", "uses_count": 1000000},
+          {"tag": "#winterfieldday", "uses_count": 10000},
+          {"tag": "#arrl-dx-contest", "uses_count": 1000},
+          {"tag": "#arrl-vhf-contest", "uses_count": 1000},
+          {"tag": "#arrl-10-meter-contest", "uses_count": 1000}
+        ]
+      },
+      "HFRadio": {
+        "hashtags": [
+          {"tag": "#hfradio", "uses_count": 100000},
+          {"tag": "#shortwave", "uses_count": 1000000},
+          {"tag": "#dxing", "uses_count": 100000},
+          {"tag": "#hamradio", "uses_count": 5000000},
+          {"tag": "#amateurradio", "uses_count": 1000000},
+          {"tag": "#ssb", "uses_count": 100000},
+          {"tag": "#ft8", "uses_count": 100000},
+          {"tag": "#js8call", "uses_count": 10000},
+          {"tag": "#psk31", "uses_count": 10000},
+          {"tag": "#rtty", "uses_count": 100000},
+          {"tag": "#wspr", "uses_count": 10000},
+          {"tag": "#propagation", "uses_count": 1000000},
+          {"tag": "#ionosphere", "uses_count": 100000},
+          {"tag": "#sunspots", "uses_count": 1000000},
+          {"tag": "#space-weather", "uses_count": 1000000}
+        ]
+      },
+      "QRP": {
+        "hashtags": [
+          {"tag": "#qrp", "uses_count": 100000},
+          {"tag": "#lowpower", "uses_count": 1000000},
+          {"tag": "#hamradio", "uses_count": 5000000},
+          {"tag": "#amateurradio", "uses_count": 1000000},
+          {"tag": "#pota", "uses_count": 1000000},
+          {"tag": "#sota", "uses_count": 1000000},
+          {"tag": "#qrplabs", "uses_count": 1000},
+          {"tag": "#elecraft", "uses_count": 10000},
+          {"tag": "#kx3", "uses_count": 10000},
+          {"tag": "#kx2", "uses_count": 10000},
+          {"tag": "#ft817", "uses_count": 10000},
+          {"tag": "#ft818", "uses_count": 10000},
+          {"tag": "#g90", "uses_count": 10000},
+          {"tag": "#mchf", "uses_count": 1000},
+          {"tag": "#qrprigs", "uses_count": 1000}
+        ]
+      },
+      "CW": {
+        "hashtags": [
+          {"tag": "#cw", "uses_count": 1000000},
+          {"tag": "#morsecode", "uses_count": 1000000},
+          {"tag": "#hamradio", "uses_count": 5000000},
+          {"tag": "#amateurradio", "uses_count": 1000000},
+          {"tag": "#straightkey", "uses_count": 10000},
+          {"tag": "#paddle", "uses_count": 1000000},
+          {"tag": "#iambic", "uses_count": 10000},
+          {"tag": "#vibroplex", "uses_count": 10000},
+          {"tag": "#begali", "uses_count": 1000},
+          {"tag": "#cwops", "uses_count": 1000},
+          {"tag": "#skcc", "uses_count": 1000},
+          {"tag": "#fists", "uses_count": 1000000},
+          {"tag": "#dit-dah", "uses_count": 1000},
+          {"tag": "#code-practice", "uses_count": 1000},
+          {"tag": "#learn-cw", "uses_count": 1000}
+        ]
+      },
+      "DX": {
+        "hashtags": [
+          {"tag": "#dx", "uses_count": 1000000},
+          {"tag": "#dxpedition", "uses_count": 100000},
+          {"tag": "#hamradio", "uses_count": 5000000},
+          {"tag": "#amateurradio", "uses_count": 1000000},
+          {"tag": "#qslcard", "uses_count": 100000},
+          {"tag": "#lotw", "uses_count": 10000},
+          {"tag": "#eqsl", "uses_count": 10000},
+          {"tag": "#dxcc", "uses_count": 10000},
+          {"tag": "#was", "uses_count": 10000000},
+          {"tag": "#iota", "uses_count": 10000000},
+          {"tag": "#vucc", "uses_count": 1000},
+          {"tag": "#cq-dx", "uses_count": 10000},
+          {"tag": "#wpx", "uses_count": 100000},
+          {"tag": "#iaru", "uses_count": 100000},
+          {"tag": "#dx-cluster", "uses_count": 1000}
+        ]
+      },
+      "HamShack": {
+        "hashtags": [
+          {"tag": "#hamshack", "uses_count": 100000},
+          {"tag": "#hamradio", "uses_count": 5000000},
+          {"tag": "#amateurradio", "uses_count": 1000000},
+          {"tag": "#radioshack", "uses_count": 10000000},
+          {"tag": "#icom", "uses_count": 10000000},
+          {"tag": "#yaesu", "uses_count": 1000000},
+          {"tag": "#kenwood", "uses_count": 10000000},
+          {"tag": "#elecraft", "uses_count": 10000},
+          {"tag": "#flexradio", "uses_count": 10000},
+          {"tag": "#sdr", "uses_count": 1000000},
+          {"tag": "#antenna", "uses_count": 10000000},
+          {"tag": "#coax", "uses_count": 1000000},
+          {"tag": "#powersupply", "uses_count": 1000000},
+          {"tag": "#tuner", "uses_count": 10000000},
+          {"tag": "#shacklife", "uses_count": 100000}
+        ]
+      },
+      "GetOnTheAir": {
+        "hashtags": [
+          {"tag": "#getontheair", "uses_count": 100000},
+          {"tag": "#gota", "uses_count": 1000000},
+          {"tag": "#hamradio", "uses_count": 5000000},
+          {"tag": "#amateurradio", "uses_count": 1000000},
+          {"tag": "#newham", "uses_count": 10000},
+          {"tag": "#hamradiolicense", "uses_count": 1000},
+          {"tag": "#technician-license", "uses_count": 1000},
+          {"tag": "#general-license", "uses_count": 1000},
+          {"tag": "#extra-license", "uses_count": 1000},
+          {"tag": "#arrl-vec", "uses_count": 100},
+          {"tag": "#w5yi-vec", "uses_count": 100},
+          {"tag": "#laurel-vec", "uses_count": 100},
+          {"tag": "#elmer", "uses_count": 1000000},
+          {"tag": "#mentorship", "uses_count": 10000000},
+          {"tag": "#community", "uses_count": 300000000}
+        ]
+      },
+      "Radio": {
+        "hashtags": [
+          {"tag": "#radio", "uses_count": 100000000},
+          {"tag": "#music", "uses_count": 1000000000},
+          {"tag": "#dj", "uses_count": 500000000},
+          {"tag": "#podcast", "uses_count": 500000000},
+          {"tag": "#onair", "uses_count": 50000000},
+          {"tag": "#live", "uses_count": 500000000},
+          {"tag": "#broadcast", "uses_count": 10000000},
+          {"tag": "#fmradio", "uses_count": 5000000},
+          {"tag": "#amradio", "uses_count": 1000000},
+          {"tag": "#internetradio", "uses_count": 1000000},
+          {"tag": "#talkradio", "uses_count": 1000000},
+          {"tag": "#radioshow", "uses_count": 10000000},
+          {"tag": "#radiohost", "uses_count": 5000000},
+          {"tag": "#radiodj", "uses_count": 1000000},
+          {"tag": "#nowplaying", "uses_count": 100000000}
+        ]
+      }
+    },
+    "Beekeeping": {
+      "Beekeeping": {
+        "hashtags": [
+          {"tag": "#beekeeping", "uses_count": 5000000},
+          {"tag": "#bees", "uses_count": 100000000},
+          {"tag": "#honey", "uses_count": 500000000},
+          {"tag": "#savethebees", "uses_count": 100000000},
+          {"tag": "#apiary", "uses_count": 1000000},
+          {"tag": "#beekeeper", "uses_count": 5000000},
+          {"tag": "#honeybee", "uses_count": 20000000},
+          {"tag": "#pollinators", "uses_count": 10000000},
+          {"tag": "#urbanbeekeeping", "uses_count": 1000000},
+          {"tag": "#backyardbeekeeping", "uses_count": 500000},
+          {"tag": "#beehive", "uses_count": 10000000},
+          {"tag": "#beesofinstagram", "uses_count": 1000000},
+          {"tag": "#beekeeperslife", "uses_count": 500000},
+          {"tag": "#lovebees", "uses_count": 5000000},
+          {"tag": "#apiculture", "uses_count": 100000}
+        ]
+      },
+      "Bees": {
+        "hashtags": [
+          {"tag": "#bees", "uses_count": 100000000},
+          {"tag": "#savethebees", "uses_count": 100000000},
+          {"tag": "#bee", "uses_count": 200000000},
+          {"tag": "#honeybee", "uses_count": 20000000},
+          {"tag": "#bumblebee", "uses_count": 10000000},
+          {"tag": "#carpenterbee", "uses_count": 1000000},
+          {"tag": "#masonbee", "uses_count": 1000000},
+          {"tag": "#leafcutterbee", "uses_count": 100000},
+          {"tag": "#sweatbee", "uses_count": 100000},
+          {"tag": "#nativebees", "uses_count": 1000000},
+          {"tag": "#pollinatorgarden", "uses_count": 5000000},
+          {"tag": "#flowers", "uses_count": 1000000000},
+          {"tag": "#nature", "uses_count": 1000000000},
+          {"tag": "#insect", "uses_count": 100000000},
+          {"tag": "#macro", "uses_count": 200000000}
+        ]
+      },
+      "Honey": {
+        "hashtags": [
+          {"tag": "#honey", "uses_count": 500000000},
+          {"tag": "#rawhoney", "uses_count": 10000000},
+          {"tag": "#localhoney", "uses_count": 10000000},
+          {"tag": "#manukahoney", "uses_count": 5000000},
+          {"tag": "#honeycomb", "uses_count": 10000000},
+          {"tag": "#creamedhoney", "uses_count": 1000000},
+          {"tag": "#hot-honey", "uses_count": 1000000},
+          {"tag": "#honey-and-lemon", "uses_count": 1000000},
+          {"tag": "#tea-and-honey", "uses_count": 1000000},
+          {"tag": "#natural-sweetener", "uses_count": 1000000},
+          {"tag": "#superfood", "uses_count": 100000000},
+          {"tag": "#healthy", "uses_count": 1000000000},
+          {"tag": "#delicious", "uses_count": 800000000},
+          {"tag": "#foodie", "uses_count": 1000000000},
+          {"tag": "#recipe", "uses_count": 300000000}
+        ]
+      },
+      "SaveTheBees": {
+        "hashtags": [
+          {"tag": "#savethebees", "uses_count": 100000000},
+          {"tag": "#bees", "uses_count": 100000000},
+          {"tag": "#pollinators", "uses_count": 10000000},
+          {"tag": "#plant-flowers", "uses_count": 1000000},
+          {"tag": "#no-pesticides", "uses_count": 1000000},
+          {"tag": "#organic-gardening", "uses_count": 10000000},
+          {"tag": "#rewilding", "uses_count": 1000000},
+          {"tag": "#biodiversity", "uses_count": 10000000},
+          {"tag": "#climate-action", "uses_count": 10000000},
+          {"tag": "#environmentalism", "uses_count": 10000000},
+          {"tag": "#eco-friendly", "uses_count": 100000000},
+          {"tag": "#sustainability", "uses_count": 200000000},
+          {"tag": "#nature-lover", "uses_count": 500000000},
+          {"tag": "#earth-day", "uses_count": 50000000},
+          {"tag": "#wwf", "uses_count": 10000000}
+        ]
+      },
+      "Apiary": {
+        "hashtags": [
+          {"tag": "#apiary", "uses_count": 1000000},
+          {"tag": "#beeyard", "uses_count": 100000},
+          {"tag": "#beekeeping", "uses_count": 5000000},
+          {"tag": "#beekeeper", "uses_count": 5000000},
+          {"tag": "#beehive", "uses_count": 10000000},
+          {"tag": "#langstroth", "uses_count": 100000},
+          {"tag": "#topbarhive", "uses_count": 100000},
+          {"tag": "#warré-hive", "uses_count": 10000},
+          {"tag": "#flowhive", "uses_count": 500000},
+          {"tag": "#honey-harvest", "uses_count": 1000000},
+          {"tag": "#queen-bee", "uses_count": 10000000},
+          {"tag": "#drone-bee", "uses_count": 100000},
+          {"tag": "#worker-bee", "uses_count": 1000000},
+          {"tag": "#beespace", "uses_count": 10000},
+          {"tag": "#apiarist", "uses_count": 10000}
+        ]
+      },
+      "Beekeeper": {
+        "hashtags": [
+          {"tag": "#beekeeper", "uses_count": 5000000},
+          {"tag": "#beekeeperslife", "uses_count": 500000},
+          {"tag": "#beekeepersofinstagram", "uses_count": 500000},
+          {"tag": "#womenbeekeepers", "uses_count": 100000},
+          {"tag": "#urbanbeekeeper", "uses_count": 100000},
+          {"tag": "#backyardbeekeeper", "uses_count": 100000},
+          {"tag": "#hobbybeekeeper", "uses_count": 100000},
+          {"tag": "#commercialbeekeeper", "uses_count": 10000},
+          {"tag": "#beekeeping-suit", "uses_count": 10000},
+          {"tag": "#smoker", "uses_count": 10000000},
+          {"tag": "#hive-tool", "uses_count": 10000},
+          {"tag": "#honey-extractor", "uses_count": 10000},
+          {"tag": "#beekeeping-gloves", "uses_count": 10000},
+          {"tag": "#beekeeping-veil", "uses_count": 10000},
+          {"tag": "#beekeeping-jacket", "uses_count": 10000}
+        ]
+      },
+      "HoneyBee": {
+        "hashtags": [
+          {"tag": "#honeybee", "uses_count": 20000000},
+          {"tag": "#apis-mellifera", "uses_count": 10000},
+          {"tag": "#bee-dance", "uses_count": 100000},
+          {"tag": "#pollen", "uses_count": 20000000},
+          {"tag": "#nectar", "uses_count": 10000000},
+          {"tag": "#propolis", "uses_count": 5000000},
+          {"tag": "#beeswax", "uses_count": 20000000},
+          {"tag": "#royal-jelly", "uses_count": 1000000},
+          {"tag": "#beebread", "uses_count": 100000},
+          {"tag": "#colony-collapse-disorder", "uses_count": 100000},
+          {"tag": "#varroa-mite", "uses_count": 100000},
+          "#small-hive-beetle",
+          "#american-foulbrood",
+          "#european-foulbrood",
+          "#chalkbrood"
+        ]
+      },
+      "Pollinators": {
+        "hashtags": [
+          {"tag": "#pollinators", "uses_count": 10000000},
+          {"tag": "#pollinatorgarden", "uses_count": 5000000},
+          {"tag": "#bees", "uses_count": 100000000},
+          {"tag": "#butterflies", "uses_count": 300000000},
+          {"tag": "#hummingbirds", "uses_count": 20000000},
+          {"tag": "#bats", "uses_count": 20000000},
+          {"tag": "#moths", "uses_count": 10000000},
+          {"tag": "#wasps", "uses_count": 10000000},
+          {"tag": "#beetles", "uses_count": 10000000},
+          {"tag": "#flies", "uses_count": 50000000},
+          {"tag": "#native-plants", "uses_count": 5000000},
+          {"tag": "#wildflowers", "uses_count": 100000000},
+          {"tag": "#meadow", "uses_count": 10000000},
+          {"tag": "#habitat", "uses_count": 50000000},
+          {"tag": "#conservation", "uses_count": 100000000}
+        ]
+      },
+      "UrbanBeekeeping": {
+        "hashtags": [
+          {"tag": "#urbanbeekeeping", "uses_count": 1000000},
+          {"tag": "#rooftop-bees", "uses_count": 100000},
+          {"tag": "#city-bees", "uses_count": 1000000},
+          {"tag": "#beekeeping-in-the-city", "uses_count": 10000},
+          {"tag": "#urban-honey", "uses_count": 100000},
+          {"tag": "#new-york-city-bees", "uses_count": 10000},
+          {"tag": "#london-bees", "uses_count": 100000},
+          {"tag": "#paris-bees", "uses_count": 10000},
+          {"tag": "#tokyo-bees", "uses_count": 10000},
+          {"tag": "#sydney-bees", "uses_count": 10000},
+          {"tag": "#community-garden", "uses_count": 10000000},
+          {"tag": "#green-roof", "uses_count": 1000000},
+          {"tag": "#local-food", "uses_count": 100000000},
+          {"tag": "#sustainable-cities", "uses_count": 1000000},
+          {"tag": "#urban-agriculture", "uses_count": 1000000}
+        ]
+      },
+      "BackyardBeekeeping": {
+        "hashtags": [
+          {"tag": "#backyardbeekeeping", "uses_count": 500000},
+          {"tag": "#hobbybeekeeping", "uses_count": 100000},
+          {"tag": "#beekeeping-for-beginners", "uses_count": 10000},
+          {"tag": "#homesteading", "uses_count": 20000000},
+          {"tag": "#self-sufficiency", "uses_count": 10000000},
+          {"tag": "#grow-your-own", "uses_count": 100000000},
+          {"tag": "#kitchen-garden", "uses_count": 10000000},
+          {"tag": "#country-living", "uses_count": 100000000},
+          {"tag": "#simple-life", "uses_count": 300000000},
+          {"tag": "#the-good-life", "uses_count": 100000000},
+          {"tag": "#homestead-honey", "uses_count": 10000},
+          {"tag": "#backyard-bounty", "uses_count": 100000},
+          {"tag": "#garden-to-table", "uses_count": 10000000},
+          {"tag": "#know-your-farmer", "uses_count": 10000000},
+          {"tag": "#support-local", "uses_count": 300000000}
+        ]
+      }
+    },
+    "Bonsai": {
+      "Bonsai": {
+        "hashtags": [
+          {"tag": "#bonsai", "uses_count": 10000000},
+          {"tag": "#bonsaitree", "uses_count": 5000000},
+          {"tag": "#bonsaiart", "uses_count": 1000000},
+          {"tag": "#miniaturetree", "uses_count": 1000000},
+          {"tag": "#penjing", "uses_count": 100000},
+          {"tag": "#shohin", "uses_count": 100000},
+          {"tag": "#mame", "uses_count": 100000},
+          {"tag": "#bonsailife", "uses_count": 1000000},
+          {"tag": "#bonsaigarden", "uses_count": 500000},
+          {"tag": "#japaneseart", "uses_count": 10000000},
+          {"tag": "#zen", "uses_count": 100000000},
+          {"tag": "#meditation", "uses_count": 500000000},
+          {"tag": "#horticulture", "uses_count": 1000000},
+          {"tag": "#plantsofinstagram", "uses_count": 500000000},
+          {"tag": "#livingart", "uses_count": 10000000}
+        ]
+      },
+      "BonsaiTree": {
+        "hashtags": [
+          {"tag": "#bonsaitree", "uses_count": 5000000},
+          {"tag": "#bonsai", "uses_count": 10000000},
+          {"tag": "#tree", "uses_count": 500000000},
+          {"tag": "#plant", "uses_count": 1000000000},
+          {"tag": "#nature", "uses_count": 1000000000},
+          {"tag": "#garden", "uses_count": 500000000},
+          {"tag": "#juniperbonsai", "uses_count": 500000},
+          {"tag": "#ficusbonsai", "uses_count": 100000},
+          {"tag": "#pinebonsai", "uses_count": 100000},
+          {"tag": "#maplebonsai", "uses_count": 100000},
+          {"tag": "#jadebonsai", "uses_count": 100000},
+          {"tag": "#bonsaicare", "uses_count": 100000},
+          {"tag": "#bonsaiwiring", "uses_count": 100000},
+          {"tag": "#bonsaipot", "uses_count": 500000},
+          {"tag": "#bonsaistand", "uses_count": 100000}
+        ]
+      },
+      "BonsaiArt": {
+        "hashtags": [
+          {"tag": "#bonsaiart", "uses_count": 1000000},
+          {"tag": "#livingart", "uses_count": 10000000},
+          {"tag": "#sculpture", "uses_count": 100000000},
+          {"tag": "#naturalsculpture", "uses_count": 1000000},
+          {"tag": "#wabisabi", "uses_count": 10000000},
+          {"tag": "#zenart", "uses_count": 1000000},
+          {"tag": "#contemplativeart", "uses_count": 10000},
+          {"tag": "#patience", "uses_count": 100000000},
+          {"tag": "#dedication", "uses_count": 100000000},
+          {"tag": "#discipline", "uses_count": 100000000},
+          {"tag": "#artofpatience", "uses_count": 10000},
+          {"tag": "#theartofbonsai", "uses_count": 10000},
+          {"tag": "#bonsaimaster", "uses_count": 100000},
+          {"tag": "#bonsaiartist", "uses_count": 100000},
+          {"tag": "#bonsaiexhibition", "uses_count": 100000}
+        ]
+      },
+      "MiniatureTree": {
+        "hashtags": [
+          {"tag": "#miniaturetree", "uses_count": 1000000},
+          {"tag": "#tinytree", "uses_count": 1000000},
+          {"tag": "#smalltree", "uses_count": 1000000},
+          {"tag": "#bonsai", "uses_count": 10000000},
+          {"tag": "#mamebonsai", "uses_count": 100000},
+          {"tag": "#shohinbonsai", "uses_count": 100000},
+          {"tag": "#fairygarden", "uses_count": 20000000},
+          {"tag": "#terrarium", "uses_count": 50000000},
+          {"tag": "#dollhouseminiatures", "uses_count": 10000000},
+          {"tag": "#model-railroad", "uses_count": 10000000},
+          {"tag": "#diorama", "uses_count": 10000000},
+          {"tag": "#scalemodel", "uses_count": 50000000},
+          {"tag": "#miniatureworld", "uses_count": 10000000},
+          {"tag": "#littlethings", "uses_count": 500000000},
+          {"tag": "#cute", "uses_count": 1500000000}
+        ]
+      },
+      "Penjing": {
+        "hashtags": [
+          {"tag": "#penjing", "uses_count": 100000},
+          {"tag": "#chinesebonsai", "uses_count": 10000},
+          {"tag": "#saikei", "uses_count": 10000},
+          {"tag": "#landscapepenjing", "uses_count": 1000},
+          {"tag": "#waterpenjing", "uses_count": 1000},
+          {"tag": "#rockpenjing", "uses_count": 1000},
+          {"tag": "#literati", "uses_count": 1000000},
+          {"tag": "#scholar-s-rock", "uses_count": 10000},
+          {"tag": "#gongshi", "uses_count": 10000},
+          {"tag": "#suiseki", "uses_count": 100000},
+          {"tag": "#viewingstone", "uses_count": 100000},
+          {"tag": "#bonsai-alternative", "uses_count": 1000},
+          {"tag": "#eastern-art", "uses_count": 1000000},
+          {"tag": "#asian-art", "uses_count": 10000000},
+          {"tag": "#cultural-art", "uses_count": 1000000}
+        ]
+      },
+      "Shohin": {
+        "hashtags": [
+          {"tag": "#shohin", "uses_count": 100000},
+          {"tag": "#shohinbonsai", "uses_count": 100000},
+          {"tag": "#mamebonsai", "uses_count": 100000},
+          {"tag": "#minibonsai", "uses_count": 500000},
+          {"tag": "#smallbonsai", "uses_count": 100000},
+          {"tag": "#palm-sized-bonsai", "uses_count": 1000},
+          {"tag": "#bonsai-display", "uses_count": 100000},
+          {"tag": "#tokonoma", "uses_count": 100000},
+          {"tag": "#kusamono", "uses_count": 100000},
+          {"tag": "#shitakusa", "uses_count": 10000},
+          {"tag": "#accent-plant", "uses_count": 100000},
+          {"tag": "#bonsai-pottery", "uses_count": 100000},
+          {"tag": "#bonsai-exhibition", "uses_count": 100000},
+          {"tag": "#kokufu-ten", "uses_count": 10000},
+          {"tag": "#gashou-ten", "uses_count": 1000}
+        ]
+      },
+      "Mame": {
+        "hashtags": [
+          {"tag": "#mame", "uses_count": 100000},
+          {"tag": "#mamebonsai", "uses_count": 100000},
+          {"tag": "#bean-sized-bonsai", "uses_count": 1000},
+          {"tag": "#tiny-bonsai", "uses_count": 100000},
+          {"tag": "#micro-bonsai", "uses_count": 10000},
+          {"tag": "#fingertip-bonsai", "uses_count": 1000},
+          {"tag": "#shohin", "uses_count": 100000},
+          {"tag": "#bonsai-collection", "uses_count": 100000},
+          {"tag": "#bonsai-addict", "uses_count": 100000},
+          {"tag": "#cute-plants", "uses_count": 10000000},
+          {"tag": "#kawaii", "uses_count": 1000000000},
+          {"tag": "#miniatures", "uses_count": 100000000},
+          {"tag": "#small-is-beautiful", "uses_count": 10000000},
+          {"tag": "#less-is-more", "uses_count": 100000000},
+          {"tag": "#minimalism", "uses_count": 100000000}
+        ]
+      },
+      "BonsaiLife": {
+        "hashtags": [
+          {"tag": "#bonsailife", "uses_count": 1000000},
+          {"tag": "#bonsailifestyle", "uses_count": 100000},
+          {"tag": "#bonsai-journey", "uses_count": 10000},
+          {"tag": "#bonsai-story", "uses_count": 10000},
+          {"tag": "#bonsai-progression", "uses_count": 10000},
+          {"tag": "#bonsai-transformation", "uses_count": 10000},
+          {"tag": "#bonsai-before-and-after", "uses_count": 10000},
+          {"tag": "#bonsai-work", "uses_count": 100000},
+          {"tag": "#bonsai-diary", "uses_count": 10000},
+          {"tag": "#bonsai-log", "uses_count": 1000},
+          {"tag": "#my-bonsai", "uses_count": 100000},
+          {"tag": "#bonsai-in-my-garden", "uses_count": 10000},
+          {"tag": "#bonsai-on-my-balcony", "uses_count": 10000},
+          {"tag": "#bonsai-on-my-desk", "uses_count": 10000},
+          {"tag": "#bonsai-every-day", "uses_count": 10000}
+        ]
+      },
+      "BonsaiGarden": {
+        "hashtags": [
+          {"tag": "#bonsaigarden", "uses_count": 500000},
+          {"tag": "#japanesegarden", "uses_count": 10000000},
+          {"tag": "#zengarden", "uses_count": 5000000},
+          {"tag": "#rockgarden", "uses_count": 10000000},
+          {"tag": "#mossgarden", "uses_count": 1000000},
+          {"tag": "#bonsai-display", "uses_count": 100000},
+          {"tag": "#bonsai-bench", "uses_count": 10000},
+          {"tag": "#bonsai-shelf", "uses_count": 10000},
+          {"tag": "#outdoor-bonsai", "uses_count": 100000},
+          {"tag": "#indoor-bonsai", "uses_count": 100000},
+          {"tag": "#bonsai-nursery", "uses_count": 100000},
+          {"tag": "#bonsai-collection", "uses_count": 100000},
+          {"tag": "#garden-design", "uses_count": 100000000},
+          {"tag": "#landscaping", "uses_count": 200000000},
+          {"tag": "#backyard-oasis", "uses_count": 10000000}
+        ]
+      },
+      "JapaneseArt": {
+        "hashtags": [
+          {"tag": "#japaneseart", "uses_count": 10000000},
+          {"tag": "#japaneseculture", "uses_count": 20000000},
+          {"tag": "#ukiyo-e", "uses_count": 1000000},
+          {"tag": "#hokusai", "uses_count": 5000000},
+          {"tag": "#hiroshige", "uses_count": 1000000},
+          {"tag": "#sumi-e", "uses_count": 1000000},
+          {"tag": "#shodo", "uses_count": 1000000},
+          {"tag": "#ikebana", "uses_count": 5000000},
+          {"tag": "#kintsugi", "uses_count": 5000000},
+          {"tag": "#origami", "uses_count": 100000000},
+          {"tag": "#kimono", "uses_count": 200000000},
+          {"tag": "#samurai", "uses_count": 200000000},
+          {"tag": "#geisha", "uses_count": 100000000},
+          {"tag": "#yokai", "uses_count": 10000000},
+          {"tag": "#irezumi", "uses_count": 20000000}
+        ]
+      }
+    },
+    "Letterboxing": {
+      "Letterboxing": {
+        "hashtags": [
+          {"tag": "#letterboxing", "uses_count": 100000},
+          {"tag": "#letterbox", "uses_count": 1000000},
+          {"tag": "#atlasquest", "uses_count": 10000},
+          {"tag": "#lbhna", "uses_count": 1000},
+          {"tag": "#stampcarving", "uses_count": 100000},
+          {"tag": "#trail-stamp", "uses_count": 1000},
+          {"tag": "#hikeandseek", "uses_count": 10000},
+          {"tag": "#clues", "uses_count": 10000000},
+          {"tag": "#logbook", "uses_count": 1000000},
+          {"tag": "#findthebox", "uses_count": 1000},
+          {"tag": "#letterboxer", "uses_count": 10000},
+          {"tag": "#letterbox-hybrid", "uses_count": 1000},
+          {"tag": "#geocaching-cousin", "uses_count": 1000},
+          {"tag": "#treasure-hunt", "uses_count": 10000000},
+          {"tag": "#adventure", "uses_count": 500000000}
+        ]
+      },
+      "Letterbox": {
+        "hashtags": [
+          {"tag": "#letterbox", "uses_count": 1000000},
+          {"tag": "#mailbox", "uses_count": 10000000},
+          {"tag": "#postbox", "uses_count": 1000000},
+          {"tag": "#snailmail", "uses_count": 50000000},
+          {"tag": "#penpals", "uses_count": 50000000},
+          {"tag": "#mailart", "uses_count": 10000000},
+          {"tag": "#happymail", "uses_count": 50000000},
+          {"tag": "#sendmoremail", "uses_count": 10000000},
+          {"tag": "#you-ve-got-mail", "uses_count": 10000000},
+          {"tag": "#letterwriting", "uses_count": 10000000},
+          {"tag": "#stationery", "uses_count": 300000000},
+          {"tag": "#vintage-postcards", "uses_count": 10000000},
+          {"tag": "#philately", "uses_count": 5000000},
+          {"tag": "#stamps", "uses_count": 100000000},
+          {"tag": "#postal-service", "uses_count": 1000000}
+        ]
+      },
+      "AtlasQuest": {
+        "hashtags": [
+          {"tag": "#atlasquest", "uses_count": 10000},
+          {"tag": "#letterboxing", "uses_count": 100000},
+          {"tag": "#letterboxing-community", "uses_count": 1000},
+          {"tag": "#letterboxing-forum", "uses_count": 100},
+          {"tag": "#letterboxing-database", "uses_count": 100},
+          {"tag": "#find-letterboxes", "uses_count": 100},
+          {"tag": "#plant-letterboxes", "uses_count": 100},
+          {"tag": "#letterboxing-events", "uses_count": 100},
+          {"tag": "#letterboxing-gatherings", "uses_count": 100},
+          {"tag": "#letterboxing-in-my-state", "uses_count": 100},
+          {"tag": "#letterboxing-in-my-country", "uses_count": 100},
+          {"tag": "#letterboxing-travels", "uses_count": 1000},
+          {"tag": "#letterboxing-adventures", "uses_count": 1000},
+          {"tag": "#letterboxing-stories", "uses_count": 100},
+          {"tag": "#letterboxing-friends", "uses_count": 1000}
+        ]
+      },
+      "LBHNA": {
+        "hashtags": [
+          {"tag": "#lbhna", "uses_count": 1000},
+          {"tag": "#letterboxing-north-america", "uses_count": 100},
+          {"tag": "#letterboxing-organization", "uses_count": 100},
+          {"tag": "#letterboxing-club", "uses_count": 100},
+          {"tag": "#letterboxing-newsletter", "uses_count": 10},
+          {"tag": "#letterboxing-wiki", "uses_count": 10},
+          {"tag": "#dartmoor-letterboxing", "uses_count": 1000},
+          {"tag": "#the-origins-of-letterboxing", "uses_count": 10},
+          {"tag": "#letterboxing-history", "uses_count": 100},
+          {"tag": "#letterboxing-traditions", "uses_count": 100},
+          {"tag": "#letterboxing-etiquette", "uses_count": 100},
+          {"tag": "#letterboxing-safety", "uses_count": 100},
+          {"tag": "#leave-no-trace", "uses_count": 100000000},
+          {"tag": "#respect-the-environment", "uses_count": 1000000},
+          {"tag": "#protect-our-parks", "uses_count": 1000000}
+        ]
+      },
+      "StampCarving": {
+        "hashtags": [
+          {"tag": "#stampcarving", "uses_count": 100000},
+          {"tag": "#handcarvedstamp", "uses_count": 100000},
+          {"tag": "#rubberstamping", "uses_count": 10000000},
+          {"tag": "#printmaking", "uses_count": 50000000},
+          {"tag": "#linocut", "uses_count": 20000000},
+          {"tag": "#blockprinting", "uses_count": 10000000},
+          {"tag": "#speedballart", "uses_count": 1000000},
+          {"tag": "#get_imprinted", "uses_count": 100000},
+          {"tag": "#carve-december", "uses_count": 10000},
+          {"tag": "#just-print-making", "uses_count": 10000},
+          {"tag": "#handmade", "uses_count": 250000000},
+          {"tag": "#diy", "uses_count": 1000000000},
+          {"tag": "#crafts", "uses_count": 500000000},
+          {"tag": "#art-and-craft", "uses_count": 100000000},
+          {"tag": "#creative-outlet", "uses_count": 10000000}
+        ]
+      },
+      "TrailStamp": {
+        "hashtags": [
+          {"tag": "#trailstamp", "uses_count": 1000},
+          {"tag": "#letterboxing-stamp", "uses_count": 100},
+          {"tag": "#passport-stamp", "uses_count": 1000000},
+          {"tag": "#national-park-passport", "uses_count": 100000},
+          {"tag": "#hiking-log", "uses_count": 10000},
+          {"tag": "#travel-journal", "uses_count": 10000000},
+          {"tag": "#adventure-log", "uses_count": 100000},
+          {"tag": "#souvenir-stamp", "uses_count": 10000},
+          {"tag": "#collect-moments-not-things", "uses_count": 100000000},
+          {"tag": "#mark-your-trail", "uses_count": 1000},
+          {"tag": "#leave-your-mark", "uses_count": 10000000},
+          {"tag": "#i-was-here", "uses_count": 100000000},
+          {"tag": "#explore-and-discover", "uses_count": 10000000},
+          {"tag": "#hiker-s-reward", "uses_count": 1000},
+          {"tag": "#trail-magic", "uses_count": 10000000}
+        ]
+      },
+      "HikeAndSeek": {
+        "hashtags": [
+          {"tag": "#hikeandseek", "uses_count": 10000},
+          {"tag": "#hideandseek", "uses_count": 50000000},
+          {"tag": "#treasurehunt", "uses_count": 10000000},
+          {"tag": "#scavengerhunt", "uses_count": 10000000},
+          {"tag": "#adventure-awaits", "uses_count": 100000000},
+          {"tag": "#get-out-and-explore", "uses_count": 10000000},
+          {"tag": "#find-me-if-you-can", "uses_count": 1000000},
+          {"tag": "#the-thrill-of-the-chase", "uses_count": 1000000},
+          {"tag": "#modern-day-treasure-hunt", "uses_count": 1000},
+          {"tag": "#outdoor-games", "uses_count": 1000000},
+          {"tag": "#family-fun", "uses_count": 1000000000},
+          {"tag": "#weekend-adventure", "uses_count": 10000000},
+          {"tag": "#microadventure", "uses_count": 10000000},
+          {"tag": "#staycation", "uses_count": 100000000},
+          {"tag": "#local-exploration", "uses_count": 1000000}
+        ]
+      },
+      "Logbook": {
+        "hashtags": [
+          {"tag": "#logbook", "uses_count": 1000000},
+          {"tag": "#journal", "uses_count": 500000000},
+          {"tag": "#notebook", "uses_count": 300000000},
+          {"tag": "#diary", "uses_count": 500000000},
+          {"tag": "#planner", "uses_count": 1000000000},
+          {"tag": "#bulletjournal", "uses_count": 500000000},
+          {"tag": "#travel-journal", "uses_count": 10000000},
+          {"tag": "#art-journal", "uses_count": 100000000},
+          {"tag": "#junk-journal", "uses_count": 50000000},
+          {"tag": "#smashbook", "uses_count": 10000000},
+          {"tag": "#commonplace-book", "uses_count": 100000},
+          {"tag": "#field-notes", "uses_count": 10000000},
+          {"tag": "#captain-s-log", "uses_count": 1000000},
+          {"tag": "#record-keeping", "uses_count": 1000000},
+          {"tag": "#documentation", "uses_count": 10000000}
+        ]
+      },
+      "FindTheBox": {
+        "hashtags": [
+          {"tag": "#findthebox", "uses_count": 1000},
+          {"tag": "#what-s-in-the-box", "uses_count": 10000000},
+          {"tag": "#mystery-box", "uses_count": 10000000},
+          {"tag": "#unboxing", "uses_count": 500000000},
+          {"tag": "#subscription-box", "uses_count": 50000000},
+          {"tag": "#surprise", "uses_count": 1000000000},
+          {"tag": "#gift", "uses_count": 1000000000},
+          {"tag": "#present", "uses_count": 500000000},
+          {"tag": "#open-me", "uses_count": 10000000},
+          {"tag": "#secret", "uses_count": 1000000000},
+          {"tag": "#hidden-gem", "uses_count": 100000000},
+          {"tag": "#discovery", "uses_count": 100000000},
+          {"tag": "#the-big-reveal", "uses_count": 1000000},
+          {"tag": "#ta-da", "uses_count": 10000000},
+          {"tag": "#voila", "uses_count": 10000000}
+        ]
+      }
+    },
+    "Historical Reenactment": {
+      "HistoricalReenactment": {
+        "hashtags": [
+          {"tag": "#historicalreenactment", "uses_count": 1000000},
+          {"tag": "#livinghistory", "uses_count": 5000000},
+          {"tag": "#reenactment", "uses_count": 10000000},
+          {"tag": "#history", "uses_count": 500000000},
+          {"tag": "#vintage", "uses_count": 500000000},
+          {"tag": "#retro", "uses_count": 300000000},
+          {"tag": "#wwiireenactment", "uses_count": 1000000},
+          {"tag": "#civilwarreenactment", "uses_count": 1000000},
+          {"tag": "#vikingreenactment", "uses_count": 1000000},
+          {"tag": "#medievalreenactment", "uses_count": 1000000},
+          {"tag": "#renaissancefaire", "uses_count": 10000000},
+          {"tag": "#sca", "uses_count": 1000000},
+          {"tag": "#larp", "uses_count": 20000000},
+          {"tag": "#cosplay", "uses_count": 1000000000},
+          {"tag": "#costume", "uses_count": 500000000}
+        ]
+      },
+      "LivingHistory": {
+        "hashtags": [
+          {"tag": "#livinghistory", "uses_count": 5000000},
+          {"tag": "#historicalreenactment", "uses_count": 1000000},
+          {"tag": "#history-comes-alive", "uses_count": 100000},
+          {"tag": "#blast-from-the-past", "uses_count": 10000000},
+          {"tag": "#step-back-in-time", "uses_count": 1000000},
+          {"tag": "#time-travel", "uses_count": 100000000},
+          {"tag": "#museum-life", "uses_count": 10000000},
+          {"tag": "#heritage-site", "uses_count": 1000000},
+          {"tag": "#historical-interpretation", "uses_count": 10000},
+          {"tag": "#first-person-interpretation", "uses_count": 1000},
+          {"tag": "#third-person-interpretation", "uses_count": 1000},
+          {"tag": "#experimental-archaeology", "uses_count": 100000},
+          {"tag": "#historical-skills", "uses_count": 100000},
+          {"tag": "#traditional-crafts", "uses_count": 10000000},
+          {"tag": "#education", "uses_count": 1000000000}
+        ]
+      },
+      "Reenactment": {
+        "hashtags": [
+          {"tag": "#reenactment", "uses_count": 10000000},
+          {"tag": "#reenactor", "uses_count": 1000000},
+          {"tag": "#reenactors-of-instagram", "uses_count": 100000},
+          {"tag": "#battle-reenactment", "uses_count": 100000},
+          {"tag": "#historical-battle", "uses_count": 100000},
+          {"tag": "#war-of-1812", "uses_count": 1000000},
+          {"tag": "#american-revolution", "uses_count": 5000000},
+          {"tag": "#english-civil-war", "uses_count": 1000000},
+          {"tag": "#napoleonic-wars", "uses_count": 1000000},
+          {"tag": "#world-war-one", "uses_count": 10000000},
+          {"tag": "#world-war-two", "uses_count": 20000000},
+          {"tag": "#vietnam-war", "uses_count": 10000000},
+          {"tag": "#historical-costuming", "uses_count": 1000000},
+          {"tag": "#period-dress", "uses_count": 1000000},
+          {"tag": "#historical-fashion", "uses_count": 5000000}
+        ]
+      },
+      "RenaissanceFaire": {
+        "hashtags": [
+          {"tag": "#renaissancefaire", "uses_count": 10000000},
+          {"tag": "#renfaire", "uses_count": 5000000},
+          {"tag": "#renaissancefestival", "uses_count": 5000000},
+          {"tag": "#huzzah", "uses_count": 1000000},
+          {"tag": "#garb", "uses_count": 1000000},
+          {"tag": "#wench", "uses_count": 10000000},
+          {"tag": "#pirate", "uses_count": 500000000},
+          {"tag": "#knight", "uses_count": 100000000},
+          {"tag": "#jousting", "uses_count": 5000000},
+          {"tag": "#turkey-leg", "uses_count": 1000000},
+          {"tag": "#mead", "uses_count": 5000000},
+          {"tag": "#ale", "uses_count": 10000000},
+          {"tag": "#faire-life", "uses_count": 100000},
+          {"tag": "#bristolrenaissancefaire", "uses_count": 100000},
+          {"tag": "#texasrenaissancefestival", "uses_count": 100000}
+        ]
+      },
+      "SCA": {
+        "hashtags": [
+          {"tag": "#sca", "uses_count": 1000000},
+          {"tag": "#societyforcreativeanachronism", "uses_count": 100000},
+          {"tag": "#mysca", "uses_count": 100000},
+          {"tag": "#heavy-combat", "uses_count": 10000},
+          {"tag": "#rapier", "uses_count": 1000000},
+          {"tag": "#archery", "uses_count": 50000000},
+          {"tag": "#thrown-weapons", "uses_count": 10000},
+          {"tag": "#equestrian", "uses_count": 50000000},
+          {"tag": "#arts-and-sciences", "uses_count": 1000000},
+          {"tag": "#scribal", "uses_count": 100000},
+          {"tag": "#heraldry", "uses_count": 1000000},
+          {"tag": "#bardic", "uses_count": 100000},
+          {"tag": "#pennsic", "uses_count": 100000},
+          {"tag": "#gulf-wars", "uses_count": 10000},
+          {"tag": "#estrella-war", "uses_count": 10000}
+        ]
+      },
+      "CivilWarReenactment": {
+        "hashtags": [
+          {"tag": "#civilwarreenactment", "uses_count": 1000000},
+          {"tag": "#americancivilwar", "uses_count": 5000000},
+          {"tag": "#unionarmy", "uses_count": 1000000},
+          {"tag": "#confederatearmy", "uses_count": 1000000},
+          {"tag": "#gettysburg", "uses_count": 10000000},
+          {"tag": "#antietam", "uses_count": 1000000},
+          {"tag": "#manassas", "uses_count": 1000000},
+          {"tag": "#shiloh", "uses_count": 1000000},
+          {"tag": "#vicksburg", "uses_count": 1000000},
+          {"tag": "#musket", "uses_count": 1000000},
+          {"tag": "#cannon", "uses_count": 10000000},
+          {"tag": "#hard-tack", "uses_count": 100000},
+          {"tag": "#sutler", "uses_count": 100000},
+          {"tag": "#living-historian", "uses_count": 100000},
+          {"tag": "#civil-war-history", "uses_count": 1000000}
+        ]
+      },
+      "WWIIReenactment": {
+        "hashtags": [
+          {"tag": "#wwiireenactment", "uses_count": 1000000},
+          {"tag": "#ww2reenactment", "uses_count": 1000000},
+          {"tag": "#worldwar2", "uses_count": 20000000},
+          {"tag": "#1940s", "uses_count": 30000000},
+          {"tag": "#allies", "uses_count": 10000000},
+          {"tag": "#axis", "uses_count": 5000000},
+          {"tag": "#d-day", "uses_count": 10000000},
+          {"tag": "#battle-of-the-bulge", "uses_count": 1000000},
+          {"tag": "#eastern-front", "uses_count": 1000000},
+          {"tag": "#pacific-theater", "uses_count": 1000000},
+          {"tag": "#gi", "uses_count": 10000000},
+          {"tag": "#wehrmacht", "uses_count": 1000000},
+          {"tag": "#red-army", "uses_count": 1000000},
+          {"tag": "#vintage-military", "uses_count": 1000000},
+          {"tag": "#historical-impression", "uses_count": 100000}
+        ]
+      },
+      "VikingReenactment": {
+        "hashtags": [
+          {"tag": "#vikingreenactment", "uses_count": 1000000},
+          {"tag": "#viking", "uses_count": 200000000},
+          {"tag": "#vikings", "uses_count": 300000000},
+          {"tag": "#norse", "uses_count": 30000000},
+          {"tag": "#pagan", "uses_count": 50000000},
+          {"tag": "#heathen", "uses_count": 10000000},
+          {"tag": "#shieldmaiden", "uses_count": 10000000},
+          {"tag": "#berserker", "uses_count": 5000000},
+          {"tag": "#longship", "uses_count": 1000000},
+          {"tag": "#viking-combat", "uses_count": 100000},
+          {"tag": "#viking-village", "uses_count": 100000},
+          {"tag": "#viking-market", "uses_count": 100000},
+          {"tag": "#jorvik", "uses_count": 1000000},
+          {"tag": "#wolin", "uses_count": 100000},
+          {"tag": "#moesgaard", "uses_count": 100000}
+        ]
+      },
+      "MedievalReenactment": {
+        "hashtags": [
+          {"tag": "#medievalreenactment", "uses_count": 1000000},
+          {"tag": "#medieval", "uses_count": 100000000},
+          {"tag": "#knight", "uses_count": 100000000},
+          {"tag": "#armor", "uses_count": 50000000},
+          {"tag": "#sword", "uses_count": 100000000},
+          {"tag": "#castle", "uses_count": 300000000},
+          {"tag": "#crusades", "uses_count": 5000000},
+          {"tag": "#hundred-years-war", "uses_count": 100000},
+          {"tag": "#war-of-the-roses", "uses_count": 1000000},
+          {"tag": "#hema", "uses_count": 5000000},
+          {"tag": "#historical-fencing", "uses_count": 1000000},
+          {"tag": "#longsword", "uses_count": 5000000},
+          {"tag": "#plate-armor", "uses_count": 1000000},
+          {"tag": "#chainmail", "uses_count": 5000000},
+          {"tag": "#feast", "uses_count": 100000000}
+        ]
+      },
+      "History": {
+        "hashtags": [
+          {"tag": "#history", "uses_count": 500000000},
+          {"tag": "#onthisday", "uses_count": 100000000},
+          {"tag": "#history-buff", "uses_count": 10000000},
+          {"tag": "#history-lover", "uses_count": 10000000},
+          {"tag": "#history-geek", "uses_count": 5000000},
+          {"tag": "#history-nerd", "uses_count": 5000000},
+          {"tag": "#ancient-history", "uses_count": 50000000},
+          {"tag": "#medieval-history", "uses_count": 10000000},
+          {"tag": "#modern-history", "uses_count": 10000000},
+          {"tag": "#military-history", "uses_count": 10000000},
+          {"tag": "#social-history", "uses_count": 1000000},
+          {"tag": "#women-s-history", "uses_count": 10000000},
+          {"tag": "#black-history", "uses_count": 100000000},
+          {"tag": "#history-podcast", "uses_count": 1000000},
+          {"tag": "#history-books", "uses_count": 5000000}
+        ]
+      }
+    }
+  },
+  "last_update": "9-14-2025"
+}

@@ -1,0 +1,464 @@
+{
+  "Celebrity": {
+    "General Celebrity": {
+      "hashtags": [
+        {
+          "tag": "#celebrity",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#celebrities",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#hollywood",
+          "uses_count": "6.0K"
+        },
+        {
+          "tag": "#famosos",
+          "uses_count": "558"
+        },
+        {
+          "tag": "#generalcelebritypro",
+          "uses_count": "11.9M"
+        },
+        {
+          "tag": "#generalcelebritylifehacks",
+          "uses_count": "3.0M"
+        },
+        {
+          "tag": "#generalcelebritysbuzz",
+          "uses_count": "9.8M"
+        },
+        {
+          "tag": "#generalcelebritybehindthescenes",
+          "uses_count": "27.9M"
+        },
+        {
+          "tag": "#generalcelebritysguide",
+          "uses_count": "46.1M"
+        },
+        {
+          "tag": "#generalcelebritytrend",
+          "uses_count": "2.8M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "17.4M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "31.5M"
+        },
+        {
+          "tag": "#generalcelebrity",
+          "uses_count": "11.2M"
+        },
+        {
+          "tag": "#shortsgeneralcelebrity",
+          "uses_count": "39.8M"
+        },
+        {
+          "tag": "#foryougeneralcelebrity",
+          "uses_count": "7.0M"
+        },
+        {
+          "tag": "#generalcelebritycreator",
+          "uses_count": "39.6M"
+        },
+        {
+          "tag": "#livestreamgeneralcelebrity",
+          "uses_count": "21.6M"
+        },
+        {
+          "tag": "#generalcelebrityreels",
+          "uses_count": "37.6M"
+        },
+        {
+          "tag": "#trendingnow",
+          "uses_count": "58.2M"
+        },
+        {
+          "tag": "#generalcelebritylive",
+          "uses_count": "14.8M"
+        },
+        {
+          "tag": "#livestream",
+          "uses_count": "12.7M"
+        },
+        {
+          "tag": "#howtogeneralcelebrity",
+          "uses_count": "29.2M"
+        }
+      ]
+    },
+    "Pop Culture & Events": {
+      "hashtags": [
+        {
+          "tag": "#metgala",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#superbowl",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#popculture",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#redcarpet",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#cultureeventstrendingnow",
+          "uses_count": "51.2M"
+        },
+        {
+          "tag": "#cultureeventsposts",
+          "uses_count": "15.0M"
+        },
+        {
+          "tag": "#cultureeventsfyp",
+          "uses_count": "20.4M"
+        },
+        {
+          "tag": "#lifehackscultureevents",
+          "uses_count": "37.8M"
+        },
+        {
+          "tag": "#cultureeventssubscribe",
+          "uses_count": "30.3M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "10.8M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "11.2M"
+        },
+        {
+          "tag": "#cultureeventsviralvideo",
+          "uses_count": "56.9M"
+        },
+        {
+          "tag": "#cultureeventshacks",
+          "uses_count": "27.6M"
+        },
+        {
+          "tag": "#foryoucultureevents",
+          "uses_count": "6.2M"
+        },
+        {
+          "tag": "#cultureeventsnewpost",
+          "uses_count": "38.4M"
+        },
+        {
+          "tag": "#eventsposts",
+          "uses_count": "29.7M"
+        },
+        {
+          "tag": "#cultureeventslearnontheinternet",
+          "uses_count": "33.1M"
+        },
+        {
+          "tag": "#dailycontentcultureevents",
+          "uses_count": "44.2M"
+        },
+        {
+          "tag": "#viralCultureevents",
+          "uses_count": "9.5M"
+        },
+        {
+          "tag": "#cultureeventslifehacks",
+          "uses_count": "43.7M"
+        },
+        {
+          "tag": "#trendingnow",
+          "uses_count": "9.6M"
+        },
+        {
+          "tag": "#likeandsharecultureevents",
+          "uses_count": "17.9M"
+        }
+      ]
+    },
+    "Fan Community": {
+      "hashtags": [
+        {
+          "tag": "#fan",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#fans",
+          "uses_count": "1.7K"
+        },
+        {
+          "tag": "#fandom",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#loveyou",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#fancommunitycreators",
+          "uses_count": "20.5M"
+        },
+        {
+          "tag": "#viralFancommunity",
+          "uses_count": "67.0M"
+        },
+        {
+          "tag": "#fancommunitylive",
+          "uses_count": "5.8M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "16.7M"
+        },
+        {
+          "tag": "#fancommunitytrend",
+          "uses_count": "5.4M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "28.0M"
+        },
+        {
+          "tag": "#fancommunity",
+          "uses_count": "24.1M"
+        },
+        {
+          "tag": "#fancommunitychallenge",
+          "uses_count": "23.4M"
+        },
+        {
+          "tag": "#fancommunityzone",
+          "uses_count": "26.0M"
+        },
+        {
+          "tag": "#growthtipsfancommunity",
+          "uses_count": "16.6M"
+        },
+        {
+          "tag": "#fancommunityforyou",
+          "uses_count": "37.6M"
+        },
+        {
+          "tag": "#fancommunitynewpost",
+          "uses_count": "13.1M"
+        },
+        {
+          "tag": "#fancommunityreels",
+          "uses_count": "77.7M"
+        },
+        {
+          "tag": "#dailycontentfancommunity",
+          "uses_count": "16.3M"
+        },
+        {
+          "tag": "#fancommunitylifehacks",
+          "uses_count": "43.1M"
+        },
+        {
+          "tag": "#newpostfancommunity",
+          "uses_count": "30.5M"
+        },
+        {
+          "tag": "#trendingnow",
+          "uses_count": "38.6M"
+        },
+        {
+          "tag": "#fancommunityfollowformore",
+          "uses_count": "24.9M"
+        }
+      ]
+    },
+    "Biographies & Lifestyle": {
+      "hashtags": [
+        {
+          "tag": "#actor",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#actress",
+          "uses_count": "9M"
+        },
+        {
+          "tag": "#singer",
+          "uses_count": "73M"
+        },
+        {
+          "tag": "#musician",
+          "uses_count": "50M"
+        },
+        {
+          "tag": "#biographieslifestylesguide",
+          "uses_count": "8.5M"
+        },
+        {
+          "tag": "#biographieslifestyleszone",
+          "uses_count": "41.9M"
+        },
+        {
+          "tag": "#biographieslifestyletalk",
+          "uses_count": "7.3M"
+        },
+        {
+          "tag": "#biographiesposts",
+          "uses_count": "42.0M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "32.4M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "38.8M"
+        },
+        {
+          "tag": "#biographies",
+          "uses_count": "26.1M"
+        },
+        {
+          "tag": "#biographieslifestylefollowformore",
+          "uses_count": "56.1M"
+        },
+        {
+          "tag": "#biographieslifestylelikeandshare",
+          "uses_count": "37.0M"
+        },
+        {
+          "tag": "#biographieslifestylelive",
+          "uses_count": "5.7M"
+        },
+        {
+          "tag": "#livestreambiographieslifestyle",
+          "uses_count": "19.4M"
+        },
+        {
+          "tag": "#lifehacksbiographieslifestyle",
+          "uses_count": "2.7M"
+        },
+        {
+          "tag": "#biographieslifestylecreators",
+          "uses_count": "5.8M"
+        },
+        {
+          "tag": "#reelsbiographieslifestyle",
+          "uses_count": "47.3M"
+        },
+        {
+          "tag": "#biographieslifestyletipsandtricks",
+          "uses_count": "22.8M"
+        },
+        {
+          "tag": "#biographieslifestyleguide",
+          "uses_count": "53.6M"
+        },
+        {
+          "tag": "#trendingnow",
+          "uses_count": "36.1M"
+        },
+        {
+          "tag": "#livestream",
+          "uses_count": "23.6M"
+        }
+      ]
+    },
+    "Specific Personalities": {
+      "hashtags": [
+        {
+          "tag": "#jungkook",
+          "uses_count": "75M"
+        },
+        {
+          "tag": "#taylorswift",
+          "uses_count": "23.7M"
+        },
+        {
+          "tag": "#harrystyles",
+          "uses_count": "41.3M"
+        },
+        {
+          "tag": "#selenagomez",
+          "uses_count": "25.5M"
+        },
+        {
+          "tag": "#likeandsharespecificpersonalities",
+          "uses_count": "77.2M"
+        },
+        {
+          "tag": "#dailycontentspecificpersonalities",
+          "uses_count": "12.1M"
+        },
+        {
+          "tag": "#howtoSpecificpersonalities",
+          "uses_count": "17.1M"
+        },
+        {
+          "tag": "#personalities",
+          "uses_count": "12.8M"
+        },
+        {
+          "tag": "#specificpersonalitiesposts",
+          "uses_count": "21.0M"
+        },
+        {
+          "tag": "#behindthescenes",
+          "uses_count": "23.3M"
+        },
+        {
+          "tag": "#specificposts",
+          "uses_count": "34.1M"
+        },
+        {
+          "tag": "#bestpractices",
+          "uses_count": "39.8M"
+        },
+        {
+          "tag": "#communityspecificpersonalities",
+          "uses_count": "14.9M"
+        },
+        {
+          "tag": "#specificpersonalitiesexpert",
+          "uses_count": "38.9M"
+        },
+        {
+          "tag": "#specificpersonalitiesnewpost",
+          "uses_count": "3.5M"
+        },
+        {
+          "tag": "#subscribespecificpersonalities",
+          "uses_count": "66.8M"
+        },
+        {
+          "tag": "#specificpersonalitieslivestream",
+          "uses_count": "34.5M"
+        },
+        {
+          "tag": "#creatorsspecificpersonalities",
+          "uses_count": "7.4M"
+        },
+        {
+          "tag": "#specificpersonalitiesforyou",
+          "uses_count": "29.4M"
+        },
+        {
+          "tag": "#contentcreatorspecificpersonalities",
+          "uses_count": "29.9M"
+        },
+        {
+          "tag": "#shortsspecificpersonalities",
+          "uses_count": "35.9M"
+        },
+        {
+          "tag": "#learnontheinternetspecificpersonalities",
+          "uses_count": "39.6M"
+        }
+      ]
+    }
+  }
+}

@@ -2,14 +2,14 @@ name: Update JSON Data Weekly
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # Runs every Sunday at midnight UTC
-  workflow_dispatch: # Allows manual triggering
+    - cron: '0 */5 * * *'
+  workflow_dispatch:
 
 jobs:
-  update-json:
+  run-data-processing:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Required for committing changes
+      contents: write
 
     steps:
       - name: Checkout Repository
@@ -17,27 +17,19 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          node-version: '20'
+          python-version: '3.10'
 
       - name: Install Gemini CLI
         run: npm install -g @google/gemini-cli
 
-      - name: Update JSON with Gemini CLI
+      - name: Run main.py script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
-        run: |
-          GEMINI_OUTPUT=$(gemini -y -p "update the hashtags.json file")
-         
-          # Use awk to find and print the first complete JSON object.
-          echo "$GEMINI_OUTPUT" | awk '/^{/,/}$/{
-              if ($0 ~ /^{/) { start=1; json_content="" }
-              if (start) { json_content = json_content $0 }
-              if ($0 ~ /}$/) { print json_content; exit }
-          }' | jq '.' > hashtags.json
+        run: python main.py
 
       - name: Commit and Push Changes
         run: |
