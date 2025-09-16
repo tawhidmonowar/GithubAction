@@ -17,6 +17,7 @@ SYSTEM_INSTRUCTION = (
     "- Return ONLY valid JSON. No prose, no markdown, no code fences.\n"
     "- Keep the same top-level structure (object vs array) unless the content is clearly invalid.\n"
     "- Update hashtags with uses counts.\n"
+    "- For each hashtags add a new field below uses_count, name popularity range (1-100) make sure it relevant to all social media"
     "- If something is missing, infer reasonable values, but remain consistent and realistic.\n"
     "- Do not add commentary."
 )
